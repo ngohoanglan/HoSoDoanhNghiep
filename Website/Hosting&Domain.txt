@@ -1,0 +1,32 @@
+Đây là thông tin quản lý tên miền của quý khách:
+
+Tên miền: thanhlapdoanhnghiepbinhduong.com
+Mật khẩu Domain: Vc49deJ6AjDQ7b4
+Liên kết đăng nhập: https://zonedns.vn
+
+
+
+Thông tin quản lý Hosting:
+Thông tin Server	Trang quản lý Hosting
+Tên server	wordpress-hosting08
+Control panel:
+https://103.28.36.200:2083
+hoặc https://thanhlapdoanhnghiepbinhduong.com:2083
+*Lưu ý: Quý khách thay "hxxp" bằng "http" khi truy cập
+(Hướng dẫn sử dụng Hosting)
+Loại máy chủ	Server API
+Địa chỉ IP	103.28.36.200
+Username	nhthawwx
+Control panel	cPanel
+Password	5z@KDu!5DuwT2!7
+Tài khoản FTP	Server email
+FTP Server	103.28.36.200 hoặc ftp.thanhlapdoanhnghiepbinhduong.com	POP Server	mail.thanhlapdoanhnghiepbinhduong.com
+Username	nhthawwx
+SMTP Server	mail.thanhlapdoanhnghiepbinhduong.com
+Password	5z@KDu!5DuwT2!7
+
+Thông tin DNS
+NS1	
+NS2	
+NS1 IP	103.28.36.200
+NS2 IP	103.28.36.200
