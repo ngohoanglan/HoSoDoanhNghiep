@@ -1,26 +1,58 @@
 Tên công ty: CÔNG TY TNHH XNK THỰC PHẨM SONG DƯƠNG 
 Tên công ty viết bằng tiếng nước ngoài: SONG DUONG XNK FOOD COMPANY
-Địa chỉ trụ sở chính 
-Số 9e/1l, Khu Dân cư Đồng An 2, Đường Bình Hoà 24., Phường Bình Hòa, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam
+Mã số doanh nghiệp: 3703121469 
+Địa chỉ trụ sở chính : Số 9e/1l, Khu Dân cư Đồng An 2, Đường Bình Hoà 24., Phường Bình Hòa, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam
 Điện thoại: 0906.919.222
 Vốn điều lệ : 18.000.000.000 đồng. 
 Bằng chữ: Mười tám tỷ đồng
 
-Danh sách thành viên góp vốn
-4. Danh sách thành viên góp vốn
-
-STT	Tên thành viên	Quốc tịch	Địa chỉ liên lạc đối với cá nhân; địa chỉ trụ sở chính đối với tổ chức	Phần vốn góp (VNĐ và giá trị tương đương theo đơn vị tiền nước ngoài, nếu có)	Tỷ lệ (%)	Số Giấy tờ pháp lý của cá nhân; Mã số doanh nghiệp đối với doanh nghiệp; Số Giấy tờ pháp lý của tổ chức	Ghi chú
-1	LÊ VĂN LONG	Việt Nam	Thôn 3, Xã Xuân Hồng, Huyện Thọ Xuân, Tỉnh Thanh Hoá, Việt Nam	9.000.000.000	50,000	03808009 310	
-2	LÊ VĂN GIANG	Việt Nam	Thôn 2, Xã Xuân Hồng, Huyện Thọ Xuân, Tỉnh Thanh Hoá, Việt Nam	9.000.000.000	50,000	038092030 361
-
+Người dại diện theo pháp luật của công ty 
+Họ và tên: LÊ VĂN GIANG 
+Chức danh: Chủ tịch Hội đồng thành viên kiêm Giám đốc
+Sinh ngày: 20/09/1992 
+Dân tộc: Kinh 
+Thẻ căn cước công dân: 038092030361 
+Ngày cấp: 13/01/2022
+Địa chỉ thường trú: Thôn 2, Xã Xuân Hồng, Huyện Thọ Xuân, Tỉnh Thanh Hoá, Việt 
+Nam 
+Địa chỉ liên lạc: Thôn 2, Xã Xuân Hồng, Huyện Thọ Xuân, Tỉnh Thanh Hoá, Việt Nam 
 
 
 LÊ DUY HẬU
+Ngày sinh 02/10/1994
 CĂN CƯỚC CÔNG DÂN: 038094009750
 Ngày cấp 21/06/2023
-Ngày sinh02/10/1994
+
 Giới tính Nam Quốc tịch: Việt Nam
 Quê quán / Place of origin:
 Thiệu Trung, Thiệu Hóa, Thanh Hóa
 Nơi thường trú I Place of residence: Thôn 4
 Thiệu Trung, Thiệu Hóa, Thanh Hóa
+
+Ngày văn bản: Ngày 26 tháng 5 năm 2025
+
+
+
+Họ tên:	LÊ VĂN LONG
+Giới tính:	Nam 
+Ngày sinh:	19/03/1988 
+Quốc tịch:	Việt Nam 
+Dân tộc:	Kinh  
+Số Giấy tờ pháp lý của cá nhân:	038088009310
+Ngày cấp:	12/07/2024
+
+Tổng vốn góp: 18.000.000.000 VNĐ
+Tỷ lệ góp vốn:
+
+Lê Văn Long: 50%
+
+Lê Văn Giang: 30%
+
+Lê Duy Hậu: 20%
+
+Tính số tiền từng người góp vốn:
+Lê Văn Long= 50% × 18.000.000.000 = 9.000.000.000 VNĐ
+
+Lê Văn Giang= 30% × 18.000.000.000 = 5.400.000.000 VNĐ
+
+Lê Duy Hậu:= 20% × 18.000.000.000 = 3.600.000.000 VNĐ
