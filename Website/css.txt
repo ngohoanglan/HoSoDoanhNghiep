@@ -1,0 +1,18 @@
+.flexslider,
+.wpb_gallery_slides {
+    aspect-ratio: 1920 / 650;  /* Giữ tỷ lệ */
+    min-height: 650px;         /* Fallback */
+    overflow: hidden;
+    position: relative;
+}
+.flexslider .slides img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .flexslider .slides img {
+        object-fit: contain;
+    }
+}

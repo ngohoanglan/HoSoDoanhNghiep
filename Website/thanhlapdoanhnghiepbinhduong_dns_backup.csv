@@ -1,0 +1,4 @@
+Host,Type,Value,TTL
+@,A,103.28.36.200,300
+www,A,103.28.36.200,300
+_acme-challenge.thanhlapdoanhnghiepbinhduong.com,TXT,"""G4jtAOwTeWxIBuGt1qAIsMNlTK-dr_PCKJhF5v1QMxA""",300
