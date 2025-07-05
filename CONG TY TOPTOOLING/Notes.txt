@@ -5,7 +5,7 @@ Mã số doanh nghiệp: 3703235226
 Tên công bằng tiếng Việt: CÔNG TY TNHH TOP TOOLING
 Tên công ty viết bằng tiếng nước ngoài: TOP TOOLING COMPANY LIMITED
 Tên công ty viết tắt: TOP TOOLING CO.,LTD 
-Địa chỉ trụ sở chính: TĐS 809, TBĐ 07 Tân Phước Khánh 54, Kp Bình Hòa 2, Phường Tân Phước Khánh, Thành phố Tân Uyên, Tỉnh Bình Dương, Việt Nam 
+Địa chỉ trụ sở chính: TĐS 809, TBĐ 07 Tân Phước Khánh 54, Kp Bình Hòa 2, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam 
 Điện thoại: 0397233898
 Vốn điều lệ : 7.650.000.000 đồng. Bằng chữ: Bảy tỷ sáu trăm năm mươi triệu đồng
 
@@ -28,3 +28,4 @@ Ngày cấp: 15/06/2020
 Nơi cấp: Cơ quan Ngoại giao Đài Loan
 Địa chỉ thường trú: No. 10, Daohua St., Xinfeng Township, Hsinchu County 304110, Taiwan (R.O.C.), Trung Quốc (Đài Loan)
 Địa chỉ liên lạc: 16C VSIP II-A đường Hòa Bình, Khu công nghiệp VSIP II-A, Phường Vĩnh Tân, Thành phố Tân Uyên, Tỉnh Bình Dương, Việt Nam
+Số điện thoại:0907655688
