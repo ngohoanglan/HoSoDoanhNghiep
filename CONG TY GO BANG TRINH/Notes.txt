@@ -4,8 +4,7 @@ Mã số doanh nghiệp: 3703273817
 Tên công bằng tiếng Việt: CÔNG TY TNHH THƯƠNG MẠI GỖ BẰNG TRÌNH
 Tên công ty viết bằng tiếng nước ngoài: BANG TRINH WOOD TRADING
 Tên công ty viết tắt: BẰNG TRÌNH CO.,LTD 
-Địa chỉ trụ sở chính: Số 240, Nguyễn Văn Linh, Kp. Tân Long, Phường Tân Hiệp, Thành phố Tân Uyên, Tình 
-Bình Dương, Việt Nam 
+Địa chỉ trụ sở chính: Số 240, Nguyễn Văn Linh, Kp. Tân Long, Phường Tân Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương, Việt Nam 
 Địa chỉ trụ sở chính mới: Số 240, Đường Nguyễn Văn Linh, Khu phố Tân Long, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam
 Điện thoại: 0937494313 
 Email: gobangtrinh@gmail.com
@@ -22,6 +21,18 @@ Ngày cấp: 04/03/2022
 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội 
 Địa chỉ thường trú: Áp 6 Đinh , Xã An Biên, Tỉnh An Giang, Việt Nam
 Địa chỉ liên lạc: Khu phố 2, Phường Bình Dương, thành phố Hồ Chí Minh, Việt Nam
+
+Chủ sở hữu hưởng lợi:
+Họ và tên: VÕ THỊ YẾN NHI
+Giới tính: Nữ
+Ngày sinh: 10/12/1998
+Quốc tịch: Việt Nam
+Thẻ căn cước công dân 
+Số giấy tờ pháp lý của cá nhân: 091198001948
+Ngày cấp: 04/03/2022 
+Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội 
+Địa chỉ thường trú: Áp 6 Đinh , Xã An Biên, Tỉnh An Giang, Việt Nam
+Quyền chi phối:	Bổ nhiệm, miễn nhiệm hoặc bãi nhiệm đa số hoặc tất cả thành viên hội đồng quản trị, giám đốc hoặc tổng giám đốc của doanh nghiệp
 
 Người đại diện theo pháp luật hiện tại của công ty 
 Họ và tên: ZHU, CHANGJUN
@@ -49,4 +60,4 @@ Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
 Địa chỉ liên lạc: Khu phố 2, Phường Bình Dương, thành phố Hồ Chí Minh, Việt Nam
 
 Nơi nhận văn bản: Phòng đăng ký kinh doanh thành Phố Hồ Chí Minh
-Ngày văn bản 10/07/2025
+Ngày văn bản 11/07/2025
