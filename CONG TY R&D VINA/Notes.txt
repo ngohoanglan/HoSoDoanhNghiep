@@ -7,7 +7,7 @@ Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MTV R&D VINA.
  
 
 2. Địa chỉ trụ sở chính
-11/160B, Khu Phố Hòa Lân 2, Phường Thuận Giao, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam
+11/160B, Khu Phố Hòa Lân 2, Phường Thuận Giao, Thành phố Hồ Chí Minh, Việt Nam
 Điện thoại: 0388.982.828
 
 3. Vốn điều lệ:
@@ -34,13 +34,13 @@ Ngày cấp: 05/11/2022
 
 Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 
-Địa chỉ thường trú: Ấp Tây Minh, Xã Lang Minh, Huyện Xuân Lộc, Tỉnh Đồng Nai, Việt Nam
+Địa chỉ thường trú: Ấp Tây Minh, Xã Xuân Phú, Tỉnh Đồng Nai, Việt Nam
 
-Địa chỉ liên lạc: 59/28 Khu Phố Bình Phước B, Phường Bình Chuẩn, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam
+Địa chỉ liên lạc: 59/28 Khu Phố Bình Phước B, phường An Phú, thành phố Hồ Chí Minh, Việt Nam
 
 
 Chủ sở hữu mới:
-Số: 040194029133
+
 
 Họ và tên: NGUYỄN THỊ DƯƠNG
 
@@ -53,6 +53,8 @@ Quốc tịch: Việt Nam
 Quê quán: Diễn Phú, Diễn Châu, Nghệ An
 
 Nơi thường trú: Xóm 1, Hưng Lợi, Hưng Nguyên, Nghệ An
+
+CCCD Số: 040194029133
 
 Ngày cấp: 01/03/2022
 
