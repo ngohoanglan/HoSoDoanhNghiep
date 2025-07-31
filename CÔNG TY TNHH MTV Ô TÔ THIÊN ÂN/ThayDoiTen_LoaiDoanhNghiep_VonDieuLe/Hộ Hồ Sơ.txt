@@ -7,15 +7,11 @@ Danh sách biểu mẫu:
 6. Hợp đồng góp vốn của thành viên mới
 
 =========
-Thành lập công ty
-Thông tin công ty:CÔNG TY TNHH TM DV Ô TÔ THIÊN ÂN
-Thành lập trên cơ sở chuyển đổi loại hình doanh nghiệp: CÔNG TY TNHH MTV Ô TÔ THIÊN ÂN
+ 
+Thông tin công ty:CÔNG TY TNHH TM DV Ô TÔ THIÊN ÂN 
 Mã số doanh nghiệp: 3703353854
-
-
-Tên nước ngoài:
-Trụ sở: 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
-Vốn điều lệ: 1.000.000.000 đồng (viết bằng chữ: Một tỷ đồng chẵn)
+Trụ sở: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Vốn điều lệ: 1.500.000.000 đồng (viết bằng chữ: Một tỷ năm trăm triệu đồng chẵn)
 Điện thoại: 0933929787 
 Email: congtyotothienan@gmail.com
 
@@ -42,10 +38,8 @@ Nơi thường trú:   Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu ph�
 Địa chỉ liên lạc: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
 Điện thoại: 0933929787 
 Email: congtyotothienan@gmail.com
-
-
-Ngày trên các văn vản: ngày 12 tháng 7 năm 2025
-Nơi nhận: Phòng đăng kí kinh doanh Thành Phố Hồ Chí Minh
+Góp vốn: 1.000.000.000 VNĐ
+Ngày góp vốn: 23/07/2025
 
 
 ===========
@@ -60,5 +54,12 @@ Ngày sinh: 18/07/1991
 Giới tính: Nữ
 Quốc tịch: Việt Nam
 Quê quán: Hải Định, Hải Lăng, Quảng Trị
-Nơi thường trú: Số 92/49/7/15 khu phố Chiêu Liêu, phường Dĩ An, thành phố Hồ Chí Minh
+Nơi thường trú: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
 Địa chỉ liên lạc: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Góp vốn: 500.000.000 VNĐ
+Ngày góp vốn: 01/08/2025
+
+
+
+Ngày trên các văn vản: ngày 1 tháng 8 năm 2025
+Nơi nhận: Phòng đăng kí kinh doanh Thành Phố Hồ Chí Minh
