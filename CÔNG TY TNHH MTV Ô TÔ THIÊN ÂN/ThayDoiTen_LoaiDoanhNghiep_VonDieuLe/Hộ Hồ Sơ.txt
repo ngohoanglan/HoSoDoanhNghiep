@@ -1,13 +1,15 @@
-1. Mẫu 12
+Danh sách biểu mẫu:
+1. Mẫu số 3
 2. Mẫu số 6 Phụ lục I 
 3. Mẫu số 10 
-
+4. Điều lệ công ty TNHH hai thành viên trở lên
+5. CCCD của người đại diện pháp luật và các thành viên
+6. Hợp đồng góp vốn của thành viên mới
 
 =========
-
-Thông tin công ty:
-Tên công ty: CÔNG TY TNHH MTV Ô TÔ THIÊN ÂN
-Tên công ty sau khi đổi: CÔNG TY TNHH TM DV Ô TÔ THIÊN ÂN
+Thành lập công ty
+Thông tin công ty:CÔNG TY TNHH TM DV Ô TÔ THIÊN ÂN
+Thành lập trên cơ sở chuyển đổi loại hình doanh nghiệp: CÔNG TY TNHH MTV Ô TÔ THIÊN ÂN
 Mã số doanh nghiệp: 3703353854
 
 
@@ -24,8 +26,8 @@ Ngày sinh: 26/03/1985
 Căn cước: 046085001338
 ngày cấp:  26/03/2025
 Nơi cấp: Bộ Công An
-Nơi thường trú:   92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
-Địa chỉ liên lạc: 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Nơi thường trú:   Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Địa chỉ liên lạc: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
 Điện thoại: 0933929787 
 Email: congtyotothienan@gmail.com
 
@@ -36,8 +38,8 @@ Ngày sinh: 26/03/1985
 Căn cước: 046085001338
 ngày cấp:  26/03/2025
 Nơi cấp: Bộ Công An
-Nơi thường trú:   92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
-Địa chỉ liên lạc: 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Nơi thường trú:   Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
+Địa chỉ liên lạc: Số 92/49/7/15, Đường Nguyễn Thị Chạy Khu phố Chiêu Liêu, Phường Dĩ An, Thành phố Hồ Chí Minh
 Điện thoại: 0933929787 
 Email: congtyotothienan@gmail.com
 
