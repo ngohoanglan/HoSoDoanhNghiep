@@ -6,7 +6,7 @@ Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH VENUS FURNISHER
 Tên công ty viết bằng tiếng nước ngoài: VENUS FURNISHER COMPANY LIMITED
 Tên công ty viết tắt: VENUS FURNISHER CO., LTD
 2. Địa chỉ trụ sở chính
-Số 883/23 Lê Hồng Phong, Khu 07, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam
+Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
 Điện thoại: 0854897783
 3. Vốn điều lệ: 500.000.000 đồng
 Bằng chữ: Năm trăm triệu đồng
@@ -19,11 +19,24 @@ Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
 Số giấy tờ pháp lý của cá nhân: 074183004018
 Ngày cấp: 20/03/2023  Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Địa chỉ thường trú:
-Số 34/70, Tổ 3, Khu 3, Phường Phú Hòa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam
+Số 34/70, Tổ 3, Khu 3, Phường Phú Lợi, Thành phố Hồ Chí Minh, Việt Nam
 Địa chỉ liên lạc:
-Số 883/23 Lê Hồng Phong, Khu 07, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam
+Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
 
-Họ tên: YEOH ZHONG XIANG
+Danh sách thành viên:
+1. Họ và tên: TRẦN THỊ THU HIỀN  Giới tính: Nữ 
+Sinh ngày: 20/10/1983  Dân tộc: Kinh  Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 074183004018
+Ngày cấp: 20/03/2023  Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú:
+Số 34/70, Tổ 3, Khu 3, Phường Phú Lợi, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ liên lạc:
+Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
+Số tiền góp vốn: 300.000.000 VNĐ(Bằng chữ: Ba trăm triệu đồng)
+Ngày góp vốn: 16/09/2020
+
+2. Họ tên: YEOH ZHONG XIANG
 Quốc tịch: Malaysia
 Ngày sinh: 06/08/1985
 Giới tính: Nam
@@ -31,5 +44,23 @@ Nơi sinh: Perak
 Số hộ chiếu: A62833793
 Ngày cấp: 24/12/2024
 Nơi cấp: Kelana Jaya
-Mã quốc gia: MYS
-Loại hộ chiếu: P
+Địa chỉ liên lạc:
+Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
+Số tiền góp vốn: 200.000.000 VNĐ(Bằng chữ: Hai trăm triệu đồng)
+Ngày góp vốn: 07/08/2025
+
+Thông tin người bán vốn:
+
+Họ tên: PHẠM THỊ HỒNG CẨM
+Giới tính: Nữ
+Ngày sinh: 07/12/1987
+Quốc tịch: Việt Nam
+Dân tộc: Kinh
+Loại giấy tờ pháp lý: Thẻ căn cước công dân
+Số CCCD: 080187016482
+Ngày cấp: 09/08/2021
+Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú: Ấp 1, Xã Tân Trụ, tỉnh Tây Ninh,Việt Nam
+
+
+Ngày văn bản:Thành phố Hồ Chí Minh, ngày 7 tháng 8 năm 2025
