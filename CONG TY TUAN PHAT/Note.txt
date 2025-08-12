@@ -20,7 +20,7 @@ Số CCCD: 038089000721
 Ngày cấp: 11/08/2021
 Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Địa chỉ:
-Thường trú: Hồng Phong 1, Phường Hải Ninh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam
+Thường trú: Hồng Phong 1, Phường Ngọc Sơn, Tỉnh Thanh Hóa, Việt Nam
 Liên lạc: 109, Đường Số 8, Khu Phố 3, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
 
 5. Đại diện pháp luật:
@@ -36,7 +36,7 @@ Số: 038089000721
 Ngày cấp: 11/08/2021
 Nơi cấp: Cục Cảnh sát Quản lý hành chính về trật tự xã hội
 Địa chỉ:
-Thường trú: 109, Đường Số 8, Khu Phố 3, Phường Hải Ninh, Thị xã Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam
+Thường trú: Hồng Phong 1, Phường Ngọc Sơn, Tỉnh Thanh Hóa, Việt Nam
 Liên lạc: 109, Đường Số 8, Khu Phố 3, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
 
 
@@ -58,3 +58,5 @@ Nội dung thay doi:
 2. Thay doi dại diện pháp luật
 3. thay doi dia chi trụ sở
 4. thay doi so dien thoai cong ty
+
+Ngày trên văn bản: 12/08/2025
