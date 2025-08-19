@@ -8,7 +8,7 @@ Tên công ty viết tắt: VENUS FURNISHER CO., LTD
 2. Địa chỉ trụ sở chính
 Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
 Điện thoại: 0854897783
-3. Vốn điều lệ: 500.000.000 đồng
+3. Vốn điều lệ hiện tại: 500.000.000 đồng
 Bằng chữ: Năm trăm triệu đồng
 
 Người đại diện theo pháp luật của công ty
@@ -23,7 +23,7 @@ Số 34/70, Tổ 3, Khu 3, Phường Phú Lợi, Thành phố Hồ Chí Minh, Vi
 Địa chỉ liên lạc:
 Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
 
-Danh sách thành viên:
+Danh sách thành viên hiện tại:
 1. Họ và tên: TRẦN THỊ THU HIỀN  Giới tính: Nữ 
 Sinh ngày: 20/10/1983  Dân tộc: Kinh  Quốc tịch: Việt Nam
 Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
@@ -33,25 +33,10 @@ Ngày cấp: 20/03/2023  Nơi cấp: Cục Cảnh sát quản lý hành chí
 Số 34/70, Tổ 3, Khu 3, Phường Phú Lợi, Thành phố Hồ Chí Minh, Việt Nam
 Địa chỉ liên lạc:
 Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
-Số tiền góp vốn: 300.000.000 VNĐ(Bằng chữ: Ba trăm triệu đồng)
+Số tiền góp vốn: 250.000.000 VNĐ(Bằng chữ: Hai trăm năm mươi triệu đồng)
 Ngày góp vốn: 16/09/2020
 
-2. Họ tên: YEOH ZHONG XIANG
-Quốc tịch: Malaysia
-Ngày sinh: 06/08/1985
-Giới tính: Nam
-Nơi sinh: Perak
-Hộ chiếu nước ngoài: A62833793
-Ngày cấp: 24/12/2024
-Nơi cấp: Kelana Jaya
-Địa chỉ liên lạc:
-Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
-Số tiền góp vốn: 200.000.000 VNĐ(Bằng chữ: Hai trăm triệu đồng)
-Ngày góp vốn: 25/08/2025
-
-Thông tin người bán vốn:
-
-Họ tên: PHẠM THỊ HỒNG CẨM
+2. Họ tên: PHẠM THỊ HỒNG CẨM
 Giới tính: Nữ
 Ngày sinh: 07/12/1987
 Quốc tịch: Việt Nam
@@ -61,6 +46,28 @@ Số CCCD: 080187016482
 Ngày cấp: 09/08/2021
 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
 Địa chỉ thường trú: Ấp 1, Xã Tân Trụ, tỉnh Tây Ninh,Việt Nam
+Số tiền góp vốn: 250.000.000 VNĐ(Bằng chữ: Hai trăm năm mươi triệu đồng)
+
+Thành viên mới tham gia:
+Họ tên: YEOH ZHONG XIANG
+Quốc tịch: Malaysia
+Ngày sinh: 06/08/1985
+Giới tính: Nam
+Nơi sinh: Perak
+Hộ chiếu nước ngoài: A62833793
+Ngày cấp: 24/12/2024
+Nơi cấp: Kelana Jaya
+Địa chỉ liên lạc:
+Số 883/23 Lê Hồng Phong, Khu 07, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
+
+
+
+
+Nội dung thay đổi:
+1. PHẠM THỊ HỒNG CẨM bán toàn bộ vốn 250.000.000 VNĐ chiếm 50% vốn điều lệ cho cho YEOH ZHONG XIANG
+2. YEOH ZHONG XIANG góp thêm 2.250.000.000 VNĐ nâng tổng số vốn thành 2.500.000.000 VNĐ
+3. TRẦN THỊ THU HIỀN góp thêm 2.250.000.000 VNĐ nâng tổng số vốn thành 2.500.000.000 VNĐ
+
 
 
 Ngày văn bản:Thành phố Hồ Chí Minh, ngày 25 tháng 8 năm 2025
