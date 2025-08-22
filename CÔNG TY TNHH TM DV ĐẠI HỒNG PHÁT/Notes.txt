@@ -17,8 +17,35 @@ CCCD: 075095012346
 Ngày cấp: 22/08/2022
 Nơi cấp: Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 
-địa chỉ Thường trú: Ấp Tân Bảo, xã Cẩm Mỹ, tỉnh Đồng Nai
-địa chỉ Liên lạc: Đường NL2, Tổ 4, Khu phố 4, Phường Thới Hòa, Thành phố Hồ Chí Minh 
+Địa chỉ Thường trú: Ấp Tân Bảo, xã Cẩm Mỹ, tỉnh Đồng Nai
+Địa chỉ Liên lạc: Đường NL2, Tổ 4, Khu phố 4, Phường Thới Hòa, Thành phố Hồ Chí Minh 
 
 Ngày trên các văn vản: ngày 22 tháng 8 năm 2025
 Nơi nhận: Phòng đăng kí kinh doanh Thành Phố Hồ Chí Minh
+
+
+Ngành nghề:
+Mã	Ngành
+1812	Dịch vụ liên quan đến in
+2592	Gia công cơ khí; xử lý và tráng phủ kim loại
+Chi tiết : Gia công khuôn mẫu các loại ,ống khí ,máy nén khí …
+4299	Xây dựng công trình kỹ thuật dân dụng khác
+4321	Lắp đặt hệ thống điện
+4322	Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí
+4610	Đại lý, môi giới, đấu giá
+4620	Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống
+4641	Bán buôn vải, hàng may sẵn, giày dép
+4649	Bán buôn đồ dùng khác cho gia đình
+4652	Bán buôn thiết bị và linh kiện điện tử, viễn thông
+4659	Bán buôn máy móc, thiết bị và phụ tùng máy khác
+Chi tiết : Bán buôn máy móc,thiết bị điện,vật liệu điện (máy phát điện ,động cơ điện ,dây điện và thiết bị khác dùng trong mạch điện )
+4662	Bán buôn kim loại và quặng kim loại
+Chi tiết : - Bán buôn sắt thép (trừ kinh doanh vàng miếng).
+4663	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+Chi tiết : Bán buôn xi măng ,gạch ,cát,đá,sỏi Bán buôn kính xây dựng Bán buôn sơn ,vecni Bán buôn gạch ốp lát và thiết bị vệ sinh Bán buôn vật liệu,thiết bị lắp đặt khác trong xây dựng .
+4669	Bán buôn chuyên doanh khác chưa được phân vào đâu
+Chi tiết: - Bán buôn ván ép,ván lạng - Bán buôn đồ dùng nội thất cho gia đình như: Bàn,ghế.giường,tủ … - Bán buôn hóa chất, các loại keo sử dụng trong ngành giấy , bán buôn cao su Eva, đế nhựa; Bán buôn cao su nguyên liệu, cao su thiên nhiên hoặc tổng hợp (không chứa mủ cao su tại trụ sở chính), bán buôn chất dẻo dạng nguyên sinh; Các sản phẩm nhựa, nguyên liệu từ nhựa, thùng giấy sử dụng trong ngành giấy, phụ liệu sử dụng trong ngành may mặc và giày dép, và bán buôn các đồ dùng hằng ngày. - Bán buôn linh kiện đồ ngũ kim như: Đinh ,Ốc ,Vít,Kéo,Bu lông.. - Bán buôn các loại Dao Phay,dao bào,Dao cắt,Đá cắt,Mũi Khoan ,Mũi Phay,Máy Khoan Tay…. - Bán buôn hoá chất công nghiệp,Dầu công nghiệp. - Bán buôn các loại khuôn trong nghành công nghiệp. - Bán buôn cao su trong ngành nông nghiệp. - Bán buôn các thiết bị điện ,nước .Các loại đồ điện gia dụng Công Nghiệp. - Bán buôn các loại ống làm nhiệt,bát nhiệt,ống nén khí … - Bán buôn các loại băng chuyền,bàn in… - Bán buôn phụ kiện nén khí - Bán buôn các loại đá mài kim cương - Bán buôn khung nhôm cửa kính . - Bán buôn các phụ liệu ngành may mặc và giày dép. - Bán buôn đồ bảo hộ lao động ,găng tay. - Bán buôn các loại vải da dùng trong ngành giày. - Bán buôn hoá chất sử dụng trong lĩnh vực công nghiệp,chất dẻo dạng nguyên sinh ,bao bì nhựa PVC,PE,PP,giấy nhám,băng keo,keo dán giấy ,dây điện
+4752	Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh
+4933	Vận tải hàng hóa bằng đường bộ
+8299	Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu
+Chi tiết: Xuất Nhập Khẩu các mặt hàng mà công ty kinh doanh.
