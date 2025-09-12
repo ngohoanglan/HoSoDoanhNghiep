@@ -48,9 +48,9 @@ Ngày cấp: 20/12/2022
 
 Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 
-Địa chỉ thường trú: L6-6.11 V.C.P, 720A Điện Biên Phủ, Phường 22, Phường Thạnh Mỹ Tây, TP. HCM
+Địa chỉ thường trú: L6-6.11 V.C.P, 720A Điện Biên Phủ, Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh
 
-Địa chỉ hiện tại: L6-6.11 V.C.P, 720A Điện Biên Phủ, Phường 22, Phường Thạnh Mỹ Tây, TP. HCM
+Địa chỉ hiện tại: L6-6.11 V.C.P, 720A Điện Biên Phủ, Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh
 
 Thành viên mới:
 Họ và tên: NGUYỄN THỊ KIM OANH
@@ -77,3 +77,5 @@ Nội dung thay đổi:
 		Chi tiết: Cho thuê nhà trọ, phòng trọ, nhà để ở, khách sạn, nhà nghỉ
 	Bổ sung mã ngành 6810: Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê
 		Chi tiết: Cho thuê nhà
+
+Ngày trên văn bản: 12 tháng 9 năm 2025
