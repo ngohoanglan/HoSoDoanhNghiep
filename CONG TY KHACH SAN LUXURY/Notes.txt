@@ -11,7 +11,7 @@ Tên doanh nghiệp viết tắt:
 2. Địa chỉ trụ sở chính
 
 Số 86, Đường Trần Bình Trọng, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
-Điện thoại: 0916525339
+Điện thoại: 0902559022
 Fax:
 Email:
 Website:
@@ -35,3 +35,17 @@ Nơi cấp: Cục trưởng Cục cảnh sát quản lí hành chính về trậ
 
 Địa chỉ thường trú: Số 3/135, khu phố Bình Thuận, phường Lái Thiêu, Thành phố Hồ Chí Minh, Việt Nam
 Địa chỉ liên lạc: Số 3/135, khu phố Bình Thuận, phường Lái Thiêu, Thành phố Hồ Chí Minh, Việt Nam
+
+
+Người mua:
+Họ và tên: NGUYỄN HOÀI TRUNG
+Ngày sinh: 24/01/1988
+Giới tính: Nam
+Quốc tịch: Việt Nam
+Quê quán: An Lão, TP. Hải Phòng
+
+Địa chỉ thường trú: 168/16/13 Trần Văn Quang, Khu Phố 5, Phường Bảy Hiền, Thành phố Hồ Chí Minh
+Địa chỉ liên lạc: 168/16/13 Trần Văn Quang, Khu Phố 5, Phường Bảy Hiền, Thành phố Hồ Chí Minh
+Số CCCD: 079088038610
+Ngày cấp: 22/12/2021
+Nơi cấp: Bộ Công An
