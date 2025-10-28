@@ -35,7 +35,7 @@ Số giấy tờ pháp lý của cá nhân: 068185000153
 Ngày cấp: 18/02/2025
 Nơi cấp: Bộ Công An
 
-Địa chỉ thường trú: 88 Đường 2, Khu phố Thái Bình 2, Phường Long Bình, , Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ thường trú: 88 Đường 2, Khu phố Thái Bình 2, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
 Địa chỉ liên lạc: 88 Đường 2, Khu phố Thái Bình 2, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
 
 5. Người đại diện pháp luật
@@ -60,7 +60,7 @@ Người đại diện pháp luật mới:
 Số hộ chiếu: EP8423847
 Loại hộ chiếu: P  Mã quốc gia: CHN
 
-Họ tên: Kim Ba Đào (JIN, BOTAO)
+Họ tên: JIN, BOTAO
 
 Giới tính: Nam  Quốc tịch: Trung Quốc
 
