@@ -7,22 +7,16 @@ Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH SẢN XUẤT VÀ THƯ�
 Tên công ty viết bằng tiếng nước ngoài: VIET DUNG MANUFACTURING AND TRADING OF FURNITURE SERVICES COMPANY LIMITED
 Tên công ty viết tắt:
 
-2. Địa chỉ trụ sở chính
-
-Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
+2. Địa chỉ trụ sở chính: Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ trụ sở mới: Ô 27 và 28 Lô DC 08 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
 Điện thoại: 0988.414.166
 Email:vietdungfur@gmail.com
 
 3. Vốn điều lệ
 
-1.000.000.000 đồng
-(Bằng chữ: Một tỷ đồng)
+3.000.000.000 đồng
+(Bằng chữ: Ba tỷ đồng)
 
-4. Danh sách thành viên góp vốn
-
-STT	Tên thành viên	Quốc tịch	Địa chỉ liên lạc đối với cá nhân; địa chỉ trụ sở chính đối với tổ chức	Phần vốn góp (VNĐ và giá trị tương đương theo đơn vị tiền nước ngoài, nếu có)	Tỷ lệ (%)	Số Giấy tờ pháp lý của cá nhân đối với thành viên là cá nhân; Số Giấy chứng nhận đăng ký doanh nghiệp/Quyết định thành lập/giấy tờ có giá trị pháp lý tương đương đối với tổ chức	Ghi chú
-1	BÙI VIỆT DŨNG	Việt Nam	Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam	900.000.000	90,00	001095031625	
-2	ĐỖ THỊ HÀ	Việt Nam	Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam	100.000.000	10,00	001164008737
 
 5. Người đại diện theo pháp luật của công ty
 
@@ -30,13 +24,28 @@ Họ, chữ đệm và tên: BÙI VIỆT DŨNG  Giới tính: Nam
 
 Ngày, tháng, năm sinh: 20/10/1995  Quốc tịch: Việt Nam
 Số định danh cá nhân: 001095031625
-
+Ngày cấp: 16/09/2021
 Chức danh: Giám đốc
-
 Địa chỉ liên lạc:
 Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
 
 
-CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI DỊCH VỤ NỘI THẤT VIỆT DŨNG - ĐỊA ĐIỂM KINH DOANH XƯỞNG GỖ
-Địa chỉ địa điểm kinh doanh:
-địa chỉ : Ô 22A-22B,DC 15, Đường D38,KDC Việt Sing,Khu Phố 4, Phường An Phú, Thành Phố Hồ Chí Minh
+
+
+
+
+ĐỖ THỊ HÀ	Việt Nam
+Ngày sinh: 04/10/1964
+Giới tính: Nữ
+Địa chỉ thường trú:	Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ liên lạc:	Ô 30B, DC 07 Đường D35, KDC Việt Sing, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam	
+Vốn ban đầu 100.000.000	 chiêm 10 %
+Căn cước: 001164008737
+Ngày cấp: 24/09/2024
+Nơi cấp: Bộ Công An
+
+Logic góp vốn:
+Thành viên	Đã góp ban đầu	Góp thêm	Tổng sau tăng vốn	Tỷ lệ sau tăng (%)
+Bùi Việt Dũng	900.000.000	1.600.000.000	2.500.000.000	83,33%
+Đỗ Thị Hà	100.000.000	400.000.000	500.000.000	16,67%
+Tổng cộng	1.000.000.000	2.000.000.000	3.000.000.000	100%
