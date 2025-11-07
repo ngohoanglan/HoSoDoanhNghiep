@@ -39,9 +39,9 @@ Chức danh: Giám đốc
 Email: congtygiangthanhphat@gmail.com
 Nội dung:
 1. Thay đổi công ty tnhh một thành viên thành công ty tnhh hai thành viên
-2. Thành Viên mới góp vốn 800.000.000 đồng
+2. Thành Viên mới góp vốn 800.000.000 đồng(Tám trăm triệu đồng)
 3. Vốn điều lệ tăng 3.800.000.000 Lý do: Thành viên mới góp vốn
-
+4. Phần % góp vốn: VÒNG A HÁ chiếm 78,947%, HỒ LỶ KÍN chiếm 21,053%
 Thông tin thành viên mới:
 Số định danh cá nhân: 075189017061
 Ngày cấp: 03/03/2023
