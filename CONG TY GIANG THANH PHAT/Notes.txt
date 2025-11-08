@@ -16,18 +16,22 @@ Căn B8H khu nhà ở Hoàng Mai, Khu phố 7, Phường Tân Uyên, Thành ph�
 Điện thoại: 0978671106
 
 3. Vốn điều lệ
+3.800.000.000 đồng
+Bằng chữ: Ba tỷ tám trăm triệu đồng
 
-3.000.000.000 đồng
-Bằng chữ: Ba tỷ đồng
-
-4. Thông tin về chủ sở hữu
-
-Họ, chữ đệm và tên: VÒNG A HÁ Giới tính: Nam
-Ngày, tháng, năm sinh: 01/08/1990 Quốc tịch: Việt Nam
+4. Thông tin về Thành viên
+Họ, chữ đệm và tên: VÒNG A HÁ 
+Giới tính: Nam
+Ngày, tháng, năm sinh: 01/08/1990
+Quốc tịch: Việt Nam
 Số định danh cá nhân: 075090013125
 Ngày cấp: 03/03/2023
 Địa chỉ liên lạc: Thửa đất 833, Tờ bản đồ 90, Khu phố 1B, Phường An Phú, Thành phố Hồ Chí Minh, Việt Nam
+Nơi thường trú: Tổ 22, Ấp Tân Hạnh, xã Xuân Định,Tỉnh Đồng Nai
 Điện thoại: 0978671106
+Ngày góp vốn 29/09/2025
+
+
 5. Người đại diện theo pháp luật của công ty
 
 Họ, chữ đệm và tên: VÒNG A HÁ Giới tính: Nam
@@ -42,6 +46,8 @@ Nội dung:
 2. Thành Viên mới góp vốn 800.000.000 đồng(Tám trăm triệu đồng)
 3. Vốn điều lệ tăng 3.800.000.000 Lý do: Thành viên mới góp vốn
 4. Phần % góp vốn: VÒNG A HÁ chiếm 78,947 %, HỒ LỶ KÍN chiếm 21,053 %
+
+
 Thông tin thành viên mới:
 Số định danh cá nhân: 075189017061
 Ngày cấp: 03/03/2023
@@ -51,7 +57,7 @@ Giới tính: Nữ
 Quốc tịch: Việt Nam 
 Dân tộc: Hoa
 Tôn giáo:
-
+Ngày góp vốn 07/11/2025
 Nơi thường trú: 390 Tổ 9, Ấp Tân Bảo, Xã Cẩm Mỹ, Tỉnh Đồng Nai
 Nơi ở hiện tại: 390 Tổ 9, Ấp Tân Bảo, Xã Cẩm Mỹ, Tỉnh Đồng Nai
 
