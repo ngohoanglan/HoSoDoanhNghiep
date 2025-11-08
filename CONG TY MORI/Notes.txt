@@ -5,22 +5,17 @@ Mã số doanh nghiệp: 3702984511
 1. Tên công ty
 
 Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH YU MORI
-Tên công ty viết bằng tiếng nước ngoài:
-Tên công ty viết tắt:
 
 2. Địa chỉ trụ sở chính
 
 Số 87 tổ 24 khu phố 3 Đại lộ bình dương, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam
 
 Địa chỉ trụ sở mới:
-Ô G16.27, KHU SUNCASA VISIP 2A , PHƯỜNG BÌNH DƯƠNG, THÀNH PHỐ HỒ CHÍ MINH
+Ô G16.27, Khu Suncasa, VSIP 2A, Phường Bình Dương, Thành Phố Hồ Chí Minh, Việt Nam
 
 
 Điện thoại: 0907862628
-Fax:
-Email:
-Website:
-3.000.000.000 đồng
+
 
 3. Vốn điều lệ
 
@@ -42,3 +37,5 @@ Chức vụ: Chủ tịch công ty kiêm giám đốc
 
 Địa chỉ thường trú: Ấp 1, Xã Nhựt Tảo, Tỉnh Tây Ninh, Việt Nam
 Địa chỉ liên lạc: Số 87 tổ 24 khu phố 3 Đại lộ bình dương, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày ký trên tất cả văn bản: 08/11/2025
