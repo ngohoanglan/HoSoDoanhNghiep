@@ -1,0 +1,3 @@
+1. Mẫu 12:Sửa mục B cập nhật mã ngành do thay đổi của thủ tướng:
+Cập nhật: 4663	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+Bị xóa: 4669 Bán buôn chuyên doanh khác chưa được phân vào đâu
