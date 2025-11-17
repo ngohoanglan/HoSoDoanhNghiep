@@ -1,0 +1,42 @@
+STT.		Có phải là ngành chính?	Mã số nghành nghề kinh doanh	Tên nghành nghề kinh doanh	 
+1			4669	Bán buôn chuyên doanh khác chưa được phân vào đâu
+Chi tiết: Bán buôn hóa chất khác (trừ hóa chất bảng 1 theo Công ước quốc tế); Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu. Bán buôn hạt nhựa, keo hạt, màng PVC nhựa,màng PE, Ngũ kim, ốc vít, bao bì ngũ kim, ngũ kim bằng nhựa¸ngu kim đồ gia dụng, vãi, đồ gia, gỗ, sắt thép, nội thất gỗ. keo nước, keo ngành gỗ. máy mốc này gỗ, dụng cụ ngành gỗ, giấy nhám, bánh nhám các loại, Bán buôn phôi gỗ; viên nén; Bán buôn pallet các loại; Bán buôn các loại ván; Bán buôn mùn cưa, dăm bào, củi vụn.
+Khôi phục
+2			4752	Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh
+Chi tiết : Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh; bán lẻ sơn, màu vecni trong các cửa hàng chuyên doanh.
+Xóa
+3			4663	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+Chi tiết: Bán buôn tre, nứa, gỗ cây và gỗ chế biến, gỗ dán, gỗ lạng, ván ép và ván mỏng khác ; Bán buôn đồ ngũ kim, -Bán buôn ván gỗ, ván lạng, ván ép các loại, Bán buôn vật liệu xây dựng, Thiết bị vệ sinh, bàn cầu, bếp gas,  máy khử mùi.
+Xóa
+4			4649	Bán buôn đồ dùng khác cho gia đình
+Chi tiết: Bán buôn sách, báo, tạp chí, văn phòng phẩm (Trừ các sản phẩm văn hóa phản động, đồi trụy, mê tín dị đoan hoặc có hại tới giáo dục thẩm mỹ, nhân cách). Bán buôn keo 502, băng keo trong, băng keo giấy, Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự.
+Xóa
+5			4659	Bán buôn máy móc, thiết bị và phụ tùng máy khác
+Chi tiết: Bán buôn máy móc, thiết bị và phụ tùng khác chưa được phân vào đâu.
+Xóa
+6			4662	Bán buôn kim loại và quặng kim loại
+Chi tiết: Bán buôn sắt, thép.
+Xóa
+7			4933	Vận tải hàng hóa bằng đường bộ
+Xóa
+8			1610	Cưa, xẻ, bào gỗ và bảo quản gỗ
+Chi tiết: Cưa, xẻ, bào gỗ; ngâm, tẩm và sấy gỗ 
+Xóa
+9			1621	Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác
+Xóa
+10			1622	Sản xuất đồ gỗ xây dựng
+Xóa
+11			1623	Sản xuất bao bì bằng gỗ
+Xóa
+12			1629	Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện
+Xóa
+13			1701	Sản xuất bột giấy, giấy và bìa
+(Chỉ được sản xuất, gia công sau khi hoàn thành đầy đủ các thủ tục về đất đai, xây dựng, phòng cháy chữa cháy, bảo vệ môi trường)
+Xóa
+14			3101	Sản xuất giường, tủ, bàn, ghế bằng gỗ
+Xóa
+15			6820	Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất
+(trừ tư vấn pháp lý)
+Khôi phục
+16			3100	Sản xuất giường, tủ, bàn, ghế
+Khôi phục
