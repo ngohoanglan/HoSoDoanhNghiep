@@ -1,0 +1,68 @@
+Em liệt kê luôn theo 4 kỳ báo cáo anh/chị đang có trên Word (Mẫu 17), để anh/chị copy số vào form:
+
+Giả định: từ 2023–6T/2025 không góp thêm vốn, vốn đầu tư đã thực hiện vẫn là
+6.557.975.000 VNĐ vốn chủ sở hữu, không có vốn vay/khác.
+
+1️⃣ Kỳ: Năm 2023 (Mẫu 17 – khai thác, vận hành)
+
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VNĐ
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+
+Vốn chủ sở hữu: 0 VNĐ
+
+Vốn vay: 0 VNĐ
+
+Vốn huy động hợp pháp khác: 0 VNĐ
+
+Số nộp ngân sách: 138.163.647 VNĐ
+
+Lợi nhuận: chọn loại “Lỗ”, nhập số 1.801.402.970 VNĐ
+
+2️⃣ Kỳ: 6 tháng đầu năm 2024 (Mẫu 17_6 tháng_2024)
+
+Lũy kế tổng vốn đầu tư thực hiện (đến 30/06/2024): 6.557.975.000 VNĐ
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+
+Vốn chủ sở hữu: 0 VNĐ
+
+Vốn vay: 0 VNĐ
+
+Vốn huy động hợp pháp khác: 0 VNĐ
+
+Số nộp ngân sách: 45.210.480 VNĐ
+
+Lợi nhuận: chọn “Lỗ”, nhập 14.912.995 VNĐ
+
+3️⃣ Kỳ: Cả năm 2024 (Mẫu 17_cả năm_2024)
+
+Lũy kế tổng vốn đầu tư thực hiện (đến 31/12/2024): 6.557.975.000 VNĐ
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+
+Vốn chủ sở hữu: 0 VNĐ
+
+Vốn vay: 0 VNĐ
+
+Vốn huy động hợp pháp khác: 0 VNĐ
+
+Số nộp ngân sách: 69.590.701 VNĐ
+
+Lợi nhuận: chọn “Lỗ”, nhập 1.614.509.937 VNĐ
+
+4️⃣ Kỳ: 6 tháng đầu năm 2025 (Mẫu 17_6 tháng_2025)
+
+Lũy kế tổng vốn đầu tư thực hiện (đến 30/06/2025): 6.557.975.000 VNĐ
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+
+Vốn chủ sở hữu: 0 VNĐ
+
+Vốn vay: 0 VNĐ
+
+Vốn huy động hợp pháp khác: 0 VNĐ
+
+Số nộp ngân sách: 31.941.119 VNĐ
+
+Lợi nhuận: chọn “Lỗ”, nhập 742.995.657 VNĐ
