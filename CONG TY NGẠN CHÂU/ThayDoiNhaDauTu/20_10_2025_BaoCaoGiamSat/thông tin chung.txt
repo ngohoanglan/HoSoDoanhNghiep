@@ -1,68 +1,145 @@
-Em liệt kê luôn theo 4 kỳ báo cáo anh/chị đang có trên Word (Mẫu 17), để anh/chị copy số vào form:
+Em gom lại cho anh/chị theo đúng các kỳ tương ứng với từng file; mỗi kỳ em ghi đúng những gì LẤY ĐƯỢC từ báo cáo, theo cấu trúc form:
 
-Giả định: từ 2023–6T/2025 không góp thêm vốn, vốn đầu tư đã thực hiện vẫn là
-6.557.975.000 VNĐ vốn chủ sở hữu, không có vốn vay/khác.
+Lưu ý:
 
-1️⃣ Kỳ: Năm 2023 (Mẫu 17 – khai thác, vận hành)
+Trên Hệ thống, ô “Tổng vốn đầu tư thực hiện” màu xám sẽ tự tính = Lũy kế tổng vốn đầu tư thực hiện + Tổng vốn đầu tư thực hiện trong kỳ.
 
-Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VNĐ
+Các báo cáo đều thể hiện vốn góp đã hoàn thành 300.000 USD ≈ 6.557.975.000 đồng, không phát sinh góp thêm trong 2023–2025.
 
-Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+1️⃣ Mẫu 13_2023 – Báo cáo thực hiện đầu tư (năm 2023)
 
-Vốn chủ sở hữu: 0 VNĐ
+Trong báo cáo không có mục “Số nộp ngân sách” và “Lợi nhuận”, chỉ mô tả tiến độ góp vốn và tình hình thực hiện.
 
-Vốn vay: 0 VNĐ
+Anh/chị điền form như sau:
 
-Vốn huy động hợp pháp khác: 0 VNĐ
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
 
-Số nộp ngân sách: 138.163.647 VNĐ
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
 
-Lợi nhuận: chọn loại “Lỗ”, nhập số 1.801.402.970 VNĐ
+++ Vốn chủ sở hữu: 0 VND
 
-2️⃣ Kỳ: 6 tháng đầu năm 2024 (Mẫu 17_6 tháng_2024)
+++ Vốn vay: 0 VND
 
-Lũy kế tổng vốn đầu tư thực hiện (đến 30/06/2024): 6.557.975.000 VNĐ
+++ Vốn huy động hợp pháp khác: 0 VND
 
-Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+Số nộp ngân sách: không thể hiện trong Mẫu 13_2023
 
-Vốn chủ sở hữu: 0 VNĐ
+Lợi nhuận: không thể hiện trong Mẫu 13_2023
 
-Vốn vay: 0 VNĐ
+(Thực tế số thuế và lỗ năm 2023 đã thể hiện ở Mẫu 17_2023, bên dưới.)
 
-Vốn huy động hợp pháp khác: 0 VNĐ
+2️⃣ Mẫu 13_2024 – Báo cáo thực hiện đầu tư (cả năm 2024)
 
-Số nộp ngân sách: 45.210.480 VNĐ
+Nội dung cấu trúc giống Mẫu 13_2023, xác nhận không có đầu tư bổ sung mới, chỉ duy trì hoạt động.
 
-Lợi nhuận: chọn “Lỗ”, nhập 14.912.995 VNĐ
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
 
-3️⃣ Kỳ: Cả năm 2024 (Mẫu 17_cả năm_2024)
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
 
-Lũy kế tổng vốn đầu tư thực hiện (đến 31/12/2024): 6.557.975.000 VNĐ
+++ Vốn chủ sở hữu: 0 VND
 
-Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+++ Vốn vay: 0 VND
 
-Vốn chủ sở hữu: 0 VNĐ
+++ Vốn huy động hợp pháp khác: 0 VND
 
-Vốn vay: 0 VNĐ
+Số nộp ngân sách: không thể hiện trong Mẫu 13_2024
 
-Vốn huy động hợp pháp khác: 0 VNĐ
+Lợi nhuận: không thể hiện trong Mẫu 13_2024
 
-Số nộp ngân sách: 69.590.701 VNĐ
+(Thuế và lỗ năm 2024 nằm ở Mẫu 17_cả năm_2024.)
 
-Lợi nhuận: chọn “Lỗ”, nhập 1.614.509.937 VNĐ
+3️⃣ Mẫu 17_2023 – Khai thác, vận hành (năm 2023)
 
-4️⃣ Kỳ: 6 tháng đầu năm 2025 (Mẫu 17_6 tháng_2025)
+Từ báo cáo Mẫu 17_2023:
 
-Lũy kế tổng vốn đầu tư thực hiện (đến 30/06/2025): 6.557.975.000 VNĐ
+Trong kỳ nộp NSNN: 138.163.647 đồng, lũy kế đến cuối 2023 cũng là 138.163.647 đồng.
 
-Tổng vốn đầu tư thực hiện trong kỳ: 0 VNĐ
+Kết quả SXKD: lỗ 1.801.402.970 đồng.
 
-Vốn chủ sở hữu: 0 VNĐ
+Điền form:
 
-Vốn vay: 0 VNĐ
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
 
-Vốn huy động hợp pháp khác: 0 VNĐ
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
 
-Số nộp ngân sách: 31.941.119 VNĐ
+++ Vốn chủ sở hữu: 0 VND
 
-Lợi nhuận: chọn “Lỗ”, nhập 742.995.657 VNĐ
+++ Vốn vay: 0 VND
+
+++ Vốn huy động hợp pháp khác: 0 VND
+
+Số nộp ngân sách: 138.163.647 VND
+
+Lợi nhuận: chọn loại “Lỗ”, nhập 1.801.402.970 VND
+
+4️⃣ Mẫu 17_6 tháng_2024 – Khai thác, vận hành (6T đầu năm 2024)
+
+Theo báo cáo 6 tháng đầu năm 2024:
+
+Nộp NSNN trong kỳ: 45.210.480 đồng
+
+Kết quả SXKD 6T/2024: lỗ 14.912.995 đồng
+
+Điền form:
+
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
+
+++ Vốn chủ sở hữu: 0 VND
+
+++ Vốn vay: 0 VND
+
+++ Vốn huy động hợp pháp khác: 0 VND
+
+Số nộp ngân sách: 45.210.480 VND
+
+Lợi nhuận: chọn “Lỗ”, nhập 14.912.995 VND
+
+5️⃣ Mẫu 17_cả năm_2024 – Khai thác, vận hành (cả năm 2024)
+
+Theo báo cáo cả năm 2024:
+
+Nộp NSNN trong kỳ: 69.590.701 đồng
+
+Kết quả SXKD năm 2024: lỗ 1.614.509.937 đồng
+
+Điền form:
+
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
+
+++ Vốn chủ sở hữu: 0 VND
+
+++ Vốn vay: 0 VND
+
+++ Vốn huy động hợp pháp khác: 0 VND
+
+Số nộp ngân sách: 69.590.701 VND
+
+Lợi nhuận: chọn “Lỗ”, nhập 1.614.509.937 VND
+
+6️⃣ Mẫu 17_6 tháng_2025 – Khai thác, vận hành (6T đầu năm 2025)
+
+Theo báo cáo 6 tháng đầu năm 2025:
+
+Nộp NSNN trong kỳ: 31.941.119 đồng
+
+Kết quả SXKD 6T/2025: lỗ 742.995.657 đồng
+
+Điền form:
+
+Lũy kế tổng vốn đầu tư thực hiện: 6.557.975.000 VND
+
+Tổng vốn đầu tư thực hiện trong kỳ: 0 VND
+
+++ Vốn chủ sở hữu: 0 VND
+
+++ Vốn vay: 0 VND
+
+++ Vốn huy động hợp pháp khác: 0 VND
+
+Số nộp ngân sách: 31.941.119 VND
+
+Lợi nhuận: chọn “Lỗ”, nhập 742.995.657 VND
