@@ -1,3 +1,5 @@
+
+I. Báo cáp giám sát
 STT	Số Biên Nhận	Ngày Đăng Ký	Mã Số Dự Án	Tên Dự Án	Năm	Kỳ báo cáo	Loại tiếp nhận	Nội dung chuyên viên phản hồi doanh nghiệp cần điều chỉnh	Chi tiết	In biên nhận
 1 |  Trang hiện tại: 1 / 1, mẫu tin: 1 - 4 / 4.
 Page:
@@ -8,3 +10,7 @@ of 1 Page size:
 2	GS25014999	24/11/2025	461023000866	NHÀ MÁY SẢN XUẤT LINH KIỆN VÀ PHỤ KIỆN ĐỒ GIA DỤNG, ĐỒ CHƠI TRẺ EM, ĐỒ TRANG TRÍ NỘI THẤT BẰNG NHỰA POLY VÀ PU	2024	Báo cáo 6 tháng đầu năm	Hồ sơ chưa được tiếp nhận	 	Chi tiết	Xem
 3	GS25015000	24/11/2025	461023000866	NHÀ MÁY SẢN XUẤT LINH KIỆN VÀ PHỤ KIỆN ĐỒ GIA DỤNG, ĐỒ CHƠI TRẺ EM, ĐỒ TRANG TRÍ NỘI THẤT BẰNG NHỰA POLY VÀ PU	2024	Báo cáo 1 năm	Hồ sơ chưa được tiếp nhận	 	Chi tiết	Xem
 4	GS25015007	24/11/2025	461023000866	NHÀ MÁY SẢN XUẤT LINH KIỆN VÀ PHỤ KIỆN ĐỒ GIA DỤNG, ĐỒ CHƠI TRẺ EM, ĐỒ TRANG TRÍ NỘI THẤT BẰNG NHỰA POLY VÀ PU	2025	Báo cáo 6 tháng đầu năm	Hồ sơ chưa được tiếp nhận	 	Chi tiết	Xem
+
+II. Trang FDI
+Bạn đã nộp hồ sơ thành công! Mã đăng ký của bạn là 251125656
+ 
