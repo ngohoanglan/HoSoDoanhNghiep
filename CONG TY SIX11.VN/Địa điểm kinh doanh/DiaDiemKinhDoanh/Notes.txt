@@ -58,7 +58,6 @@ Giới tính: Nữ
 Ngày sinh: 09/11/1989
 Dân tộc: Kinh
 Quốc tịch: Việt Nam
-
 Loại giấy tờ pháp lý của cá nhân: Căn cước công dân
 Số giấy tờ pháp lý của cá nhân: 067189000040
 Ngày cấp: 09/09/2024
@@ -68,14 +67,15 @@ Nơi cấp: Bộ Công an
 Địa chỉ hiện tại: L4 - 39.02 V.C.P 720A, Điện Biên Phủ, Phường Thạnh Mỹ Tây, TP. Hồ Chí Minh, Việt Nam
 
 Nội dung thay đổi:
-1. Chuyển đổi công ty TNHH một thành viên thành công ty TNHH hai thành viên trở lên
-2. Bà NGUYỄN THỊ KIM OANH góp vốn 1 tỷ đồng để trở thành thành viên mới
-3  Nâng vốn điều lệ công ty lên 2 tỷ đồng, bà OANH chiếm tỉ lệ 50%, bà NGUYỄN THỊ YẾN 50%
-3. Thay đổi địa chỉ công ty do sáp nhập tỉnh thành
-4. Thay đổi địa chỉ NGUYỄN THỊ YẾN do sáp nhập tỉnh thành
-5.  Bổ sung mã ngành 5510: Dịch vụ lưu trú ngắn ngày
-		Chi tiết: Cho thuê nhà trọ, phòng trọ, nhà để ở, khách sạn, nhà nghỉ
-	Bổ sung mã ngành 6810: Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê
-		Chi tiết: Cho thuê nhà
+Thành lập địa điểm kinh doanh mới với các thông tin:
+CÔNG TY TNHH SIX11.VN - ĐỊA ĐIỂM KINH DOANH VINHOMES CENTER PARK
+ĐỊA CHỈ : L5.27.14 Vinhomes Central Park, 720A Điện Biên Phủ, Khu phố 47, Thạnh Mỹ Tây, Thành Phố Hồ Chí Minh
+Điện thoại : 0967097777
+Người đứng đầu địa điểm kinh doanh: NGUYỄN THỊ YẾN
+Ngành, nghề kinh doanh: 
+5510-Khách sạn và dịch vụ lưu trú tương tự
+Chi tiết: Cho thuê nhà trọ, phòng trọ, nhà để ở, khách sạn, nhà nghỉ
+6810-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê
+Chi tiết: Cho thuê nhà
 
-Ngày trên văn bản: 12 tháng 9 năm 2025
+Ngày ký trên các văn bản: 25 tháng 11 năm 2025
