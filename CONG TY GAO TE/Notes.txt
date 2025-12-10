@@ -3,7 +3,18 @@ Công ty trách nhiệm hữu hạn 1 thành viên
 Tên công ty: Công ty TNHH THIẾT BỊ CƠ ĐIỆN GAO TE 
 Địa chỉ: Căn B7H khu nhà ở Hoàng Mai, tổ 5, KP. 7, Phường Tân Uyên, Thành phố Hồ Chí Minh.
 SĐT: 0923217568
-Ngành nghề kinh doanh：Sản phẩm cơ điện, phụ kiện phần cứng, phụ kiện hàn, vật liệu hàn, sản phẩm thép không gỉ, phụ kiện điện tử, vật liệu mài mòn, linh kiện khí nén, dụng cụ, dụng cụ cắt, thiết bị phòng thí nghiệm, đồ thủy tinh và vật tư phòng thí nghiệm; sửa chữa: thiết bị cơ khí nói chung.
+
+4659: Bán buôn máy móc, thiết bị và phụ tùng máy khác
+		Chi tiết: Bán buôn sản phẩm cơ điện, máy móc và thiết bị cơ khí, phụ tùng máy cơ khí, linh kiện khí nén, thiết bị và dụng cụ phòng thí nghiệm (trừ hóa chất), dụng cụ cơ khí và dụng cụ cắt gọt dùng trong cơ khí.
+4652: Bán buôn thiết bị và linh kiện điện tử, viễn thông
+		Chi tiết: Bán buôn thiết bị và phụ kiện điện tử, linh kiện điện tử, phụ kiện điện tử sử dụng cho thiết bị cơ điện, thiết bị phòng thí nghiệm và các hệ thống điều khiển, tự động hóa.
+4672: Bán buôn kim loại và quặng kim loại
+		Chi tiết: Bán buôn thép không gỉ (inox) dạng tấm, cuộn, thanh, ống và các bán thành phẩm, sản phẩm kim loại từ thép không gỉ phục vụ ngành cơ khí, cơ điện và thiết bị phòng thí nghiệm.
+4679: Bán buôn chuyên doanh khác chưa được phân vào đâu
+		Chi tiết: Bán buôn phụ kiện phần cứng (ngũ kim, bulông, ốc vít, chi tiết cơ khí nhỏ), phụ kiện hàn, vật liệu hàn, vật liệu mài mòn (đá mài, bánh mài, giấy nhám, bột mài), đồ thủy tinh phòng thí nghiệm, vật tư tiêu hao và vật tư phòng thí nghiệm (trừ hóa chất thuộc danh mục cấm kinh doanh theo quy định của pháp luật).
+3312: Sửa chữa, bảo dưỡng máy móc, thiết bị
+		Chi tiết: Sửa chữa, bảo dưỡng máy móc và thiết bị cơ khí nói chung, thiết bị cơ điện, thiết bị và dụng cụ phòng thí nghiệm, thay thế phụ tùng, căn chỉnh, bảo trì định kỳ cho máy móc và thiết bị cơ khí.
+
 Vốn điều lệ: 2.000.000.000.000( Bằng chữ: Hai tỷ đồng)
 
 Đại diện pháp lý：
@@ -41,3 +52,6 @@ Nơi thường trú: Ấp Đồng Tiến 3, Xã Đồng Tâm, Tỉnh Đồng Nai
 Nơi tạm trú: Nhà 131, đường DB6, tổ 7, khu1, Phường Bình Dương, Thành phố Hồ Chí Minh
 
 Nơi ở hiện tại: Nhà 131, đường DB6, tổ 7, khu1, Phường Bình Dương, Thành phố Hồ Chí Minh
+
+
+
