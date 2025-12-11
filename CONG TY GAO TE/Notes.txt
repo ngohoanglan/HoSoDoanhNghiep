@@ -1,6 +1,8 @@
 
 Công ty trách nhiệm hữu hạn 1 thành viên 
 Tên công ty: CÔNG TY TNHH THIẾT BỊ CƠ ĐIỆN GAO TE
+Tên nước ngoài: GAO TE ELECTROMECHANICAL EQUIPMENT COMPANY LIMITED
+Tên viết tắt: GAO TE MEE CO., LTD.
 Địa chỉ: Căn B7H khu nhà ở Hoàng Mai, tổ 5, KP. 7, Phường Tân Uyên, Thành phố Hồ Chí Minh.
 SĐT: 0923217568
 
@@ -15,7 +17,7 @@ SĐT: 0923217568
 3312: Sửa chữa, bảo dưỡng máy móc, thiết bị
 		Chi tiết: Sửa chữa, bảo dưỡng máy móc và thiết bị cơ khí nói chung, thiết bị cơ điện, thiết bị và dụng cụ phòng thí nghiệm, thay thế phụ tùng, căn chỉnh, bảo trì định kỳ cho máy móc và thiết bị cơ khí.
 
-Vốn điều lệ: 2.000.000.000.000( Bằng chữ: Hai tỷ đồng)
+Vốn điều lệ: 2.000.000.000 ( Bằng chữ: Hai tỷ đồng)
 
 Đại diện pháp luật：
 Họ Tên: ZHANG, CHANGHAI
