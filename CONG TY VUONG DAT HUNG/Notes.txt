@@ -18,15 +18,10 @@ Bằng chữ: Mười lăm tỷ đồng
 
 4. Danh sách thành viên góp vốn
 
-STT	Tên thành viên	Quốc tịch	Địa chỉ liên lạc đối với cá nhân; địa chỉ trụ sở chính đối với tổ chức	Phần vốn góp (VNĐ và giá trị tương đương theo đơn vị tiền nước ngoài, nếu có)	Tỷ lệ (%)	Số Giấy tờ pháp lý của cá nhân; Mã số doanh nghiệp đối với doanh nghiệp; Số Giấy tờ pháp lý của tổ chức	Ghi chú
-1	HUỲNH THỊ BÍCH NGỌC	Việt Nam	Số 321/13, KV Bình Nhựt, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam	7.650.000.000	51,000	093183000308	
+1. HUỲNH THỊ BÍCH NGỌC góp vốn 7.650.000.000 VNĐ chiếm 51% vốn điều lệ
+2. HU XUE góp vốn 7.350.000.000 VNĐ 49% vốn điều lệ
 
-3
-
-2 | HU XUE | Trung Quốc | Thửa đất số 151, Tờ bản đồ số 59, Khu phố 4, Phường Uyên Hưng, Thị xã Tân Uyên, Tỉnh Bình Dương, Việt Nam | 7.350.000.000 | 49,000 | EB9006134 |
-
-5. Người đại diện theo pháp luật cũ của công ty
-
+5. Người đại diện theo pháp luật cũ (người chuyển nhượng)
 Họ và tên: HU XUE Giới tính: Nam
 Chức danh: Chủ tịch Hội đồng thành viên kiêm Giám đốc
 Sinh ngày: 12/12/1970 Dân tộc: Quốc tịch: Trung Quốc
@@ -38,12 +33,12 @@ phố Hồ Chí Minh
 Địa chỉ thường trú: Số 26, Tổ 7, Thôn Đông Nhạc Hương Chung Giếng, Huyện Tạ
 Hồng, Tỉnh Trí Xuyên, Trung Quốc
 
-Địa chỉ liên lạc: Thửa đất số 151, Tờ bản đồ số 59, Khu phố 4, Phường Uyên Hưng,
-Thị xã Tân Uyên, Tỉnh Bình Dương, Việt Nam
+Địa chỉ liên lạc: Thửa đất số 151, Tờ bản đồ số 59, Khu phố 4, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam
 
 Chủ sở hữu và người đại diện pháp luật mới:
 
-Họ và tên: HUỲNH THỊ BÍCH NGỌC 
+Họ và tên: HUỲNH THỊ BÍCH NGỌC
+Chức danh: Giám đốc 
 Ngày sinh: 07/05/1983 
 Giới tính:Nữ
 Quốc tịch: Việt Nam  
@@ -51,5 +46,7 @@ CCCD: 093183000308
 Ngày cấp: 10/05/2021
 Nơi cấp:Cục Trưởng cục cảnh sát quản lý hành chính về trật tự xã hội
 Địa chỉ liên lạc:tổ 5 khu phố khánh hội, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam
-Nơi thường trú 321/13 KV Bình Nhựt, Phường
-Long Tuyền, Thành Phố Cần Thơ
+Nơi thường trú 321/13 KV Bình Nhựt, Phường Long Tuyền, Thành Phố Cần Thơ, Việt Nam
+
+6. Nội dung chuyển nhượng: Ông HU XUE chuyển nhượng toàn bộ vốn góp cho bà HUỲNH THỊ BÍCH NGỌC đồng thời chuyển đổi loại hình doanh nghiệp từ Công ty TNHH 2 thành viên thành công ty TNHH Một thành viên
+Ngày trên văn bản: 18/12/2025
