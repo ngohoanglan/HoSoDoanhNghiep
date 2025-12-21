@@ -1,4 +1,4 @@
-```text
+
 Mã số doanh nghiệp: 3703369798
 Đăng ký lần đầu: ngày 28 tháng 08 năm 2025
 Đăng ký thay đổi lần thứ: 1, ngày 17 tháng 10 năm 2025
@@ -22,7 +22,7 @@ Ngày, tháng, năm sinh: 04/10/1988                      Quốc tịch: Việt 
 Số định danh cá nhân: 042188011607
 Địa chỉ liên lạc: Thôn Tân Giang, Xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
 
-5. Người đại diện theo pháp luật của công ty
+5. Người đại diện theo pháp luật cũ
  Họ, chữ đệm và tên: HỒ THỊ TIẾP                      Giới tính: Nữ
 Ngày, tháng, năm sinh: 04/10/1988                      Quốc tịch: Việt Nam
 Số định danh cá nhân: 042188011607
@@ -30,26 +30,41 @@ Số định danh cá nhân: 042188011607
 Chức danh:  Giám đốc
 Địa chỉ liên lạc: Thôn Tân Giang, Xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
 
-Quốc gia: Trung Quốc (People’s Republic of China)
 
-Loại giấy tờ: Hộ chiếu (Passport) — Type: P — Country code: CHN
-
+Người người đại diện pháp luật mới:
 Số hộ chiếu: EH9308274
-
-Họ tên: 黄盛怀 / HUANG SHENGHUAI
-
-Giới tính: Nam (M)
-
+Họ tên:HUANG SHENGHUAI
+Giới tính: Nam
 Ngày sinh: 12/01/1972
-
-Quốc tịch: Trung Quốc (Chinese)
-
-Nơi sinh: Hồ Nam (Hunan)
-
+Quốc tịch: Trung Quốc
+Nơi sinh: Hồ Nam
 Ngày cấp: 31/03/2020
-
-Nơi cấp: TP. Hồ Chí Minh
-
-Ngày hết hạn: 30/03/2030
-
 Cơ quan cấp: Lãnh sự quán Trung Quốc tại TP.HCM
+Địa chỉ liên lạc:Số 710/70 đường Lai Hưng 144, Khu phố Bến Tượng, Phường Bến Cát, Thành phố Hồ Chí Minh, Việt Nam
+
+Thay đổi ngành nghề:
+1) Bổ sung ngành, nghề kinh doanh
+
+(1) Tên ngành, nghề: Sản xuất giường, tủ, bàn, ghế bằng gỗ
+
+Mã ngành: 3101
+
+Ngành, nghề kinh doanh chính: Có (X)
+
+(2) Tên ngành, nghề: Bán buôn chuyên doanh khác chưa được phân vào đâu
+
+Mã ngành: 4679
+
+Ngành, nghề kinh doanh chính: Không
+
+2) Bỏ ngành, nghề kinh doanh khỏi danh sách đã đăng ký
+
+(1) Tên ngành, nghề: Sản xuất giường, tủ, bàn, ghế
+
+Mã ngành: 3100
+
+(2) Tên ngành, nghề: Bán buôn chuyên doanh khác chưa được phân vào đâu
+
+Mã ngành: 4669
+
+Ngày văn bản: 22/12/2025
