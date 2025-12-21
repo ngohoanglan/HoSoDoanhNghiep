@@ -1,0 +1,55 @@
+```text
+Mã số doanh nghiệp: 3703369798
+Đăng ký lần đầu: ngày 28 tháng 08 năm 2025
+Đăng ký thay đổi lần thứ: 1, ngày 17 tháng 10 năm 2025
+
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MTV CỬU LONG FURNITURE
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+
+2. Địa chỉ trụ sở chính
+Số 710/70 đường Lai Hưng 144, Khu phố Bến Tượng, Phường Bến Cát, Thành phố Hồ Chí Minh, Việt Nam 
+Điện thoại: 0374692170                 Số Fax:
+Thư điện tử:                           Website:
+
+3. Vốn điều lệ : 2.000.000.000 đồng.
+Bằng chữ: Hai tỷ đồng
+
+4. Thông tin về chủ sở hữu
+Họ, chữ đệm và tên: HỒ THỊ TIẾP                        Giới tính: Nữ
+Ngày, tháng, năm sinh: 04/10/1988                      Quốc tịch: Việt Nam
+Số định danh cá nhân: 042188011607
+Địa chỉ liên lạc: Thôn Tân Giang, Xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
+
+5. Người đại diện theo pháp luật của công ty
+ Họ, chữ đệm và tên: HỒ THỊ TIẾP                      Giới tính: Nữ
+Ngày, tháng, năm sinh: 04/10/1988                      Quốc tịch: Việt Nam
+Số định danh cá nhân: 042188011607
+
+Chức danh:  Giám đốc
+Địa chỉ liên lạc: Thôn Tân Giang, Xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
+
+Quốc gia: Trung Quốc (People’s Republic of China)
+
+Loại giấy tờ: Hộ chiếu (Passport) — Type: P — Country code: CHN
+
+Số hộ chiếu: EH9308274
+
+Họ tên: 黄盛怀 / HUANG SHENGHUAI
+
+Giới tính: Nam (M)
+
+Ngày sinh: 12/01/1972
+
+Quốc tịch: Trung Quốc (Chinese)
+
+Nơi sinh: Hồ Nam (Hunan)
+
+Ngày cấp: 31/03/2020
+
+Nơi cấp: TP. Hồ Chí Minh
+
+Ngày hết hạn: 30/03/2030
+
+Cơ quan cấp: Lãnh sự quán Trung Quốc tại TP.HCM
