@@ -4,7 +4,7 @@ Tên công ty: CÔNG TY TNHH TM ĂN UỐNG HỒNG THUẬN
 Tên nước ngoài:  
 Tên viết tắt: 
 Địa chỉ: Căn A30-A31 khu nhà ở Hoàng Mai, tổ 5, Khu Phố 7, phường Tân Uyên,Thành phố Hồ Chí Minh.
-SĐT: 0989811075
+SĐT: 0372609850
 
 Ngành nghề kinh doanh:
 1			5610	Nhà hàng và các dịch vụ ăn uống phục vụ lưu động
@@ -53,6 +53,8 @@ Ngành nghề kinh doanh:
 
 23			6619	Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu
 
+ 
+
 Vốn điều lệ: 3.200.000.000 ( Bằng chữ: Ba tỷ hai trăm triệu đồng)
 
 Đại diện pháp luật：
@@ -61,10 +63,10 @@ Ngày sinh: 22/12/1983
 Số hộ chiếu: EJ3635443
 Ngày cấp: 11/01/2023
 Cơ quan cấp: Cục Quản lý Xuất nhập cảnh Quốc gia Cộng hòa Nhân dân Trung Hoa
-Giới tính: Nam 
+Giới tính: Nữ 
 Quốc tịch: Trung Quốc
-SĐT: 0989811075
-Địa chỉ thường trú: khu Đông , thôn Liễu Lâm, Thị trấn Ba Li Fan , Huyện Xin, Tỉnh Hà Nam, Trung Quốc
+SĐT: 0372609850
+Địa chỉ thường trú: Số 1, Làng tự nhiên Xiaoyan, Ủy ban thôn Xinpu, thị trấn Wujiang, huyện He, thành phố Maanshan, tỉnh Anhui, Trung Quốc
 
 Địa chỉ liên lạc: Căn A30-A31 khu nhà ở Hoàng Mai, tổ 5, Khu Phố 7, phường Tân Uyên,Thành phố Hồ Chí Minh
 
@@ -80,7 +82,7 @@ Quốc tịch: Việt Nam
 Giới tính: Nữ 
 
 Dân tộc: Kinh 
-
+ 
 Nơi thường trú: Tổ 8A, Khu Phố 4, Xã bắc Tân Uyên,Thành phố Hồ Chí Minh
 
 Nơi ở hiện tại: Tổ 8A, Khu Phố 4, Xã bắc Tân Uyên,Thành phố Hồ Chí Minh
