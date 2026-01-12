@@ -23,7 +23,7 @@ Sinh ngày:      07/03/1983          Dân tộc: Kinh          Quốc tịch: Vi
 Loại giấy tờ pháp lý của cá nhân:     Thẻ căn cước công dân
 Số giấy tờ pháp lý của cá nhân: 042083000396
 Ngày cấp:      05/08/2022          Nơi cấp: Cục trưởng Cục cảnh sát quản lý hành chính về trật tự xã hội
-Địa chỉ thường trú: 25/36, Đường 22, Kp. Gò Công, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ thường trú: 25/36, Đường 22, Kp. Gò Công, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
 Địa chỉ liên lạc: Số 24- Khu Golf Park, Số 1, Đường Số 2, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
 Vốn góp 4.750.000.000 VNĐ chiếm 95% vốn điều lệ 
 Ngày góp vốn: 13/02/2023
@@ -38,7 +38,7 @@ Nơi cấp: Cục trưởng Cục cảnh sát quản lý hành chính về trậ
 Địa chỉ liên lạc: Thôn Yên Lộc, xã Hậu Lộc, Tỉnh Thanh Hóa
 Vốn góp 250.000.000 VNĐ chiếm 5% vốn điều lệ 
 Ngày góp vốn: 12/01/2026
-s
+
 5. Người đại diện theo pháp luật của công ty
 Chức danh: Giám đốc
 Họ và tên:      TRỊNH VĂN THẮNG Giới tính: Nam
@@ -46,7 +46,7 @@ Sinh ngày:      07/03/1983          Dân tộc: Kinh          Quốc tịch: Vi
 Loại giấy tờ pháp lý của cá nhân:     Thẻ căn cước công dân
 Số giấy tờ pháp lý của cá nhân: 042083000396
 Ngày cấp:      05/08/2022          Nơi cấp: Cục trưởng Cục cảnh sát quản lý hành chính về trật tự xã hội
-Địa chỉ thường trú: 25/36, Đường 22, Kp. Gò Công, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
-Địa chỉ liên lạc: Số 24- Khu Golf Park, Số 1, Đường Số 2, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ thường trú: 25/36, Đường 22, Kp. Gò Công, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ liên lạc: Số 24- Khu Golf Park, Số 1, Đường Số 2, Phường Long Bình, Thành phố Hồ Chí Minh, Việt Nam
 
 Ngày trên văn bản: 12/01/2026
