@@ -1,5 +1,8 @@
 Thông tin công ty:
-Tên công ty: CÔNG TY TNHH THỰC PHẨM TRƯƠNG GIANG 
+Tên công ty viết bằng tiếng Việt (ghi bằng chữ in hoa): CÔNG TY TNHH THỰC PHẨM TRƯƠNG GIANG
+Tên công ty viết bằng tiếng nước ngoài (nếu có): TRUONG GIANG FOOD COMPANY LIMITED
+Tên công ty viết tắt (nếu có): TG FOOD
+
 Trụ sở: Số 10/1, đường Nguyễn Văn Luông, khu phố Bình Quới B, Phường Thuận Giao, Thành phố Hồ Chí Minh
 Vốn điều lệ: 500.000.000 đồng (viết bằng chữ: Năm trăm triệu đồng)
 SĐT: 0379282846
