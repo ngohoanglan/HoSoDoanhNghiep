@@ -2,8 +2,8 @@ Mã số doanh nghiệp: 3703175136 Đăng ký lần đầu: ngày 06 tháng 12 
 
 1. Tên công ty Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH TM DV HAPPY HAPPY Tên công ty viết bằng tiếng nước ngoài: Tên công ty viết tắt: 
 
-2. Địa chỉ trụ sở chính Số 16, Đường Nguyễn Văn Thành, Khu Phố 9, Phường Chánh Phú Hòa, Thành Phố Bến Cát, Tỉnh Bình Dương, Việt Nam
- Điện thoại: 0569004006 
+2. Địa chỉ trụ sở chính Số 16, Đường Nguyễn Văn Thành, Khu Phố 9, Phường Chánh Phú Hòa, Thành Phố Hồ Chí Minh, Việt Nam
+ Điện thoại: 0384721167
 Email: 
 Fax:
  Website: 
@@ -37,3 +37,47 @@ Ngày cấp: 09/03/2022
 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội 
 Địa chỉ thường trú: Số 264, ẤP Long An, Xã Ô Long Vĩ, Huyện Châu Phú, Tỉnh An Giang, Việt Nam 
 Địa chỉ liên lạc: Số 16, Đường Nguyễn Văn Thành, Khu Phố 9, Phường Chánh Phú Hòa, Thành Phố Bến Cát, Tỉnh Bình Dương, Việt Nam
+
+
+Người đại diện pháp luật mới và chủ sở hữu mới:
+Thông tin cá nhân
+
+Họ và tên: LƯƠNG NHIỀU PAI PHU
+Chức danh: Chủ tịch công ty kiêm giám đốc
+Số định danh cá nhân: 074094004807
+Ngày cấp: 13/01/2022 
+Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Giới tính: Nam
+Ngày sinh: 13/04/1994
+Số điện thoại: 0384721167
+Nơi thường trú: Ấp Tân Đức, Xã Minh Thạnh, Thành Phố Hồ Chí Minh
+Địa chỉ liên lạc: Ấp Tân Đức, Xã Minh Thạnh, Thành Phố Hồ Chí Minh
+
+Nội dung thay đổi:
+1. Thay đổi chủ sở hữu
+2. Thay đổi đại diện pháp luật
+3. Thay đổi địa chỉ trụ sở do sáp nhập
+4. Thay đổi số điện thoại
+5. Thay đổi ngành nghề:thêm ngành nghề nha : bán giường , tủ ghé, hàng nội thất, xuất khẩu:
+5.1:Thay đổi:
+	- 4719  Bán lẻ tổng hợp khác
+	- 9329	Hoạt động vui chơi giải trí khác
+	- 8129  Dịch vụ vệ sinh khác
+	- 8130 Dịch vụ cảnh quan
+	- 2023 Sản xuất mỹ phẩm, nước hoa, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh
+5.2: Xóa: 
+-	- 4661	Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan
+	- 4663	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+	- 4669	Bán buôn chuyên doanh khác chưa được phân vào đâu
+	- 6209	Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính
+	- 6820	Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất
+	- 7490	Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu
+	- 7830	Cung ứng và quản lý nguồn lao động
+5.3: Thêm:
+	- 4673 Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+	- 4679	Bán buôn chuyên doanh khác chưa được phân vào đâu
+	- 6290 Hoạt động dịch vụ máy tính và công nghệ thông tin khác
+	- 6829 Hoạt động bất động sản khác trên cơ sở phí hoặc hợp đồng
+	- 7499 Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu
+	
+6. Ngày ký văn bản: 27/01/2026
