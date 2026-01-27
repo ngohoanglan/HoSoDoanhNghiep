@@ -35,8 +35,8 @@ Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
 Số giấy tờ pháp lý của cá nhân: 089194008481 
 Ngày cấp: 09/03/2022 
 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội 
-Địa chỉ thường trú: Số 264, ẤP Long An, Xã Ô Long Vĩ, Huyện Châu Phú, Tỉnh An Giang, Việt Nam 
-Địa chỉ liên lạc: Số 16, Đường Nguyễn Văn Thành, Khu Phố 9, Phường Chánh Phú Hòa, Thành Phố Bến Cát, Tỉnh Bình Dương, Việt Nam
+Địa chỉ thường trú: Số 264, ẤP Long An, Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam 
+Địa chỉ liên lạc: Số 264, ẤP Long An, Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam
 
 
 Người đại diện pháp luật mới và chủ sở hữu mới:
@@ -79,5 +79,4 @@ Nội dung thay đổi:
 	- 6290 Hoạt động dịch vụ máy tính và công nghệ thông tin khác
 	- 6829 Hoạt động bất động sản khác trên cơ sở phí hoặc hợp đồng
 	- 7499 Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu
-	
-6. Ngày ký văn bản: 27/01/2026
+	- 7822 Cung ứng nguồn nhân lực khác
