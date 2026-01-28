@@ -80,3 +80,4 @@ Nội dung thay đổi:
 	- 6829 Hoạt động bất động sản khác trên cơ sở phí hoặc hợp đồng
 	- 7499 Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu
 	- 7822 Cung ứng nguồn nhân lực khác
+	- 4642 Bán buôn giường, tủ, bàn ghế và đồ nội thất tương tự trong gia đình, văn phòng, cửa hàng; thảm, đệm và thiết bị chiếu sáng
