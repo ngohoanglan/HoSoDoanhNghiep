@@ -7,9 +7,9 @@ Tên công ty viết bằng tiếng nước ngoài:
 
 Tên công ty viết tắt:  
 
-2. Địa chỉ trụ sở chính: Số nhà 119,đường ĐX 132,khu phố 6, phường Phú An, thành phố Hồ Chí Minh
+2. Địa chỉ trụ sở chính: Số nhà 119,đường ĐX 132, khu phố 6, phường Phú An, thành phố Hồ Chí Minh
 
-Điện thoại: 
+Điện thoại: 0379996586
 
 Fax:
 
@@ -24,16 +24,17 @@ Bằng chữ: Tám tỷ đồng
  
 Chủ sở hữu:
 
-Họ và tên:HUỲNH MAI TRUNG TÍNH
+Họ và tên: HUỲNH MAI TRUNG TÍNH
 Ngày, tháng, năm sinh:01/10/1992
 Số định danh cá nhân: 089092010833
 Ngày cấp:12/08/2021
+Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Giới tính:Nam
 Quốc tịch:Việt Nam
 Dân tộc:Kinh
 Nơi thường trú:Số nhà 119, đường DX 132, khu phố Tân An 6, phường Phú An, thành phố Hồ Chí Minh 
 Nơi ở hiện tại:Số nhà 119, đường DX 132, khu phố Tân An 6, phường Phú An, thành phố Hồ Chí Minh
-Số điện thoại:
+Số điện thoại:0379996586
 
 
 Người đại diện theo pháp luật:
@@ -43,11 +44,12 @@ Ngày, tháng, năm sinh:01/10/1992
 Số định danh cá nhân: 089092010833
 Chức vụ: Giám đốc
 Ngày cấp:12/08/2021
+Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Giới tính:Nam
 Quốc tịch:Việt Nam
 Dân tộc:Kinh
 Nơi thường trú:Số nhà 119, đường DX 132, khu phố Tân An 6, phường Phú An, thành phố Hồ Chí Minh 
 Nơi ở hiện tại:Số nhà 119, đường DX 132, khu phố Tân An 6, phường Phú An, thành phố Hồ Chí Minh
-Số điện thoại:
+Số điện thoại:0379996586
 
 Ngày trên tất cả văn bản: 28/1/2026
