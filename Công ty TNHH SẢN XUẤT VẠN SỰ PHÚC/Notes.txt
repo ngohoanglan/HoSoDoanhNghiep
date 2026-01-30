@@ -1,7 +1,7 @@
 Tên công ty: CÔNG TY TNHH SẢN XUẤT VẠN SỰ PHÚC
 Địa chỉ: Số 5/28, Đường Bùi Hữu Nghĩa, Khu phố Bình Đức 2, Phường Bình Hòa, Thành Phố Hồ Chí Minh, Việt Nam
 SĐT: 0898684846
-
+Vốn điều lệ: 2.000.000.000.000 (Hai tỷ đồng)
 Chủ sở hữu và đại diện pháp luật:
 Họ và tên: LƯU THỊ MAI KHANH
 Ngày sinh: 15/04/1993
@@ -13,8 +13,24 @@ Căn cước công dân: 080193017636
 Ngày cấp: 23/11/2022
 Nơi cấp: 
 Chức vụ: Giám đốc
+SĐT: 0898684846
 
-VẠN SỰ PHÚC
-GIA CÔNG CƠ KHÍ
-GIA CÔNG GIẤY
-GIA CÔNG NHỰA ( GIỐNG CTY NGỌC THĂNG)
+Ngành nghề: 
+2592	Gia công cơ khí; xử lý và tráng phủ kim loại
+2511	Sản xuất các cấu kiện kim loại
+2599	Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu
+2591	Rèn, dập, ép và cán kim loại; luyện bột kim loại
+2593	Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng
+3311	Sửa chữa, bảo dưỡng các sản phẩm kim loại đúc sẵn
+4659	Bán buôn máy móc, thiết bị và phụ tùng máy khác
+4649	Bán buôn đồ dùng khác cho gia đình
+4673	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+4679	Bán buôn chuyên doanh khác chưa được phân vào đâu
+4752	Bán lẻ đồ ngũ kim, sơn, kính, vật liệu và thiết bị lắp đặt khác trong xây dựng
+1701	Sản xuất bột giấy, giấy và bìa
+1702	Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa
+1709	Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu
+2220	Sản xuất sản phẩm từ plastic
+2013	Sản xuất plastic và cao su tổng hợp dạng nguyên sinh
+
+
