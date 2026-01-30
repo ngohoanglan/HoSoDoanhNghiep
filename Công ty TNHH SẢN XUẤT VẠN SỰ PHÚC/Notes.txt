@@ -1,7 +1,8 @@
 Tên công ty: CÔNG TY TNHH SẢN XUẤT VẠN SỰ PHÚC
-Địa chỉ: Số 5/28, Đường Bùi Hữu Nghĩa, Khu phố Bình Đức 2, Phường Bình Hòa, Thành Phố Hồ Chí Minh, Việt Nam
-SĐT: 0898684846
-Vốn điều lệ: 2.000.000.000.000 (Hai tỷ đồng)
+Địa chỉ trụ sở: Số 5/28, Đường Bùi Hữu Nghĩa, Khu phố Bình Đức 2, Phường Bình Hòa, Thành Phố Hồ Chí Minh, Việt Nam
+Số điện thoại: 0898684846
+Vốn điều lệ: 2.000.000.000 (Hai tỷ đồng)
+
 Chủ sở hữu và đại diện pháp luật:
 Họ và tên: LƯU THỊ MAI KHANH
 Ngày sinh: 15/04/1993
@@ -9,11 +10,11 @@ Giới tính: Nữ
 Quốc tịch: Việt Nam
 Nơi thường trú: Số 35, Đx 119, Tổ 54, Khu 7, Phường Phú An, Thành Phố Hồ Chí Minh
 Địa chỉ liên lạc: Số 35, Đx 119, Tổ 54, Khu 7, Phường Phú An, Thành Phố Hồ Chí Minh
-Căn cước công dân: 080193017636
+Số định danh cá nhân: 080193017636
 Ngày cấp: 23/11/2022
-Nơi cấp: 
+Nơi cấp: Cục cảnh sát quản lý  hành chính về trật tự xã hội
 Chức vụ: Giám đốc
-SĐT: 0898684846
+Số điện thoại: 0898684846
 
 Ngành nghề: 
 2592	Gia công cơ khí; xử lý và tráng phủ kim loại
@@ -33,4 +34,4 @@ Ngành nghề:
 2220	Sản xuất sản phẩm từ plastic
 2013	Sản xuất plastic và cao su tổng hợp dạng nguyên sinh
 
-
+Ngày trên văn bản: 30/01/2026
