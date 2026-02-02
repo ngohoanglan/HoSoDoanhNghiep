@@ -1,52 +1,33 @@
-Mã số doanh nghiệp: 0317502400 
-Đăng ký lần đầu: ngày 03 tháng 10 năm 2022 
-Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ PCCC TRUNG NGHĨA 
-Tên công ty viết bằng tiếng nước ngoài: (Trống) 
-Tên công ty viết tắt: (Trống) 
-2. Địa chỉ trụ sở chính 
-Địa chỉ: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
-Điện thoại: 0935222936 
-Email: (Trống) 
-Fax: (Trống) 
-Website: (Trống) 
-3. Vốn điều lệ 
-Số tiền: 2.000.000.000 đồng 
-Bằng chữ: Hai tỷ đồng 
-4. Thông tin về thành viên thứ nhất đồng thời đại diện pháp luật
-Họ và tên: NGUYỄN NGỌC TRUNG 
-Sinh ngày: 05/09/1987 
+Mã số doanh nghiệp: 3702817380 
+Đăng ký lần đầu: Ngày 09 tháng 10 năm 2019, Đăng ký thay đổi lần thứ: 2, ngày 11 tháng 04 năm 2023
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH HOÀNG NGỌC KHANG 
+Địa chỉ trụ sở chính: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam 
+Điện thoại: 0932.136.669 
+Vốn điều lệ: 5.000.000.000 đồng (Năm tỷ đồng) 
+THÔNG TIN THÀNH VIÊN VÀ ĐẠI DIỆN PHÁP LUẬT
+1. Thông tin về thành viên thứ nhất đồng thời đại diện pháp luật
+Họ và tên: PHẠM THANH HỮU NGHĨA 
+Sinh ngày: 10/06/1986 
 Dân tộc: Kinh 
 Giới tính: Nam 
 Quốc tịch: Việt Nam 
-Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân 
-Số giấy tờ pháp lý của cá nhân: 079087004246 
-Ngày cấp: 29/07/2022 
-Nơi cấp: Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội 
-Địa chỉ thường trú: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
-Địa chỉ liên lạc: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
-Vốn vốn: 1.000.000.000( Một tỷ đồng) chiếm 50% vốn điều lệ
-Thời hạn góp vốn: 03/10/2022
-5. Thông tin về thành viên thứ hai
-Họ và tên: TRIỆU THỊ HOÀNG LINH  
-Sinh ngày: 10/01/1987 
+Loại giấy tờ pháp lý: Thẻ căn cước công dân 
+Số giấy tờ pháp lý: 051086014530 
+Ngày cấp: 12/08/2021 
+Nơi cấp: Cục trưởng cục cảnh sát quản lý hành chánh về trật tự xã hội 
+Địa chỉ thường trú: Xóm 6 Thôn Diên Trường, Xã Phổ Khánh, Thị xã Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam
+Địa chỉ liên lạc: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam 
+Vốn góp: 3.500.000.000 đồng (Ba tỷ năm trăm triệu đồng) chiếm 70% vốn điều lệ
+2. Thông tin về thành viên thứ hai
+Họ và tên: TRƯƠNG THỊ THÚY KIỀU 
+Sinh ngày: 10/06/1990 
 Dân tộc: Kinh 
 Giới tính: Nữ 
 Quốc tịch: Việt Nam 
-Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân 
-Số giấy tờ pháp lý của cá nhân: 068187008353 
-Ngày cấp: 18/01/2022 
+Loại giấy tờ pháp lý: Thẻ căn cước công dân 
+Số giấy tờ pháp lý: 051190012893 
+Ngày cấp: 27/12/2021
 Nơi cấp: Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội 
-Địa chỉ thường trú: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
+Địa chỉ thường trú: Thôn Châu Me, Phổ Châu, Thị xã Đức Phổ, Quảng Ngãi 
 Địa chỉ liên lạc: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
-Vốn vốn: 1.000.000.000( Một tỷ đồng) chiếm 50% vốn điều lệ
-Thời hạn góp vốn: 02/02/2026
-
-
-Nội dung thay đổi: Chuyển đổi công ty thành công ty TNHH 2 thành viên trở lên
-Thay đổi địa chỉ trụ sở do sáp nhập: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh
-Thay đổi địa chỉ NGUYỄN NGỌC TRUNG do sáp nhập: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh
-Ngày 02/02/2026 Ông NGUYỄN NGỌC TRUNG Bán 50% vốn cho bà TRIỆU THỊ HOÀNG LINH
-Thay đổi, cập nhật ngành nghề:
-		
-
-Ngày văn bản: 02/02/2026
+Vốn góp: 1.500.000.000 đồng (Một tỷ năm trăm triệu đồng) chiếm 30% vốn điều lệ
