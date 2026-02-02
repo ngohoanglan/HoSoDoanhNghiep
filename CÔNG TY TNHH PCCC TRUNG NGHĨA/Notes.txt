@@ -25,7 +25,7 @@ Nơi cấp: Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trậ
 Địa chỉ thường trú: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
 Địa chỉ liên lạc: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
 Vốn vốn: 1.000.000.000( Một tỷ đồng) chiếm 50% vốn điều lệ
-Thời điểm góp vốn: 03/10/2022
+Thời hạn góp vốn: 03/10/2022
 5. Thông tin về thành viên thứ hai
 Họ và tên: TRIỆU THỊ HOÀNG LINH  
 Sinh ngày: 10/01/1987 
@@ -39,7 +39,7 @@ Nơi cấp: Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trậ
 Địa chỉ thường trú: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
 Địa chỉ liên lạc: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
 Vốn vốn: 1.000.000.000( Một tỷ đồng) chiếm 50% vốn điều lệ
-Thời điểm góp vốn: 02/02/2026
+Thời hạn góp vốn: 02/02/2026
 
 
 Nội dung thay đổi: Chuyển đổi công ty thành công ty TNHH 2 thành viên trở lên
