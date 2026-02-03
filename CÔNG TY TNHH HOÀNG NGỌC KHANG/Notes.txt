@@ -1,7 +1,7 @@
 Mã số doanh nghiệp: 3702817380 
 Đăng ký lần đầu: Ngày 09 tháng 10 năm 2019, Đăng ký thay đổi lần thứ: 2, ngày 11 tháng 04 năm 2023
 Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH HOÀNG NGỌC KHANG 
-Địa chỉ trụ sở chính: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam 
+Địa chỉ trụ sở chính: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Dĩ An, Thành phố Hồ Chí Minh, Việt Nam 
 Điện thoại: 0932.136.669 
 Vốn điều lệ: 5.000.000.000 đồng (Năm tỷ đồng) 
 THÔNG TIN THÀNH VIÊN VÀ ĐẠI DIỆN PHÁP LUẬT
@@ -15,9 +15,9 @@ Loại giấy tờ pháp lý: Thẻ căn cước công dân
 Số giấy tờ pháp lý: 051086014530 
 Ngày cấp: 12/08/2021 
 Nơi cấp: Cục trưởng cục cảnh sát quản lý hành chánh về trật tự xã hội 
-Địa chỉ thường trú: Xóm 6 Thôn Diên Trường, Xã Phổ Khánh, Thị xã Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam
-Địa chỉ liên lạc: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam 
-Vốn góp: 3.500.000.000 đồng (Ba tỷ năm trăm triệu đồng) chiếm 70% vốn điều lệ
+Địa chỉ thường trú: Xóm 6 Thôn Diên Trường, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam
+Địa chỉ liên lạc: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Dĩ An, Thành phố Hồ Chí Minh, Việt Nam 
+Vốn góp: 3.500.000.000 đồng (Ba tỷ năm trăm triệu đồng) chiếm 70% vốn điều lệ, ngày góp 09/10/2019
 2. Thông tin về thành viên thứ hai
 Họ và tên: TRƯƠNG THỊ THÚY KIỀU 
 Sinh ngày: 10/06/1990 
@@ -28,8 +28,8 @@ Loại giấy tờ pháp lý: Thẻ căn cước công dân
 Số giấy tờ pháp lý: 051190012893 
 Ngày cấp: 27/12/2021
 Nơi cấp: Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội 
-Địa chỉ thường trú: Thôn Châu Me, Phổ Châu, Thị xã Đức Phổ, Quảng Ngãi 
-Địa chỉ liên lạc: 450 Đường số 2, Phường Long Trường, Thành phố Hồ Chí Minh, Việt Nam 
+Địa chỉ thường trú: Thôn Châu Me, phường Sa Huỳnh,Tỉnh Quảng Ngãi, Việt Nam
+Địa chỉ liên lạc: Số 62/26 Đường Nguyễn Thị Phố, Khu phố Đông Chiêu, Phường Dĩ An, Thành phố Hồ Chí Minh, Việt Nam
 Vốn góp: 1.500.000.000 đồng (Một tỷ năm trăm triệu đồng) chiếm 30% vốn điều lệ
 
 Nội dung thay đổi:
@@ -37,3 +37,5 @@ Nội dung thay đổi:
 2. Cập nhật địa chỉ liên lạc, thường trú ông Nghĩa do sáp nhập tỉnh thành
 3. Cập nhật địa chỉ trụ sở công ty do sáp nhập tỉnh thành
 4. Cập nhật ngành nghề
+
+Ngày văn bản 03/02/2026
