@@ -13,10 +13,21 @@ Tên công ty viết tắt: ASIA METAL CO., LTD
 3. Vốn điều lệ 
 Số tiền: 20.000.000.000 đồng 
 Bằng chữ: Hai mươi tỷ đồng 
-4. Danh sách thành viên góp vốn 
-STT	Tên thành viên	Quốc tịch	Địa chỉ liên lạc/Trụ sở chính	Phần vốn góp (VNĐ)	Tỷ lệ (%)	Số Giấy tờ pháp lý
-1	TRƯƠNG NGỌC DIỄM	Việt Nam	141A1 Nguyễn Văn Hưởng, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam	18.000.000.000 VNĐ	90,000	086178000407
-2	PHẠM MINH KHANG	Việt Nam	N34 Khu phố 4, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam	2.000.000.000 VNĐ	10,000	042084000413
+4. Danh sách thành viên góp vốn hiện tại:
+	TRƯƠNG NGỌC DIỄM
+	Địa chỉ liên lạc: 141A1 Nguyễn Văn Hưởng, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam
+	Phần vốn góp: 	18.000.000.000 VNĐ
+	Tỷ lệ (%): 90
+	Số Giấy tờ pháp lý: 086178000407
+
+	PHẠM MINH KHANG
+	Địa chỉ liên lạc: N34 Khu phố 4, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh, Việt Nam
+	Phần vốn góp: 2.000.000.000 VNĐ
+	Tỷ lệ (%):10
+	Số Giấy tờ pháp lý:042084000413
+	
+4. Danh sách thành viên góp vốn sau chuyển nhượng:
+	
 5. Người đại diện theo pháp luật của công ty 
 Họ và tên: TRƯƠNG NGỌC DIỄM 
 Chức danh: Giám đốc 
@@ -28,8 +39,8 @@ Loại giấy tờ pháp lý: Thẻ căn cước công dân
 Số giấy tờ pháp lý: 086178000407 
 Ngày cấp: 22/12/2021 
 Nơi cấp: Cục cảnh sát Quản lý hành chính về trật tự xã hội 
-Địa chỉ thường trú: 19B Bạch Đằng 2, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam 
-Địa chỉ liên lạc: 141A1 Nguyễn Văn Hưởng, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam 
+Địa chỉ thường trú: 19B Bạch Đằng 2, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam 
+Địa chỉ liên lạc: 141A1 Nguyễn Văn Hưởng, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam 
 
 Nội dung thay đổi:
 1. TRƯƠNG NGỌC DIỄM chuyển 90% vốn 18.000.000.000 VNĐ qua cho NGUYỄN CHÍ THIỆN => Công ty sẽ có 02 thành viên:  KHANG 10% vốn điều lệ 2.000.000.000 VNĐ, THIỆN 90% vốn điều lệ(Vì Diễm đã chuyển hết tất cả 90% cho Thiện)
@@ -70,3 +81,39 @@ Nội dung thay đổi:
 		
 		
 Ngày trên văn bản: 03/02/2026
+
+Thông tin các cá nhân liên quan:
+
+Họ và tên: NGUYỄN CHÍ THIỆN
+Căn cước công dân: 079063024131
+Ngày cấp: 02/08/2022
+Ngày sinh: 18/05/1963
+Giới tính: Nam
+Quốc tịch: Việt Nam
+Quê quán: Loan Mỹ, Tam Bình, Vĩnh Long
+Địa chỉ thường trú:21/6 Xuân Thủy, Kp4, Phường An Khánh, Thành phố Hồ Chí Minh
+Địa chỉ liên lạc: 21/6 Xuân Thủy, Kp4, Phường An Khánh, Thành phố Hồ Chí Minh
+
+
+Họ và tên: TRƯƠNG QUỐC TÂM
+Căn cước công dân: 086089011231
+Ngày cấp: 29/11/2023
+Ngày sinh: 10/05/1989
+Giới tính: Nam
+Quốc tịch: Việt Nam
+Quê quán: Thôn An Thành Đông, xã Trung Thành, tỉnh Vĩnh Long
+Nơi thường trú: Thôn An Thành Đông, xã Trung Thành, tỉnh Vĩnh Long
+
+
+
+
+Họ và tên:HUANG, PINGHUA
+Giới tính:Nam
+Quốc tịch: Trung Quốc
+Ngày sinh: 12/07/1979
+Số hộ chiếu: EJ4788340
+Ngày cấp: 14/04/2021
+Cơ quan cấp:Tổng lãnh sự quán CHND Trung Hoa tại Thành phố Hồ Chí Minh 
+Địa chỉ thường trú:Vườn Xinlong, Đường Dongfeng West, Thị trấn Laolong, Huyện Longchuan, Thành phố Heyuan, Tỉnh Quảng Đông, Trung Quốc
+Địa chỉ liên lạc: Thửa đất số 12, Tờ bản đồ số 110, Khu phố Bình Thuận 2, Phường Thuận Giao, Thành phố Hồ Chí Minh, Việt Nam
+Số điện thoại:0938767090
