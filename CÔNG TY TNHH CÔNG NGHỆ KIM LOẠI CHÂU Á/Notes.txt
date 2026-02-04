@@ -32,13 +32,15 @@ Bằng chữ: Hai mươi tỷ đồng
 	Địa chỉ liên lạc: 21/6 Xuân Thủy, Kp4, Phường An Khánh, Thành phố Hồ Chí Minh
 	Phần vốn góp: 	18.000.000.000 VNĐ
 	Tỷ lệ (%): 90
-	Số Giấy tờ pháp lý: 079063024131
-
+	Căn cước công dân: 079063024131
+	Ngày cấp: 02/08/2022
+	Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
+	
 	PHẠM MINH KHANG
 	Địa chỉ liên lạc: N34 Khu phố 4, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh, Việt Nam
 	Phần vốn góp: 2.000.000.000 VNĐ
 	Tỷ lệ (%):10
-	Số Giấy tờ pháp lý:042084000413
+	Căn cước công dân:042084000413
 	
 5. Người đại diện theo pháp luật hiện tại của công ty 
 	Họ và tên: TRƯƠNG NGỌC DIỄM 
@@ -59,6 +61,7 @@ Bằng chữ: Hai mươi tỷ đồng
 	Chức danh: Giám đốc
 	Căn cước công dân: 086089011231
 	Ngày cấp: 29/11/2023
+	Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 	Ngày sinh: 10/05/1989
 	Giới tính: Nam
 	Quốc tịch: Việt Nam
@@ -83,6 +86,7 @@ Nội dung thay đổi:
 2. TRƯƠNG QUỐC TÂM - Đại diện pháp luật với chức danh Giám Đốc thay thế  TRƯƠNG NGỌC DIỄM
 3. HUANG, PINGHUA - Đại diện pháp luật thứ 2 với chức danh Phó Giám Đốc
 4. Cập nhật địa chỉ công ty vì sáp nhập tỉnh thành: Thửa đất số 12, Tờ bản đồ số 110, Khu phố Bình Thuận 2, Phường Thuận Giao, Thành phố Hồ Chí Minh
+4.1 Cập nhật thông tin căn cước, địa chỉ ông PHẠM MINH KHANG;CCCD số: 042084000413, ngày cấp: 10/08/2024; Địa chỉ liên lạc: N34 Khu phố 4, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh, Việt Nam
 5. Thay đổi ngành nghề kinh doanh:
 	5.1 Bổ sung
 		4673	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
@@ -123,6 +127,7 @@ Thông tin các cá nhân liên quan:
 Họ và tên: NGUYỄN CHÍ THIỆN
 Căn cước công dân: 079063024131
 Ngày cấp: 02/08/2022
+Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Ngày sinh: 18/05/1963
 Giới tính: Nam
 Quốc tịch: Việt Nam 
@@ -133,6 +138,7 @@ Quốc tịch: Việt Nam
 Họ và tên: TRƯƠNG QUỐC TÂM
 Căn cước công dân: 086089011231
 Ngày cấp: 29/11/2023
+Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Ngày sinh: 10/05/1989
 Giới tính: Nam
 Quốc tịch: Việt Nam
