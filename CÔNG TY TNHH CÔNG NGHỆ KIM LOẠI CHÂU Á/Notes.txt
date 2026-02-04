@@ -15,8 +15,8 @@ Số tiền: 20.000.000.000 đồng
 Bằng chữ: Hai mươi tỷ đồng 
 4. Danh sách thành viên góp vốn 
 STT	Tên thành viên	Quốc tịch	Địa chỉ liên lạc/Trụ sở chính	Phần vốn góp (VNĐ)	Tỷ lệ (%)	Số Giấy tờ pháp lý
-1	TRƯƠNG NGỌC DIỄM	Việt Nam	141A1 Nguyễn Văn Hưởng, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam	18.000.000.000	90,000	086178000407
-2	PHẠM MINH KHANG	Việt Nam	N34 Khu phố 4, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam	2.000.000.000	10,000	042084000413
+1	TRƯƠNG NGỌC DIỄM	Việt Nam	141A1 Nguyễn Văn Hưởng, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam	18.000.000.000 VNĐ	90,000	086178000407
+2	PHẠM MINH KHANG	Việt Nam	N34 Khu phố 4, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam	2.000.000.000 VNĐ	10,000	042084000413
 5. Người đại diện theo pháp luật của công ty 
 Họ và tên: TRƯƠNG NGỌC DIỄM 
 Chức danh: Giám đốc 
@@ -32,7 +32,7 @@ Nơi cấp: Cục cảnh sát Quản lý hành chính về trật tự xã hội
 Địa chỉ liên lạc: 141A1 Nguyễn Văn Hưởng, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam 
 
 Nội dung thay đổi:
-1. TRƯƠNG NGỌC DIỄM chuyển 90% vốn qua cho NGUYỄN CHÍ THIỆN => Công ty sẽ có 02 thành viên:  KHANG 10% vốn điều lệ, THIỆN 90% vốn điều lệ(Vì Diễm đã chuyển hết tất cả 90% cho Thiện)
+1. TRƯƠNG NGỌC DIỄM chuyển 90% vốn 18.000.000.000 VNĐ qua cho NGUYỄN CHÍ THIỆN => Công ty sẽ có 02 thành viên:  KHANG 10% vốn điều lệ 2.000.000.000 VNĐ, THIỆN 90% vốn điều lệ(Vì Diễm đã chuyển hết tất cả 90% cho Thiện)
 2. TRƯƠNG QUỐC TÂM - Đại diện pháp luật với chức danh Giám Đốc thay thế  TRƯƠNG NGỌC DIỄM
 3. HUANG PINGHUA - Đại diện pháp luật thứ 2 với chức danh Phó Giám Đốc
 4. Cập nhật địa chỉ công ty vì sáp nhập tỉnh thành: Thửa đất số 12, Tờ bản đồ số 110, Khu phố Bình Thuận 2, Phường Thuận Giao, Thành phố Hồ Chí Minh
