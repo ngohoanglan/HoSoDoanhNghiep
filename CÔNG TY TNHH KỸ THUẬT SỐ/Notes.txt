@@ -1,0 +1,68 @@
+Mã số doanh nghiệp: 3703089575 
+Đăng ký lần đầu: ngày 19 tháng 10 năm 2022 
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH CÔNG NGHỆ VÀ GIẢI PHÁP VÙNG ĐẤT KỸ THUẬT SỐ. 
+Tên công ty viết bằng tiếng nước ngoài: 
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính: Số 25 đường Trần Nguyên Hãn, khu phố Thắng Lợi 2, Phường Dĩ An, Thành Phố Hồ Chí Minh, Việt Nam 
+
+Điện thoại: 0933.550.224 
+
+3. Vốn điều lệ 
+Bằng số: 1.000.000.000 đồng 
+Bằng chữ: Một tỷ đồng 
+
+Thành viên thứ nhất đồng thời là đại diện pháp luật
+Chức danh: Giám đốc 
+Họ và tên: TRẦN NGỌC NHÂN 
+Sinh ngày: 28/02/1989 
+Dân tộc: Kinh 
+Giới tính: Nam 
+Quốc tịch: Việt Nam 
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 051089009598 
+Ngày cấp: 26/02/2022 
+Nơi cấp: Cục trưởng Cục cảnh sát quản lý hành chính về trật tự xã hội 
+Địa chỉ thường trú: Xóm 7, thôn Diên Trường, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam 
+Địa chỉ liên lạc: Số 97 đường số 3, khu phố Nhị Đồng 1, Phường Dĩ An, Thành Phố Hồ Chí Minh, Việt Nam
+Vốn góp: 700.000.000 VNĐ chiếm 70% vốn điều lệ; ngày góp vốn 19/10/2022
+Số điện thoại:
+0933.550.224
+	
+Thành viên thứ 2
+Họ và tên: LÊ THỊ PHƯƠNG
+Căn cước công dân: 051191004680
+Ngày cấp: 06/06/2023 
+Nơi cấp: Cục trưởng Cục cảnh sát quản lý hành chính về trật tự xã hội 
+Ngày sinh: 10/08/1991
+Giới tính: Nữ
+Quốc tịch : Việt Nam
+Địa chỉ thường trú: Xóm 7, thôn Diên Trường, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam 
+Địa chỉ liên lạc: Số 97 đường số 3, khu phố Nhị Đồng 1, Phường Dĩ An, Thành Phố Hồ Chí Minh, Việt Nam
+Vốn góp: 300.000.000 VNĐ chiếm 30% vốn điều lệ; ngày góp vốn 05/02/2026
+
+
+Nội dung thay đổi:
+1. Ông NHÂN bán lại 30% vốn(ban đầu là công ty TNHH 1 thành viên) cho bà PHƯƠNG để trở thành công ty TNHH 2 thành viên, ngày bán 05/02/2026, giá trị 300.000.000 đồng (Ba trăm triệu đồng)
+2. Cập nhật địa chỉ liên lạc, thường trú ông NHÂN do sáp nhập tỉnh thành
+3. Cập nhật địa chỉ trụ sở công ty do sáp nhập tỉnh thành
+4. Cập nhật ngành nghề
+
+	- Bổ sung:
+		5913	Hoạt động phát hành phim điện ảnh, video và chương trình truyền hình
+		6219	Lập trình máy tính khác
+		6290	Hoạt động dịch vụ máy tính và công nghệ thông tin khác
+		6310	Cơ sở hạ tầng công nghệ thông tin, xử lý dữ liệu, lưu trữ và các hoạt động liên quan
+		6390	Hoạt động cổng tìm kiếm web và các dịch vụ thông tin khác
+				Chi tiết: dịch vụ cho thuê máy in , máy tính,...
+	
+	- Xóa:
+		6021	Hoạt động truyền hình
+		6201	Lập trình máy vi tính
+		6022	Chương trình cáp, vệ tinh và các chương trình thuê bao khác
+		6202	Tư vấn máy vi tính và quản trị hệ thống máy vi tính
+		6209	Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính
+		
+	- Cập nhật:
+		4651	Bán buôn máy tính, thiết bị ngoại vi và phần mềm(Ngành chính)
+				Chi tiết: Mua bán máy vi tính, máy chấm công, tổng đài, camera...v.v.v.
+	
