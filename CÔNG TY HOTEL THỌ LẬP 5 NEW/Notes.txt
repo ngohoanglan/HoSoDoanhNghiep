@@ -7,10 +7,13 @@ Tên công ty viết bằng tiếng nước ngoài:
 
 Tên công ty viết tắt:  
 
-2. Địa chỉ trụ sở chính: Số 2-4, DC 69, Đường D1, Khu phố 4, Phường An Phú, Thành phố Hồ Chí Minh 
-
+2. Địa chỉ trụ sở chính:
+	Số nhà/phòng, ngách/hẻm, ngõ/kiệt, đường/phố/đại lộ, tổ/xóm/ấp/thôn: Số 2-4, DC 69, Đường D1, Khu phố 4
+	Xã/Phường/Đặc khu: Phường An Phú
+	Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
+	Quốc gia: Việt Nam 
 Điện thoại: 0354789879
-Email: hoteltholap5@gmail.com
+Thư điện tử :hoteltholap5@gmail.com
 
 
 3. Vốn điều lệ: 2.000.000.000 đồng.
@@ -28,8 +31,16 @@ Nơi cấp: Cục Cảnh sát quản lý hành chính về trật tự xã hội
 Giới tính:Nữ
 Quốc tịch:Việt Nam
 Dân tộc:Hoa
-Nơi thường trú: Tổ 5, Ấp 11, Xã Xuân Đông, Tỉnh Đồng Nai
-Địa chỉ liên lạc: Tổ 5, Ấp 11, Xã Xuân Đông, Tỉnh Đồng Nai
+Nơi thường trú:
+	Số nhà/phòng, ngách/hẻm, ngõ/kiệt, đường/phố/đại lộ, tổ/xóm/ấp/thôn: Tổ 5, Ấp 11
+	Xã/Phường/Đặc khu: Xã Xuân Đông
+	Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Đồng Nai
+	Quốc gia: Việt Nam 
+Địa chỉ liên lạc: 
+	Số nhà/phòng, ngách/hẻm, ngõ/kiệt, đường/phố/đại lộ, tổ/xóm/ấp/thôn: Tổ 5, Ấp 11
+	Xã/Phường/Đặc khu: Xã Xuân Đông
+	Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Đồng Nai
+	Quốc gia: Việt Nam
 
 Số điện thoại:0354789879
 Chức vụ: Giám đốc
