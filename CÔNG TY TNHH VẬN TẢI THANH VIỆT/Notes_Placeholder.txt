@@ -9,7 +9,7 @@ TRU_SO_1={Phường Phú Lợi}
 TRU_SO_2={Thành phố Hồ Chí Minh}
 TRU_SO_DIEN_THOAI={0379293087}
 TRU_SO_EMAIL={}
-SO_LAO_DONG:{2}
+SO_LAO_DONG={2}
 VON_DIEU_LE_VND={500.000.000 VNĐ}
 VON_DIEU_LE_CHU={Năm trăm triệu đồng}
 
@@ -30,7 +30,7 @@ CSH_LIEN_LAC_2={Tỉnh An Giang}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
 CSH_LIEN_LAC_FULL={168, Ấp Hưng Trung, Đào Hữu Cảnh, Xã Châu Phú,Tỉnh An Giang, Việt Nam}
 CSH_DIEN_THOAI={0379293087}
-
+CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
 DDPL_HO_TEN={ĐỖ THỊ MỸ LIÊN}
@@ -46,10 +46,10 @@ DDPL_THUONG_TRU_2={Tỉnh An Giang}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
 DDPL_LIEN_LAC_0={168, Ấp Hưng Trung, Đào Hữu Cảnh}
 DDPL_LIEN_LAC_1={Xã Châu Phú}
-DDPL_LIEN_LAC_2={Tỉnh An Giang}}
+DDPL_LIEN_LAC_2={Tỉnh An Giang}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
 DDPL_DIEN_THOAI={0379293087}
-
+DDPL_EMAIL={}
 
 UY_QUYEN_HO_TEN={ĐỖ THỊ MỸ LIÊN}
 UY_QUYEN_NGAY_SINH={15/02/2000}
@@ -66,6 +66,7 @@ UY_QUYEN_DIEN_THOAI={0379293087}
 UY_QUYEN_EMAIL={congtyvantaithanhviet@gmail.com}
 NGAY_KY={23/2/2026}
 
+{DANH_SACH_NGANH_NGHE}
 
 4933;Vận tải hàng hóa bằng đường bộ (Ngành chính)
 
