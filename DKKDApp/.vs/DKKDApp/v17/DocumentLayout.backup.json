@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\DKKDApp\\",
+  "WorkspaceRootPath": "D:\\HoSoDoanhNghiep\\DKKDApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|c:\\users\\admin\\source\\repos\\dkkdapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|d:\\hosodoanhnghiep\\dkkdapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|c:\\users\\admin\\source\\repos\\dkkdapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|d:\\hosodoanhnghiep\\dkkdapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|c:\\users\\admin\\source\\repos\\dkkdapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|d:\\hosodoanhnghiep\\dkkdapp\\businesslinetablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|solutionrelative:businesslinetablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|D:\\HoSoDoanhNghiep\\DKKDApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8E20185-A5E2-4F2C-8F5D-D1BF061084B9}|DKKDApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessLineTableHelper.cs",
+              "DocumentMoniker": "D:\\HoSoDoanhNghiep\\DKKDApp\\BusinessLineTableHelper.cs",
+              "RelativeDocumentMoniker": "BusinessLineTableHelper.cs",
+              "ToolTip": "D:\\HoSoDoanhNghiep\\DKKDApp\\BusinessLineTableHelper.cs",
+              "RelativeToolTip": "BusinessLineTableHelper.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA5wGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:29:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Program.cs",
+              "DocumentMoniker": "D:\\HoSoDoanhNghiep\\DKKDApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Program.cs",
+              "ToolTip": "D:\\HoSoDoanhNghiep\\DKKDApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T04:10:04.833Z",
               "EditorCaption": ""
@@ -45,26 +62,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Form1.cs",
+              "DocumentMoniker": "D:\\HoSoDoanhNghiep\\DKKDApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAArwCYAAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\HoSoDoanhNghiep\\DKKDApp\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABgBAAAAAAAAAIA8wDwBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T04:09:26.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Form1.cs",
+              "DocumentMoniker": "D:\\HoSoDoanhNghiep\\DKKDApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\DKKDApp\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T02:38:52.42Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-21T02:38:52.42Z"
             }
           ]
         }

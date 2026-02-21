@@ -66,16 +66,11 @@ UY_QUYEN_DIEN_THOAI={0379293087}
 UY_QUYEN_EMAIL={congtyvantaithanhviet@gmail.com}
 NGAY_KY={ngày 23 tháng 2 năm 2026}
 
-{DANH_SACH_NGANH_NGHE}
-
-4933;Vận tải hàng hóa bằng đường bộ (Ngành chính)
-
+DANH_SACH_NGANH_NGHE_BEGIN={}
+4933;Vận tải hàng hóa bằng đường bộ;Ngành chính
 5229;Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải
-
 5225;Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ
-
 5231;Hoạt động dịch vụ trung gian cho vận tải hàng hóa
-
 5232;Hoạt động dịch vụ trung gian cho vận tải hành khách
-
 4932;Vận tải hành khách đường bộ khác
+DANH_SACH_NGANH_NGHE_END={}
