@@ -36,7 +36,7 @@ namespace DKKDApp
                 Console.WriteLine($"Đã đọc Notes: {map.Count} key.");
                 Console.WriteLine($"Đã đọc ngành nghề: {businessLines.Count} dòng.");
 
-                // 2) Danh sách 4 template nằm ở thư mục gốc
+                // 2) Danh sách 4 template cùng thư mục gốc
                 var templates = new[]
                 {
                     "GIẤY ĐỀ NGHỊ_Mẫu số 2.docx",
@@ -56,6 +56,7 @@ namespace DKKDApp
                     }
 
                     string outPath = Path.Combine(baseDir, Path.GetFileNameWithoutExtension(name) + "_DA_DIEN.docx");
+
                     FillOneDocx(inputPath, outPath, map, businessLines);
 
                     Console.WriteLine("OK: " + outPath);
@@ -72,20 +73,27 @@ namespace DKKDApp
             }
         }
         static void FillOneDocx(string inputDocx, string outputDocx,
-            Dictionary<string, string> map,
-            List<BusinessLine> businessLines)
+          Dictionary<string, string> map,
+          List<BusinessLine> businessLines)
         {
             using var doc = DocX.Load(inputDocx);
 
-            // (A) Replace các placeholder bình thường {KEY} (trừ DANH_SACH_NGANH_NGHE)
-            ReplaceEverywhereExceptBusinessPlaceholder(doc, map);
+            // (A) Điền bảng ngành nghề theo dòng mẫu {BL_*} (nếu file có bảng này)
+            FillBusinessTableByTemplateRow(doc, businessLines);
 
-            // (B) Chèn bảng ngành nghề tại {DANH_SACH_NGANH_NGHE} (nếu file có placeholder này)
-            InsertBusinessLineTableAtPlaceholder(doc, businessLines, "{DANH_SACH_NGANH_NGHE}");
+            // (B) Replace các placeholder bình thường {KEY}
+            //     KHÔNG replace các token {BL_STT},{BL_CODE},{BL_NAME},{BL_MAIN} nữa (vì đã xử lý ở bước A)
+            ReplaceEverywhereExcept(doc, map, new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+            {
+                "BL_STT","BL_CODE","BL_NAME","BL_MAIN"
+            });
 
             doc.SaveAs(outputDocx);
         }
 
+        // =========================================================
+        // 1) Parse Notes (KEY={VALUE} + block ngành nghề BEGIN/END)
+        // =========================================================
         private class NotesParsed
         {
             public Dictionary<string, string> KeyValues { get; } = new(StringComparer.OrdinalIgnoreCase);
@@ -104,7 +112,6 @@ namespace DKKDApp
                 var line = raw.Trim();
                 if (string.IsNullOrWhiteSpace(line)) continue;
 
-                // Begin / End markers
                 if (line.StartsWith("DANH_SACH_NGANH_NGHE_BEGIN", StringComparison.OrdinalIgnoreCase))
                 {
                     inBusiness = true;
@@ -122,12 +129,12 @@ namespace DKKDApp
                     continue;
                 }
 
-                // Parse normal KEY={VALUE}
-                var m = Regex.Match(line, @"^([A-Za-z0-9_]+)\s*=\s*\{(.*)\}\s*$");
+                // KEY={VALUE}  (non-greedy để an toàn)
+                var m = Regex.Match(line, @"^([A-Za-z0-9_]+)\s*=\s*\{(.*?)\}\s*$");
                 if (!m.Success) continue;
 
                 string key = m.Groups[1].Value.Trim();
-                string value = m.Groups[2].Value; // inside {...}, may be empty
+                string value = m.Groups[2].Value;
 
                 parsed.KeyValues[key] = value;
             }
@@ -136,7 +143,7 @@ namespace DKKDApp
             return parsed;
         }
 
-        // Input line format: "4933;Tên ngành;Ngành chính" or "5229;Tên ngành;"
+        // Mỗi dòng: "4933;Tên ngành;Ngành chính" hoặc "5229;Tên ngành;"
         static List<BusinessLine> ParseBusinessLines(IEnumerable<string> rawLines)
         {
             var list = new List<BusinessLine>();
@@ -147,15 +154,14 @@ namespace DKKDApp
                 var line = (raw ?? "").Trim();
                 if (string.IsNullOrWhiteSpace(line)) continue;
 
-                // Split by ';'
                 var parts = line.Split(';').Select(p => p.Trim()).ToList();
                 if (parts.Count == 0) continue;
 
                 string code = parts.Count >= 1 ? parts[0] : "";
                 string name = parts.Count >= 2 ? parts[1] : "";
 
-                // main flag if any part contains "ngành chính"
-                bool isMain = parts.Any(p => p.IndexOf("ngành chính", StringComparison.OrdinalIgnoreCase) >= 0)
+                // Ngành chính: nếu có "ngành chính" ở bất kỳ phần nào sau dấu ';'
+                bool isMain = parts.Skip(2).Any(p => p.IndexOf("ngành chính", StringComparison.OrdinalIgnoreCase) >= 0)
                               || line.IndexOf("ngành chính", StringComparison.OrdinalIgnoreCase) >= 0;
 
                 if (string.IsNullOrWhiteSpace(code) && string.IsNullOrWhiteSpace(name))
@@ -173,148 +179,146 @@ namespace DKKDApp
             return list;
         }
 
-        // =========================
-        // Replace placeholders (except business placeholder)
-        // =========================
-        static void ReplaceEverywhereExceptBusinessPlaceholder(DocX doc, Dictionary<string, string> map)
+        // =========================================================
+        // 2) Fill bảng ngành nghề theo "dòng mẫu" {BL_*}
+        // =========================================================
+        static void FillBusinessTableByTemplateRow(DocX doc, List<BusinessLine> lines)
         {
-            // Body
-            ReplaceInParagraphsExcept(doc.Paragraphs, map, "DANH_SACH_NGANH_NGHE");
-            foreach (var t in doc.Tables) ReplaceInTableExcept(t, map, "DANH_SACH_NGANH_NGHE");
+            if (lines == null || lines.Count == 0) return;
 
-            // Headers/Footers
-            foreach (var s in doc.Sections)
+            // Tìm table có row chứa {BL_CODE} (điểm nhận dạng chắc nhất)
+            var table = doc.Tables.FirstOrDefault(t =>
+                t.Rows.Any(r => RowContainsToken(r, "{BL_CODE}")));
+
+            if (table == null) return;
+
+            // Tìm index dòng mẫu
+            int templateRowIndex = -1;
+            for (int i = 0; i < table.RowCount; i++)
             {
-                if (s.Headers != null)
+                if (RowContainsToken(table.Rows[i], "{BL_CODE}"))
                 {
-                    if (s.Headers.First != null) ReplaceInHeaderFooterExcept(s.Headers.First, map, "DANH_SACH_NGANH_NGHE");
-                    if (s.Headers.Odd != null) ReplaceInHeaderFooterExcept(s.Headers.Odd, map, "DANH_SACH_NGANH_NGHE");
-                    if (s.Headers.Even != null) ReplaceInHeaderFooterExcept(s.Headers.Even, map, "DANH_SACH_NGANH_NGHE");
+                    templateRowIndex = i;
+                    break;
                 }
-                if (s.Footers != null)
+            }
+            if (templateRowIndex < 0) return;
+
+            var templateRow = table.Rows[templateRowIndex];
+
+            // Xoá các dòng dữ liệu cũ (tuỳ bạn). Ở đây: giữ header (row 0) + template row, xoá các row khác.
+            for (int i = table.RowCount - 1; i >= 0; i--)
+            {
+                if (i != 0 && i != templateRowIndex)
+                    table.RemoveRow(i);
+            }
+
+            // Sau khi remove, templateRowIndex có thể thay đổi nếu templateRow không ở cuối.
+            // Ta tìm lại lần nữa:
+            templateRowIndex = -1;
+            for (int i = 0; i < table.RowCount; i++)
+            {
+                if (RowContainsToken(table.Rows[i], "{BL_CODE}"))
                 {
-                    if (s.Footers.First != null) ReplaceInHeaderFooterExcept(s.Footers.First, map, "DANH_SACH_NGANH_NGHE");
-                    if (s.Footers.Odd != null) ReplaceInHeaderFooterExcept(s.Footers.Odd, map, "DANH_SACH_NGANH_NGHE");
-                    if (s.Footers.Even != null) ReplaceInHeaderFooterExcept(s.Footers.Even, map, "DANH_SACH_NGANH_NGHE");
+                    templateRowIndex = i;
+                    break;
+                }
+            }
+            if (templateRowIndex < 0) return;
+
+            templateRow = table.Rows[templateRowIndex];
+
+            // Chèn N dòng dựa trên template row (insert trước template row)
+            for (int i = 0; i < lines.Count; i++)
+            {
+                var item = lines[i];
+
+                // Clone row format
+                var newRow = table.InsertRow(templateRow, templateRowIndex);
+                ReplaceInRow(newRow, item);
+
+                templateRowIndex++; // vì template row bị đẩy xuống dưới
+            }
+
+            // Xoá template row còn lại
+            table.RemoveRow(templateRowIndex);
+        }
+
+        static bool RowContainsToken(Row row, string token)
+        {
+            return row.Cells.Any(c => c.Paragraphs.Any(p => (p.Text ?? "").Contains(token)));
+        }
+
+        static void ReplaceInRow(Row row, BusinessLine item)
+        {
+            foreach (var cell in row.Cells)
+            {
+                foreach (var p in cell.Paragraphs)
+                {
+                    p.ReplaceText("{BL_STT}", item.Stt.ToString(), false, RegexOptions.None);
+                    p.ReplaceText("{BL_CODE}", item.Code ?? "", false, RegexOptions.None);
+                    p.ReplaceText("{BL_NAME}", item.Name ?? "", false, RegexOptions.None);
+                    p.ReplaceText("{BL_MAIN}", item.IsMain ? "X" : "", false, RegexOptions.None);
                 }
             }
         }
 
-        static void ReplaceInHeaderFooterExcept(dynamic hf, Dictionary<string, string> map, string exceptKey)
+        // =========================================================
+        // 3) Replace placeholders {KEY} (trừ danh sách loại trừ)
+        // =========================================================
+        static void ReplaceEverywhereExcept(DocX doc, Dictionary<string, string> map, HashSet<string> excludeKeys)
         {
-            ReplaceInParagraphsExcept(hf.Paragraphs, map, exceptKey);
-            foreach (var t in hf.Tables) ReplaceInTableExcept(t, map, exceptKey);
+            // Body
+            ReplaceInParagraphsExcept(doc.Paragraphs, map, excludeKeys);
+            foreach (var t in doc.Tables) ReplaceInTableExcept(t, map, excludeKeys);
+
+            // Header/Footer
+            foreach (var s in doc.Sections)
+            {
+                if (s.Headers != null)
+                {
+                    if (s.Headers.First != null) ReplaceInHeaderFooterExcept(s.Headers.First, map, excludeKeys);
+                    if (s.Headers.Odd != null) ReplaceInHeaderFooterExcept(s.Headers.Odd, map, excludeKeys);
+                    if (s.Headers.Even != null) ReplaceInHeaderFooterExcept(s.Headers.Even, map, excludeKeys);
+                }
+                if (s.Footers != null)
+                {
+                    if (s.Footers.First != null) ReplaceInHeaderFooterExcept(s.Footers.First, map, excludeKeys);
+                    if (s.Footers.Odd != null) ReplaceInHeaderFooterExcept(s.Footers.Odd, map, excludeKeys);
+                    if (s.Footers.Even != null) ReplaceInHeaderFooterExcept(s.Footers.Even, map, excludeKeys);
+                }
+            }
         }
 
-        static void ReplaceInTableExcept(Table table, Dictionary<string, string> map, string exceptKey)
+        static void ReplaceInHeaderFooterExcept(dynamic hf, Dictionary<string, string> map, HashSet<string> excludeKeys)
+        {
+            ReplaceInParagraphsExcept(hf.Paragraphs, map, excludeKeys);
+            foreach (var t in hf.Tables) ReplaceInTableExcept(t, map, excludeKeys);
+        }
+
+        static void ReplaceInTableExcept(Table table, Dictionary<string, string> map, HashSet<string> excludeKeys)
         {
             foreach (var row in table.Rows)
                 foreach (var cell in row.Cells)
                 {
-                    ReplaceInParagraphsExcept(cell.Paragraphs, map, exceptKey);
-
-                    foreach (var nested in cell.Tables)
-                        ReplaceInTableExcept(nested, map, exceptKey);
+                    ReplaceInParagraphsExcept(cell.Paragraphs, map, excludeKeys);
+                    foreach (var nested in cell.Tables) ReplaceInTableExcept(nested, map, excludeKeys);
                 }
         }
 
-        static void ReplaceInParagraphsExcept(IEnumerable<Paragraph> paragraphs, Dictionary<string, string> map, string exceptKey)
+        static void ReplaceInParagraphsExcept(IEnumerable<Paragraph> paragraphs, Dictionary<string, string> map, HashSet<string> excludeKeys)
         {
             foreach (var p in paragraphs)
             {
                 foreach (var kv in map)
                 {
-                    if (kv.Key.Equals(exceptKey, StringComparison.OrdinalIgnoreCase))
+                    if (excludeKeys.Contains(kv.Key))
                         continue;
 
                     string token = "{" + kv.Key + "}";
                     string value = kv.Value ?? "";
                     p.ReplaceText(token, value, false, RegexOptions.None);
                 }
-            }
-        }
-
-        // =========================
-        // Insert business table at placeholder
-        // =========================
-        static void InsertBusinessLineTableAtPlaceholder(DocX doc, List<BusinessLine> lines, string placeholderToken)
-        {
-            // Tìm paragraph trong body
-            var p = doc.Paragraphs.FirstOrDefault(x => (x.Text ?? "").Contains(placeholderToken));
-            if (p != null)
-            {
-                InsertTableAfterParagraph(doc, p, lines, placeholderToken);
-                return;
-            }
-
-            // Nếu placeholder nằm trong bảng/cell, tìm trong tables
-            foreach (var t in doc.Tables)
-            {
-                if (TryInsertInTable(doc, t, lines, placeholderToken))
-                    return;
-            }
-
-            // Nếu cần, bạn có thể mở rộng thêm: header/footer
-        }
-
-        static bool TryInsertInTable(DocX doc, Table table, List<BusinessLine> lines, string placeholderToken)
-        {
-            foreach (var row in table.Rows)
-                foreach (var cell in row.Cells)
-                {
-                    var p = cell.Paragraphs.FirstOrDefault(x => (x.Text ?? "").Contains(placeholderToken));
-                    if (p != null)
-                    {
-                        InsertTableAfterParagraph(doc, p, lines, placeholderToken);
-                        return true;
-                    }
-
-                    foreach (var nested in cell.Tables)
-                    {
-                        if (TryInsertInTable(doc, nested, lines, placeholderToken))
-                            return true;
-                    }
-                }
-            return false;
-        }
-
-        static void InsertTableAfterParagraph(DocX doc, Paragraph p, List<BusinessLine> lines, string placeholderToken)
-        {
-            try
-            {
-                // Xóa token trong paragraph
-                p.ReplaceText(placeholderToken, "", false, RegexOptions.None);
-
-                // Tạo bảng: header + dữ liệu
-                int rows = 1 + lines.Count;
-                int cols = 4;
-
-                var table = doc.AddTable(rows, cols);
-                table.Design = TableDesign.TableGrid;
-
-                // Header
-                table.Rows[0].Cells[0].Paragraphs[0].Append("STT").Bold();
-                table.Rows[0].Cells[1].Paragraphs[0].Append("Mã ngành").Bold();
-                table.Rows[0].Cells[2].Paragraphs[0].Append("Tên Ngành").Bold();
-                table.Rows[0].Cells[3].Paragraphs[0].Append("Ngành Chính").Bold();
-
-                // Rows
-                for (int i = 0; i < lines.Count; i++)
-                {
-                    int r = i + 1;
-                    var item = lines[i];
-
-                    table.Rows[r].Cells[0].Paragraphs[0].Append(item.Stt.ToString());
-                    table.Rows[r].Cells[1].Paragraphs[0].Append(item.Code);
-                    table.Rows[r].Cells[2].Paragraphs[0].Append(item.Name);
-                    table.Rows[r].Cells[3].Paragraphs[0].Append(item.IsMain ? "X" : "");
-                }
-
-                // Chèn bảng ngay sau paragraph chứa placeholder
-                p.InsertTableAfterSelf(table);
-            }
-            catch (Exception ex) { 
-            
             }
         }
     }
