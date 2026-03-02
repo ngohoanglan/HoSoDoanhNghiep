@@ -3,7 +3,7 @@ Tên công ty viết bằng tiếng Việt (ghi bằng chữ in hoa): CÔNG TY T
 Tên công ty viết bằng tiếng nước ngoài (nếu có): 
 Tên công ty viết tắt (nếu có): 
 
-Số nhà/phòng, ngách/hẻm, ngõ/kiệt, đường/phố/đại lộ, tổ/xóm/ấp/thôn: Số 1/764 Vũ Thị Lan , Tổ 8, Khu Phố Hòa Lân 02
+Số nhà/phòng, ngách/hẻm, ngõ/kiệt, đường/phố/đại lộ, tổ/xóm/ấp/thôn: Số 1/764, đường 22/12, Tổ 8, Khu Phố Hòa Lân 02
 Xã/Phường/Đặc khu: phường Thuận Giao
 Tỉnh/Thành phố trực thuộc trung ương: thành phố Hồ Chí Minh
 Điện thoại: 0387038702
