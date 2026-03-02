@@ -45,3 +45,41 @@ Nội dung thay đổi: Thay đổi chủ sở hữu, đại diện pháp luật
 
 Ngày văn bản: 02/03/2026
 
+
+Thay đổi ngành nghề:
+Cập nhật:
+	5510	Khách sạn và dịch vụ lưu trú tương tự(ngành chính)
+		Chi tiết: Khách sạn, dịch vụ cho thuê phòng trọ, dịch vụ lưu trú du lịch
+	4759	Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu
+		Chi tiết: Mua bán đồ trang trí nội, ngoại thất
+	9329	Hoạt động vui chơi giải trí khác
+		Chi tiết: Dịch vụ karaoke (Doanh nghiệp chỉ được hoạt động sau khi được cơ quan có thẩm quyền cấp giấy phép kinh doanh karaoke)
+	7911	Đại lý lữ hành
+		(chỉ hoạt động lữ hành quốc tế sau khi có giấy phép của Tổng cục du lịch)
+	7990	Hoạt động liên quan đến du lịch khác
+
+Thêm mới:
+	9623	Dịch vụ spa và xông hơi
+		Chi tiết: Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)
+	4673	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+	4679	Bán buôn chuyên doanh khác chưa được phân vào đâu
+		Chi tiết: 
+		- Bán buôn hàng thủ công mỹ nghệ;
+		- Bán buôn phân bón các loại.
+	4719	Bán lẻ tổng hợp khác
+		Chi tiết: Mua bán hàng hóa qua internet
+
+
+Xóa:
+	9610	Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)
+		Chi tiết: Dịch vụ của Spa
+	4663	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+		Chi tiết: Bán buôn các loại vật liệu xây dựng (trừ hoạt động bến thủy nội địa)
+	4669	Bán buôn chuyên doanh khác chưa được phân vào đâu
+		Chi tiết: 
+		- Bán buôn hàng thủ công mỹ nghệ;
+		- Bán buôn phân bón các loại.
+	4791	Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet
+		Chi tiết: Mua bán hàng hóa qua internet
+	4799	Bán lẻ hình thức khác chưa được phân vào đâu
+		Chi tiết: Mua bán hàng hóa qua internet
