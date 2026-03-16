@@ -10,10 +10,11 @@ LÊ THỊ BÍCH TIỀN:
 	HoSo2_QUYẾT ĐỊNH THAY ĐỔI.docx
 	HoSo2_ThayDoiDDPL_MauSo13.docx
 	HoSo2_UyQuyen.docx
-	DiaDiemKinhDoanh_MauSo19.docx
+	
 
 PENG, HUAQIONG:
 	HoSo2_MauSo10.docx
+	DiaDiemKinhDoanh_MauSo19.docx
 
 **** Lưu ý: 
 	- Ký bằng mực xanh, không cần thiết phải đóng dấu
