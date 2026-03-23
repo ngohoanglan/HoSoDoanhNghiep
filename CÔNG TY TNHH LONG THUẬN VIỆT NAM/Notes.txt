@@ -1,7 +1,7 @@
  
 1. Tên công ty
 
-Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH TAM HƯNG VIỆT NAM
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH LONG THUẬN VIỆT NAM
 Tên công ty viết bằng tiếng nước ngoài: 
 Tên công ty viết tắt:  
 
@@ -28,13 +28,13 @@ Giới tính: Nữ
 Quốc tịch: Việt Nam
 
 Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Khu Phố 4
+Số nhà/đường/tổ/xóm/ấp/thôn: Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4
 Xã/Phường/Đặc khu: xã Bắc Tân Uyên
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
 Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Khu Phố 4
+Số nhà/đường/tổ/xóm/ấp/thôn: Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4
 Xã/Phường/Đặc khu: xã Bắc Tân Uyên
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
@@ -53,13 +53,13 @@ Quốc tịch: Việt Nam
 
 
 Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Khu Phố 4
+Số nhà/đường/tổ/xóm/ấp/thôn: Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4
 Xã/Phường/Đặc khu: xã Bắc Tân Uyên
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
 Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Khu Phố 4
+Số nhà/đường/tổ/xóm/ấp/thôn: Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4
 Xã/Phường/Đặc khu: xã Bắc Tân Uyên
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam

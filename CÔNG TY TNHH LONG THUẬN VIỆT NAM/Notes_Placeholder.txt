@@ -1,6 +1,5 @@
 
-
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH TAM HƯNG VIỆT NAM}
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH LONG THUẬN VIỆT NAM}
 TEN_CTY_TIENG_ANH={}
 TEN_CTY_VIET_TAT={}
 
@@ -67,8 +66,8 @@ UY_QUYEN_DIEN_THOAI={0945807973}
 UY_QUYEN_EMAIL={congtytamhungvietnam@gmail.com}
 NGAY_KY={21/3/2026}
 
-DANH_SACH_NGANH_NGHE_BEGIN={}
-4641;Bán buôn vải, hàng may sẵn, giày dép;Ngành chính
+{DANH_SACH_NGANH_NGHE}
+4641;Bán buôn vải, hàng may sẵn, giày dép(ngành chính)
 
 1512;Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm
 
@@ -77,4 +76,3 @@ DANH_SACH_NGANH_NGHE_BEGIN={}
 1811;In ấn
 
 4933;Vận tải hàng hóa bằng đường bộ
-DANH_SACH_NGANH_NGHE_END={}
