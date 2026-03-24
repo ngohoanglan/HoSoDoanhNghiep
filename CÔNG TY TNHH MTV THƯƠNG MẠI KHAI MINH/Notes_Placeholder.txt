@@ -1,78 +1,96 @@
 
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH LONG THUẬN VIỆT NAM}
+
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH MTV THƯƠNG MẠI KHAI MINH}
 TEN_CTY_TIENG_ANH={}
 TEN_CTY_VIET_TAT={}
 
 
-TRU_SO_0={Số 43/17 đường ĐT 743, khu phố Bình Phước B}
-TRU_SO_1={Phường An Phú}
+TRU_SO_0={Số 240, Đường Nguyễn Văn Linh, Khu phố Tân Long}
+TRU_SO_1={Phường Tân Hiệp}
 TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0945807973}
+TRU_SO_DIEN_THOAI={0937494313}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
-VON_DIEU_LE_VND={9.000.000.000 VNĐ.}
-VON_DIEU_LE_CHU={Chín tỷ đồng}
+VON_DIEU_LE_VND={3.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Ba tỷ đồng}
 
-CSH_HO_TEN={PHẠM THỊ DUNG}
-CSH_NGAY_SINH={20/04/1962}
-CSH_SO_GIAY_PHAP_LY={038162009876}
-CSH_NGAY_CAP={10/04/2021}
+CSH_HO_TEN={TRẦN THỊ TÂM ANH}
+CSH_NGAY_SINH={04/09/2001}
+CSH_SO_GIAY_PHAP_LY={074301001275}
+CSH_NGAY_CAP={25/04/2021}
 CSH_NOI_CAP={Cục cảnh sát quản lý hành chính về trật tự xã hội}
 CSH_GIOI_TINH={Nữ}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4}
+CSH_THUONG_TRU_0={Tổ 7A, Ấp Bà Đã}
 CSH_THUONG_TRU_1={xã Bắc Tân Uyên}
 CSH_THUONG_TRU_2={Thành phố Hồ Chí Minh}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4}
+CSH_LIEN_LAC_0={Tổ 7A, Ấp Bà Đã}
 CSH_LIEN_LAC_1={xã Bắc Tân Uyên}
 CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4, xã Bắc Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam}
-CSH_DIEN_THOAI={0945807973}
+CSH_LIEN_LAC_FULL={Tổ 7A, Ấp Bà Đã, xã Bắc Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam}
+CSH_DIEN_THOAI={0937494313}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={PHẠM THỊ DUNG}
-DDPL_NGAY_SINH={20/04/1962}
-DDPL_SO_GIAY_PHAP_LY={038162009876}
-DDPL_NGAY_CAP={10/04/2021}
+DDPL_HO_TEN={TRẦN THỊ TÂM ANH}
+DDPL_NGAY_SINH={04/09/2001}
+DDPL_SO_GIAY_PHAP_LY={074301001275}
+DDPL_NGAY_CAP={25/04/2021}
 DDPL_NOI_CAP={Cục cảnh sát quản lý hành chính về trật tự xã hội}
 DDPL_GIOI_TINH={Nữ}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4}
+DDPL_THUONG_TRU_0={Tổ 7A, Ấp Bà Đã}
 DDPL_THUONG_TRU_1={xã Bắc Tân Uyên}
 DDPL_THUONG_TRU_2={Thành phố Hồ Chí Minh}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4}
+DDPL_LIEN_LAC_0={Tổ 7A, Ấp Bà Đã}
 DDPL_LIEN_LAC_1={xã Bắc Tân Uyên}
 DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
-DDPL_DIEN_THOAI={0945807973}
+DDPL_DIEN_THOAI={0937494313}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={PHẠM THỊ DUNG}
-UY_QUYEN_NGAY_SINH={20/04/1962}
-UY_QUYEN_SO_GIAY_PHAP_LY={038162009876}
-UY_QUYEN_NGAY_CAP={10/04/2021}
+UY_QUYEN_HO_TEN={TRẦN THỊ TÂM ANH}
+UY_QUYEN_NGAY_SINH={04/09/2001}
+UY_QUYEN_SO_GIAY_PHAP_LY={074301001275}
+UY_QUYEN_NGAY_CAP={25/04/2021}
 UY_QUYEN_NOI_CAP={Cục cảnh sát quản lý hành chính về trật tự xã hội}
 UY_QUYEN_GIOI_TINH={Nữ}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Đường Đt 746, Số Nhà 82, Tổ 7a, Ấp Tân Thành 4}
+UY_QUYEN_LIEN_LAC_0={Tổ 7A, Ấp Bà Đã}
 UY_QUYEN_LIEN_LAC_1={xã Bắc Tân Uyên}
 UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0945807973}
-UY_QUYEN_EMAIL={congtytamhungvietnam@gmail.com}
-NGAY_KY={21/3/2026}
+UY_QUYEN_DIEN_THOAI={0937494313}
+UY_QUYEN_EMAIL={congtytthuongmaikhaiminh@gmail.com}
+NGAY_KY={24/3/2026}
 
-{DANH_SACH_NGANH_NGHE}
-4641;Bán buôn vải, hàng may sẵn, giày dép(ngành chính)
+DANH_SACH_NGANH_NGHE_BEGIN={}
+4652;Bán buôn thiết bị và linh kiện điện tử, viễn thông;
 
-1512;Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm
+4649;Bán buôn đồ dùng khác cho gia đình;
 
-1520;Sản xuất giày, dép
+4659;Bán buôn máy móc, thiết bị và phụ tùng máy khác. Chi tiết: Bán buôn các loại tủ điện, máy biến đổi tĩnh điện (máy biến đổi tần inverter);
 
-1811;In ấn
+4672;Bán buôn kim loại và quặng kim loại. Chi tiết: Bán buôn sắt, thép, mica, inox và linh kiện sắt thép;
 
-4933;Vận tải hàng hóa bằng đường bộ
+4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng. Chi tiết: Bán buôn gỗ; Bán buôn sơn, véc ni; Bán buôn gạch ốp lát; Bán buôn đá hoa cương; Bán buôn van công nghiệp; Bán buôn vật liệu xây dựng, thiết bị lắp đặt khác trong xây dựng; Bán buôn ống nước, cốt thép không rỉ, đèn trang trí, la phông, tôn lạnh, cửa nhôm, cửa thép, cửa kính, bột trét tường, sơn, keo, đinh, ốc, tấm cách nhiệt, ngũ kim, đá marble, dây điện, cuộn PVC, máy móc thiết bị, nội thất nhà vệ sinh, nhôm kinh, ván sàn gỗ;Ngành chính
+
+4679;Bán buôn chuyên doanh khác chưa được phân vào đâu. Chi tiết: Bán buôn ván ép các ép các loại; Mua bán hàng phục vụ sản xuất, hàng tiêu dùng và trang trí nội thất, bảng hiệu đèn led; Bán buôn hóa chất các loại, chất tẩy rửa, phụ gia công nghiệp làm sạch các dự án, công trình; Bán buôn các nguyên liệu phục vụ cho sản xuất hóa chất; Bán buôn thiết bị phòng cháy chữa cháy, bình phòng cháy chữa cháy;
+
+4690;Bán buôn tổng hợp;
+
+4752;Bán lẻ đồ ngũ kim, sơn, kính, vật liệu và thiết bị lắp đặt khác trong xây dựng;
+
+4753;Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn;
+
+4759;Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu;
+
+4773;Bán lẻ hàng hóa khác mới (trừ ô tô, mô tô, xe máy và các bộ phận phụ trợ);
+
+4719;Bán lẻ tổng hợp khác. Chi tiết: Thực hiện quyền phân phối bán lẻ biến đổi tĩnh điện (máy biến tần inverter);
+
+8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu. Chi tiết: Thực hiện quyền nhập khẩu máy biến tần inverter, dây cáp điện, các loại tủ điện và các thiết bị, linh kiện điện cao hạ thế dùng trong tủ điện;
+DANH_SACH_NGANH_NGHE_END={}

@@ -68,7 +68,7 @@ Số điện thoại:0937494313
 Email: congtytthuongmaikhaiminh@gmail.com
 
 7. Ngành nghề kinh doanh (Mã ngành và tên ngành, ngành chính):
-Mã ngành	Tên ngành nghề kinh doanh (Bao gồm chi tiết)	Ngành chính	
+Mã ngành	Tên ngành nghề kinh doanh (Bao gồm chi tiết);Ngành chính	
 
 4652		Bán buôn thiết bị và linh kiện điện tử, viễn thông		
 
