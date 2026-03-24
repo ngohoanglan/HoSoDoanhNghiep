@@ -1,71 +1,71 @@
  
 1. Tên công ty
 
-Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH THƯƠNG MẠI KHAI MINH VENEER
-Tên công ty viết bằng tiếng nước ngoài: KHAI MINH VENEER TRADING COMPANY LIMITED
-Tên công ty viết tắt:KHAI MINH VENEER CO., LTD  
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH TMDV XINYUAN
+Tên công ty viết bằng tiếng nước ngoài: 
+Tên công ty viết tắt:  
 
 2. Địa chỉ trụ sở chính: 
-Số nhà/đường/tổ/xóm/ấp/thôn: Số 240, Đường Nguyễn Văn Linh, Khu phố Tân Long
-Xã/Phường/Đặc khu: Phường Tân Hiệp
+Số nhà/đường/tổ/xóm/ấp/thôn: Thửa đất số 904, tờ bản đồ số 41 khu nhà ở thu nhập thấp Lê Phòng Bình Chuẩn
+Xã/Phường/Đặc khu: Phường Thuận Giao
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
-Điện thoại: 0937494313
+Điện thoại: 0357640803
 Email:
 
 3. Vốn điều lệ: 
-Số tiền bằng số: 3.000.000.000 VNĐ. 
-Bằng chữ: Ba tỷ đồng
+Số tiền bằng số: 1.000.000.000 VNĐ. 
+Bằng chữ: Một tỷ đồng
 
  
 4.Chủ sở hữu:
 
-Họ và tên: TRẦN THỊ TÂM ANH
-Ngày, tháng, năm sinh: 04/09/2001
-Số Căn cước công dân/Số định danh: 074301001275
-Ngày cấp căn cước công dân: 25/04/2021
+Họ và tên: ĐỖ THỊ THẢO
+Ngày, tháng, năm sinh: 28/06/1998
+Số Căn cước công dân/Số định danh: 034198001707
+Ngày cấp căn cước công dân: 06/10/2022
 Nơi cấp căn cước công dân:Cục cảnh sát quản lý hành chính về trật tự xã hội
 Giới tính: Nữ
 Quốc tịch: Việt Nam
 
 Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Ấp Bà Đã
-Xã/Phường/Đặc khu: xã Bắc Tân Uyên
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
+Số nhà/đường/tổ/xóm/ấp/thôn: Thôn Cun Ruốm
+Xã/Phường/Đặc khu: xã Ngự Thiên
+Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Hưng Yên
 Quốc gia: Việt Nam
 
 Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Ấp Bà Đã
-Xã/Phường/Đặc khu: xã Bắc Tân Uyên
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
+Số nhà/đường/tổ/xóm/ấp/thôn: Thôn Cun Ruốm
+Xã/Phường/Đặc khu: xã Ngự Thiên
+Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Hưng Yên
 Quốc gia: Việt Nam
-Số điện thoại:0937494313
+Số điện thoại:0357640803
 
 5. Đại diện pháp luật:
 Chức vụ: Giám đốc
-Họ và tên: TRẦN THỊ TÂM ANH
-Ngày, tháng, năm sinh: 04/09/2001
-Số Căn cước công dân/Số định danh: 074301001275
-Ngày cấp căn cước công dân: 25/04/2021
+Họ và tên: ĐỖ THỊ THẢO
+Ngày, tháng, năm sinh: 28/06/1998
+Số Căn cước công dân/Số định danh: 034198001707
+Ngày cấp căn cước công dân: 06/10/2022
 Nơi cấp căn cước công dân:Cục cảnh sát quản lý hành chính về trật tự xã hội
 Giới tính: Nữ
 Quốc tịch: Việt Nam
 
 Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Ấp Bà Đã
-Xã/Phường/Đặc khu: xã Bắc Tân Uyên
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
+Số nhà/đường/tổ/xóm/ấp/thôn: Thôn Cun Ruốm
+Xã/Phường/Đặc khu: xã Ngự Thiên
+Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Hưng Yên
 Quốc gia: Việt Nam
 
 Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Tổ 7A, Ấp Bà Đã
-Xã/Phường/Đặc khu: xã Bắc Tân Uyên
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
+Số nhà/đường/tổ/xóm/ấp/thôn: Thôn Cun Ruốm
+Xã/Phường/Đặc khu: xã Ngự Thiên
+Tỉnh/Thành phố trực thuộc trung ương: Tỉnh Hưng Yên
 Quốc gia: Việt Nam
-Số điện thoại: 0937494313
+Số điện thoại: 0357640803
 
 6. Thông tin ủy quyền:
-Số điện thoại:0937494313
-Email: congtytthuongmaikhaiminh@gmail.com
+Số điện thoại:0357640803
+Email: congtytmdvxinyuan@gmail.com
 
 7. Ngành nghề kinh doanh (Mã ngành và tên ngành, ngành chính):
 Mã ngành	Tên ngành nghề kinh doanh (Bao gồm chi tiết);Ngành chính	
