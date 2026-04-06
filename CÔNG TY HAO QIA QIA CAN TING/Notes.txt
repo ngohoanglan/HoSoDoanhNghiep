@@ -1,15 +1,15 @@
  
 1. Tên công ty
 
-Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH ĂN UỐNG FEI FAN 
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH HAO QIA QIA CAN TING 
 Tên công ty viết bằng tiếng nước ngoài: 
 Tên công ty viết tắt:  
 
 2. Địa chỉ trụ sở chính: 
-Số nhà/đường/tổ/xóm/ấp/thôn: Căn A30- A31 khu nhà ở Hoàng Mai, tổ 5, Khu Phố 7
+Số nhà/đường/tổ/xóm/ấp/thôn: Số A12-A13 khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7
 Xã/Phường/Đặc khu: Phường Tân Uyên
 Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
-Điện thoại: 0977693675
+Điện thoại: 0974666459
 Email:
 
 3. Vốn điều lệ: 
@@ -19,53 +19,75 @@ Bằng chữ: Ba tỷ đồng
  
 4.Chủ sở hữu:
 
-Họ và tên: NGUYỄN THỊ TUYẾT ANH
-Ngày, tháng, năm sinh: 30/06/2006
-Số Căn cước công dân/Số định danh: 002306009079
-Ngày cấp căn cước công dân: 29/08/2021
+Họ và tên: NGUYỄN NGỌC TRANH
+Ngày, tháng, năm sinh: 04/03/1983
+Số Căn cước công dân/Số định danh: 074083002120
+Ngày cấp căn cước công dân: 19/04/2021
 Nơi cấp căn cước công dân: [không có]
-Giới tính: Nữ
+Giới tính: Nam
 Quốc tịch: Việt Nam
 
 Nơi thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: ẤP 6
-Xã/Phường/Đặc khu: Xã Phụng Hiệp
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Cần Thơ
+Số nhà/đường/tổ/xóm/ấp/thôn: tổ 1, tân an
+Xã/Phường/Đặc khu: Phường Tân Khánh
+Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
-Số nhà/đường/tổ/xóm/ấp/thôn: ẤP 6
-Xã/Phường/Đặc khu: Xã Phụng Hiệp
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Cần Thơ
+Địa chỉ liên lạc: 
+Số nhà/đường/tổ/xóm/ấp/thôn: tổ 1, tân an
+Xã/Phường/Đặc khu: Phường Tân Khánh
+Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
 Số điện thoại:
 
 5. Đại diện pháp luật:
 Chức vụ: Giám đốc
-Họ và tên: NGUYỄN THỊ TUYẾT ANH
-Ngày, tháng, năm sinh: 30/06/2006
-Số Căn cước công dân/Số định danh: 002306009079
-Ngày cấp căn cước công dân: 29/08/2021
-Nơi cấp căn cước công dân: [không có]
-Giới tính: Nữ
-Quốc tịch: Việt Nam
+Họ và tên: HUANG, QIANG
+Ngày, tháng, năm sinh: 21/12/1994
+Loại giấy tờ pháp lý: Hộ chiếu nước ngoài
+Số hộ chiếu: EJ6843161
+Ngày cấp hộ chiếu: 16/02/2023
+Nơi cấp hộ chiếu: Tổng Lãnh sự quán CHND Trung Hoa tại Thành phố Hồ Chí Minh
+Giới tính: Nam
+Quốc tịch: Trung Quốc
 
 Nơi thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: ẤP 6
-Xã/Phường/Đặc khu: Xã Phụng Hiệp
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Cần Thơ
+Số 55, Tổ 8, Làng Đặng Long, Thị trấn Puguang, Huyện Tuyên Hán, Tỉnh Tứ Xuyên, Trung Quốc
+
+Địa chỉ liên lạc:
+Số nhà/đường/tổ/xóm/ấp/thôn: Số A12-A13 khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7
+Xã/Phường/Đặc khu: Phường Tân Uyên
+Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
-Số nhà/đường/tổ/xóm/ấp/thôn: ẤP 6
-Xã/Phường/Đặc khu: Xã Phụng Hiệp
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Cần Thơ
+Số điện thoại:
+
+5.1 Đại diện pháp luật thứ 2:
+Chức vụ: Phó giám đốc
+Họ và tên: YAN, XIAOWU
+Ngày, tháng, năm sinh: 05/12/1987
+Loại giấy tờ pháp lý: Hộ chiếu nước ngoài
+Số hộ chiếu: EF0984559
+Ngày cấp hộ chiếu: 23/01/2019
+Nơi cấp hộ chiếu: Cục Quản lý Xuất nhập cảnh Bộ Công an Trung Quốc
+Giới tính: Nam
+Quốc tịch: Trung Quốc
+
+Nơi thường trú:
+Số 17, Tổ 4, Làng Zhixi, Thị trấn Puguang, Huyện Tuyên Hán, Tỉnh Tứ Xuyên, Trung Quốc
+
+Địa chỉ liên lạc:
+Số nhà/đường/tổ/xóm/ấp/thôn: Số A12-A13 khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7
+Xã/Phường/Đặc khu: Phường Tân Uyên
+Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
 Quốc gia: Việt Nam
 
 Số điện thoại:
 
 6. Thông tin ủy quyền:
-Số điện thoại:0977693675
-Email: congtyfeifan@gmail.com
+Số điện thoại:0974666459
+Email: congtyhaoqiaqiacanting@gmail.com
 
 7. Ngành nghề kinh doanh (Mã ngành và tên ngành, ngành chính):
 5610	Nhà hàng và các dịch vụ ăn uống phục vụ lưu động (Ngành chính)
@@ -80,4 +102,4 @@ Email: congtyfeifan@gmail.com
 
 4632	Bán buôn thực phẩm 
 
-8. Ngày trên tất cả văn bản: 7/3/2026
+8. Ngày trên tất cả văn bản: 6/4/2026
