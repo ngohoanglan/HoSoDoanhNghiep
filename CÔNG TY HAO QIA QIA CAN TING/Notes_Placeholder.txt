@@ -1,0 +1,76 @@
+
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH ĂN UỐNG FEI FAN}
+TEN_CTY_TIENG_ANH={}
+TEN_CTY_VIET_TAT={}
+
+
+TRU_SO_0={Căn A30- A31 khu nhà ở Hoàng Mai, tổ 5, Khu Phố 7}
+TRU_SO_1={Phường Tân Uyên}
+TRU_SO_2={Thành phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0977693675}
+TRU_SO_EMAIL={}
+SO_LAO_DONG={2}
+VON_DIEU_LE_VND={3.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Ba tỷ đồng}
+
+CSH_HO_TEN={NGUYỄN THỊ TUYẾT ANH}
+CSH_NGAY_SINH={30/06/2006}
+CSH_SO_GIAY_PHAP_LY={002306009079}
+CSH_NGAY_CAP={29/08/2021}
+CSH_NOI_CAP={}
+CSH_GIOI_TINH={Nữ}
+CSH_QUOC_TICH={Việt Nam}
+CSH_THUONG_TRU_0={ẤP 6}
+CSH_THUONG_TRU_1={Xã Phụng Hiệp}
+CSH_THUONG_TRU_2={Thành phố Cần Thơ}
+CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_0={ẤP 6}
+CSH_LIEN_LAC_1={Xã Phụng Hiệp}
+CSH_LIEN_LAC_2={Thành phố Cần Thơ}
+CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_FULL={ẤP 6, Xã Phụng Hiệp, Thành phố Cần Thơ, Việt Nam}
+CSH_DIEN_THOAI={}
+CSH_EMAIL={}
+
+DDPL_CHUC_VU={Giám đốc}
+DDPL_HO_TEN={NGUYỄN THỊ TUYẾT ANH}
+DDPL_NGAY_SINH={30/06/2006}
+DDPL_SO_GIAY_PHAP_LY={002306009079}
+DDPL_NGAY_CAP={29/08/2021}
+DDPL_NOI_CAP={}
+DDPL_GIOI_TINH={Nữ}
+DDPL_QUOC_TICH={Việt Nam}
+DDPL_THUONG_TRU_0={ẤP 6}
+DDPL_THUONG_TRU_1={Xã Phụng Hiệp}
+DDPL_THUONG_TRU_2={Thành phố Cần Thơ}
+DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
+DDPL_LIEN_LAC_0={ẤP 6}
+DDPL_LIEN_LAC_1={Xã Phụng Hiệp}
+DDPL_LIEN_LAC_2={Thành phố Cần Thơ}
+DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
+DDPL_DIEN_THOAI={}
+DDPL_EMAIL={}
+
+UY_QUYEN_HO_TEN={NGUYỄN THỊ TUYẾT ANH}
+UY_QUYEN_NGAY_SINH={30/06/2006}
+UY_QUYEN_SO_GIAY_PHAP_LY={002306009079}
+UY_QUYEN_NGAY_CAP={29/08/2021}
+UY_QUYEN_NOI_CAP={}
+UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_QUOC_TICH={Việt Nam}
+UY_QUYEN_LIEN_LAC_0={ẤP 6}
+UY_QUYEN_LIEN_LAC_1={Xã Phụng Hiệp}
+UY_QUYEN_LIEN_LAC_2={Thành phố Cần Thơ}
+UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
+UY_QUYEN_DIEN_THOAI={0977693675}
+UY_QUYEN_EMAIL={congtyfeifan@gmail.com}
+NGAY_KY={ngày 7 tháng 3 năm 2026}
+
+DANH_SACH_NGANH_NGHE_BEGIN={}
+5610;Nhà hàng và các dịch vụ ăn uống phục vụ lưu động;Ngành chính
+5621;Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng
+5629;Dịch vụ ăn uống khác
+5630;Dịch vụ phục vụ đồ uống
+4631;Bán buôn gạo, lúa mỳ, sản phẩm từ ngũ cốc khác, bột mỳ
+4632;Bán buôn thực phẩm
+DANH_SACH_NGANH_NGHE_END={}
