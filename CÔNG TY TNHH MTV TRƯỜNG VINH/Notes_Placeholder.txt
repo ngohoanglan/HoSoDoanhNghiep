@@ -1,0 +1,83 @@
+
+
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH TC CABINETRY WHOLESALE VIỆT NAM}
+TEN_CTY_TIENG_ANH={TC CABINETRY WHOLESALE VIET NAM COMPANY LIMITED}
+TEN_CTY_VIET_TAT={TC CABINETRY VIET NAM CO., LTD}
+
+
+TRU_SO_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+TRU_SO_1={Phường Thủ Dầu Một}
+TRU_SO_2={Thành phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0931609939}
+TRU_SO_EMAIL={}
+SO_LAO_DONG={2}
+VON_DIEU_LE_VND={5.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Năm tỷ đồng}
+
+CSH_HO_TEN={TRẦN THỊ THU HIỀN}
+CSH_NGAY_SINH={20/10/1983}
+CSH_SO_GIAY_PHAP_LY={074183004018}
+CSH_NGAY_CAP={20/03/2023}
+CSH_NOI_CAP={Bộ Công An}
+CSH_GIOI_TINH={Nữ}
+CSH_QUOC_TICH={Việt Nam}
+CSH_THUONG_TRU_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+CSH_THUONG_TRU_1={Phường Thủ Dầu Một}
+CSH_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+CSH_LIEN_LAC_1={Phường Thủ Dầu Một}
+CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_FULL={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam}
+CSH_DIEN_THOAI={0931609939}
+CSH_EMAIL={}
+
+DDPL_CHUC_VU={Giám đốc}
+DDPL_HO_TEN={TRẦN THỊ THU HIỀN}
+DDPL_NGAY_SINH={20/10/1983}
+DDPL_SO_GIAY_PHAP_LY={074183004018}
+DDPL_NGAY_CAP={20/03/2023}
+DDPL_NOI_CAP={Bộ Công An}
+DDPL_GIOI_TINH={Nữ}
+DDPL_QUOC_TICH={Việt Nam}
+DDPL_THUONG_TRU_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+DDPL_THUONG_TRU_1={Phường Thủ Dầu Một}
+DDPL_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
+DDPL_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+DDPL_LIEN_LAC_1={Phường Thủ Dầu Một}
+DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
+DDPL_DIEN_THOAI={0931609939}
+DDPL_EMAIL={}
+
+UY_QUYEN_HO_TEN={TRẦN THỊ THU HIỀN}
+UY_QUYEN_NGAY_SINH={20/10/1983}
+UY_QUYEN_SO_GIAY_PHAP_LY={074183004018}
+UY_QUYEN_NGAY_CAP={20/03/2023}
+UY_QUYEN_NOI_CAP={Bộ Công An}
+UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_QUOC_TICH={Việt Nam}
+UY_QUYEN_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
+UY_QUYEN_LIEN_LAC_1={Phường Thủ Dầu Một}
+UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
+UY_QUYEN_DIEN_THOAI={0931609939}
+UY_QUYEN_EMAIL={congtytccabinetry@gmail.com}
+NGAY_KY={8/5/2026}
+
+DANH_SACH_NGANH_NGHE_BEGIN={}
+4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng Chi tiết: Tủ bếp, Tủ phòng tắm và phụ kiện nội thất;Ngành chính
+
+4679;Bán buôn chuyên doanh khác chưa được phân vào đâu;
+
+4752;Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh;
+
+3101;Sản xuất giường, tủ, bàn, ghế bằng gỗ;
+
+3109;Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác;
+
+4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng;
+
+DANH_SACH_NGANH_NGHE_END={}
