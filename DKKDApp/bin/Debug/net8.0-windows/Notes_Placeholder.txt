@@ -1,86 +1,73 @@
-
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH MTV SX TRƯỜNG VINH}
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH HOTEL NEW SKY 2}
 TEN_CTY_TIENG_ANH={}
 TEN_CTY_VIET_TAT={}
 
 
-TRU_SO_0={Thôn Đông Thanh}
-TRU_SO_1={Xã Hàm Tân}
-TRU_SO_2={tỉnh Lâm Đồng}
-TRU_SO_DIEN_THOAI={0941853154}
+TRU_SO_0={Số 110/20/16, đường số 30, Khu phố 42}
+TRU_SO_1={Phường An Nhơn}
+TRU_SO_2={Thành phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0936852001}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
-VON_DIEU_LE_VND={2.000.000.000 VNĐ.}
-VON_DIEU_LE_CHU={Hai tỷ đồng}
+VON_DIEU_LE_VND={3.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Ba tỷ đồng}
 
-CSH_HO_TEN={PHÙNG VĂN VIỆT}
-CSH_NGAY_SINH={28/07/1993}
-CSH_SO_GIAY_PHAP_LY={027093006833}
-CSH_NGAY_CAP={12/06/2022}
+CSH_HO_TEN={HOÀNG MINH ĐẠT}
+CSH_NGAY_SINH={14/09/2001}
+CSH_SO_GIAY_PHAP_LY={026201000396}
+CSH_NGAY_CAP={11/11/2025}
 CSH_NOI_CAP={Bộ Công An}
 CSH_GIOI_TINH={Nam}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Tổ 6, Khu Phố 1}
-CSH_THUONG_TRU_1={Phường Bình Lộc}
-CSH_THUONG_TRU_2={Thành Phố Đồng Nai}
+CSH_THUONG_TRU_0={Thôn Đại Tự 56}
+CSH_THUONG_TRU_1={Xã Liên Châu}
+CSH_THUONG_TRU_2={Tỉnh Phú Thọ}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Tổ 6, Khu Phố 1}
-CSH_LIEN_LAC_1={Phường Bình Lộc}
-CSH_LIEN_LAC_2={Thành Phố Đồng Nai}
+CSH_LIEN_LAC_0={Thôn Đại Tự 56}
+CSH_LIEN_LAC_1={Xã Liên Châu}
+CSH_LIEN_LAC_2={Tỉnh Phú Thọ}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Tổ 6, Khu Phố 1, Phường Bình Lộc, Thành Phố Đồng Nai, Việt Nam}
-CSH_DIEN_THOAI={0941853154}
+CSH_LIEN_LAC_FULL={Thôn Đại Tự 56, Xã Liên Châu, Tỉnh Phú Thọ, Việt Nam}
+CSH_DIEN_THOAI={0936852001}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={PHÙNG VĂN VIỆT}
-DDPL_NGAY_SINH={28/07/1993}
-DDPL_SO_GIAY_PHAP_LY={027093006833}
-DDPL_NGAY_CAP={12/06/2022}
+DDPL_HO_TEN={HOÀNG MINH ĐẠT}
+DDPL_NGAY_SINH={14/09/2001}
+DDPL_SO_GIAY_PHAP_LY={026201000396}
+DDPL_NGAY_CAP={11/11/2025}
 DDPL_NOI_CAP={Bộ Công An}
 DDPL_GIOI_TINH={Nam}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Tổ 6, Khu Phố 1}
-DDPL_THUONG_TRU_1={Phường Bình Lộc}
-DDPL_THUONG_TRU_2={Thành Phố Đồng Nai}
+DDPL_THUONG_TRU_0={Thôn Đại Tự 56}
+DDPL_THUONG_TRU_1={Xã Liên Châu}
+DDPL_THUONG_TRU_2={Tỉnh Phú Thọ}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Tổ 6, Khu Phố 1}
-DDPL_LIEN_LAC_1={Phường Bình Lộc}
-DDPL_LIEN_LAC_2={Thành Phố Đồng Nai}
+DDPL_LIEN_LAC_0={Thôn Đại Tự 56}
+DDPL_LIEN_LAC_1={Xã Liên Châu}
+DDPL_LIEN_LAC_2={Tỉnh Phú Thọ}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
-DDPL_DIEN_THOAI={0941853154}
+DDPL_DIEN_THOAI={0936852001}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={PHÙNG VĂN VIỆT}
-UY_QUYEN_NGAY_SINH={28/07/1993}
-UY_QUYEN_SO_GIAY_PHAP_LY={027093006833}
-UY_QUYEN_NGAY_CAP={12/06/2022}
+UY_QUYEN_HO_TEN={HOÀNG MINH ĐẠT}
+UY_QUYEN_NGAY_SINH={14/09/2001}
+UY_QUYEN_SO_GIAY_PHAP_LY={026201000396}
+UY_QUYEN_NGAY_CAP={11/11/2025}
 UY_QUYEN_NOI_CAP={Bộ Công An}
 UY_QUYEN_GIOI_TINH={Nam}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Tổ 6, Khu Phố 1}
-UY_QUYEN_LIEN_LAC_1={Phường Bình Lộc}
-UY_QUYEN_LIEN_LAC_2={Thành Phố Đồng Nai}
+UY_QUYEN_LIEN_LAC_0={Thôn Đại Tự 56}
+UY_QUYEN_LIEN_LAC_1={Xã Liên Châu}
+UY_QUYEN_LIEN_LAC_2={Tỉnh Phú Thọ}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0941853154}
-UY_QUYEN_EMAIL={congtysxtruongvinh@gmail.com}
+UY_QUYEN_DIEN_THOAI={0936852001}
+UY_QUYEN_EMAIL={congtynewhotel@gmail.com}
 NGAY_KY={9/5/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-2220;Sản xuất sản phẩm từ plastic Chi tiết: Sản xuất sợi nhựa, dây nhựa, sợi PE, PP, nylon và các sản phẩm từ plastic dùng làm nguyên liệu hoặc bán thành phẩm cho sản xuất lưới, dây thừng, vật tư nông nghiệp, ngư nghiệp, thể thao và gia dụng.;Ngành chính
+5510;Khách sạn và dịch vụ lưu trú tương tự;Ngành chính
 
-2599;Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu Chi tiết: Sản xuất các loại dụng cụ dùng cho đánh bắt nuôi trồng thủy hải sản;
-
-8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu Chi tiết: Thực hiện quyền xuất khẩu thủy hải sản, hạt điều (HS: 0801), trà (HS: 0902), cà phê (HS: 0305);
-
-1394;Sản xuất các loại dây bện và lưới Chi tiết: Sản xuất, gia công, đan, bện các loại dây thừng, dây bện, lưới đánh bắt thủy sản, lưới nuôi trồng thủy sản, lưới nông nghiệp, lưới thể thao, lưới an toàn và các loại lưới chuyên dụng khác.;
-
-3512;Sản xuất điện từ nguồn năng lượng tái tạo Chi tiết: Sản xuất và bán điện năng lượng mặt trời;
-
-5210;Kho bãi và lưu giữ hàng hóa Chi tiết: Kho bãi và lưu giữ hàng hóa trong kho đông lạnh; cho thuê kho lạnh.;
-
-4632;Bán buôn thực phẩm Chi tiết: Bán buôn rau, quả; mua bán, xuất nhập khẩu trái cây.;
-
-2592;Gia công cơ khí; xử lý và tráng phủ kim loại Chi tiết: Gia công cắt, hàn sắt; phun sơn, sơn phủ bề mặt kim loại.;
+5520;Dịch vụ lưu trú ngắn ngày khác;
 
 DANH_SACH_NGANH_NGHE_END={}
