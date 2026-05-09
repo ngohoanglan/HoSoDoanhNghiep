@@ -1,83 +1,86 @@
 
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH MTV SX TRƯỜNG VINH}
+TEN_CTY_TIENG_ANH={}
+TEN_CTY_VIET_TAT={}
 
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH TC CABINETRY WHOLESALE VIỆT NAM}
-TEN_CTY_TIENG_ANH={TC CABINETRY WHOLESALE VIET NAM COMPANY LIMITED}
-TEN_CTY_VIET_TAT={TC CABINETRY VIET NAM CO., LTD}
 
-
-TRU_SO_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-TRU_SO_1={Phường Thủ Dầu Một}
-TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0931609939}
+TRU_SO_0={Thôn Đông Thanh}
+TRU_SO_1={Xã Hàm Tân}
+TRU_SO_2={tỉnh Lâm Đồng}
+TRU_SO_DIEN_THOAI={0941853154}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
-VON_DIEU_LE_VND={5.000.000.000 VNĐ.}
-VON_DIEU_LE_CHU={Năm tỷ đồng}
+VON_DIEU_LE_VND={2.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Hai tỷ đồng}
 
-CSH_HO_TEN={TRẦN THỊ THU HIỀN}
-CSH_NGAY_SINH={20/10/1983}
-CSH_SO_GIAY_PHAP_LY={074183004018}
-CSH_NGAY_CAP={20/03/2023}
+CSH_HO_TEN={PHÙNG VĂN VIỆT}
+CSH_NGAY_SINH={28/07/1993}
+CSH_SO_GIAY_PHAP_LY={027093006833}
+CSH_NGAY_CAP={12/06/2022}
 CSH_NOI_CAP={Bộ Công An}
-CSH_GIOI_TINH={Nữ}
+CSH_GIOI_TINH={Nam}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-CSH_THUONG_TRU_1={Phường Thủ Dầu Một}
-CSH_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+CSH_THUONG_TRU_0={Tổ 6, Khu Phố 1}
+CSH_THUONG_TRU_1={Phường Bình Lộc}
+CSH_THUONG_TRU_2={Thành Phố Đồng Nai}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-CSH_LIEN_LAC_1={Phường Thủ Dầu Một}
-CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+CSH_LIEN_LAC_0={Tổ 6, Khu Phố 1}
+CSH_LIEN_LAC_1={Phường Bình Lộc}
+CSH_LIEN_LAC_2={Thành Phố Đồng Nai}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam}
-CSH_DIEN_THOAI={0931609939}
+CSH_LIEN_LAC_FULL={Tổ 6, Khu Phố 1, Phường Bình Lộc, Thành Phố Đồng Nai, Việt Nam}
+CSH_DIEN_THOAI={0941853154}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={TRẦN THỊ THU HIỀN}
-DDPL_NGAY_SINH={20/10/1983}
-DDPL_SO_GIAY_PHAP_LY={074183004018}
-DDPL_NGAY_CAP={20/03/2023}
+DDPL_HO_TEN={PHÙNG VĂN VIỆT}
+DDPL_NGAY_SINH={28/07/1993}
+DDPL_SO_GIAY_PHAP_LY={027093006833}
+DDPL_NGAY_CAP={12/06/2022}
 DDPL_NOI_CAP={Bộ Công An}
-DDPL_GIOI_TINH={Nữ}
+DDPL_GIOI_TINH={Nam}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-DDPL_THUONG_TRU_1={Phường Thủ Dầu Một}
-DDPL_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+DDPL_THUONG_TRU_0={Tổ 6, Khu Phố 1}
+DDPL_THUONG_TRU_1={Phường Bình Lộc}
+DDPL_THUONG_TRU_2={Thành Phố Đồng Nai}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-DDPL_LIEN_LAC_1={Phường Thủ Dầu Một}
-DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+DDPL_LIEN_LAC_0={Tổ 6, Khu Phố 1}
+DDPL_LIEN_LAC_1={Phường Bình Lộc}
+DDPL_LIEN_LAC_2={Thành Phố Đồng Nai}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
-DDPL_DIEN_THOAI={0931609939}
+DDPL_DIEN_THOAI={0941853154}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={TRẦN THỊ THU HIỀN}
-UY_QUYEN_NGAY_SINH={20/10/1983}
-UY_QUYEN_SO_GIAY_PHAP_LY={074183004018}
-UY_QUYEN_NGAY_CAP={20/03/2023}
+UY_QUYEN_HO_TEN={PHÙNG VĂN VIỆT}
+UY_QUYEN_NGAY_SINH={28/07/1993}
+UY_QUYEN_SO_GIAY_PHAP_LY={027093006833}
+UY_QUYEN_NGAY_CAP={12/06/2022}
 UY_QUYEN_NOI_CAP={Bộ Công An}
-UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_GIOI_TINH={Nam}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Số nhà 883/23, đường Lê Hồng Phong, tổ 35, khu phố Phú Thọ 7}
-UY_QUYEN_LIEN_LAC_1={Phường Thủ Dầu Một}
-UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+UY_QUYEN_LIEN_LAC_0={Tổ 6, Khu Phố 1}
+UY_QUYEN_LIEN_LAC_1={Phường Bình Lộc}
+UY_QUYEN_LIEN_LAC_2={Thành Phố Đồng Nai}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0931609939}
-UY_QUYEN_EMAIL={congtytccabinetry@gmail.com}
-NGAY_KY={8/5/2026}
+UY_QUYEN_DIEN_THOAI={0941853154}
+UY_QUYEN_EMAIL={congtysxtruongvinh@gmail.com}
+NGAY_KY={9/5/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng Chi tiết: Tủ bếp, Tủ phòng tắm và phụ kiện nội thất;Ngành chính
+2220;Sản xuất sản phẩm từ plastic Chi tiết: Sản xuất sợi nhựa, dây nhựa, sợi PE, PP, nylon và các sản phẩm từ plastic dùng làm nguyên liệu hoặc bán thành phẩm cho sản xuất lưới, dây thừng, vật tư nông nghiệp, ngư nghiệp, thể thao và gia dụng.;Ngành chính
 
-4679;Bán buôn chuyên doanh khác chưa được phân vào đâu;
+2599;Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu Chi tiết: Sản xuất các loại dụng cụ dùng cho đánh bắt nuôi trồng thủy hải sản;
 
-4752;Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh;
+8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu Chi tiết: Thực hiện quyền xuất khẩu thủy hải sản, hạt điều (HS: 0801), trà (HS: 0902), cà phê (HS: 0305);
 
-3101;Sản xuất giường, tủ, bàn, ghế bằng gỗ;
+1394;Sản xuất các loại dây bện và lưới Chi tiết: Sản xuất, gia công, đan, bện các loại dây thừng, dây bện, lưới đánh bắt thủy sản, lưới nuôi trồng thủy sản, lưới nông nghiệp, lưới thể thao, lưới an toàn và các loại lưới chuyên dụng khác.;
 
-3109;Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác;
+3512;Sản xuất điện từ nguồn năng lượng tái tạo Chi tiết: Sản xuất và bán điện năng lượng mặt trời;
 
-4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng;
+5210;Kho bãi và lưu giữ hàng hóa Chi tiết: Kho bãi và lưu giữ hàng hóa trong kho đông lạnh; cho thuê kho lạnh.;
+
+4632;Bán buôn thực phẩm Chi tiết: Bán buôn rau, quả; mua bán, xuất nhập khẩu trái cây.;
+
+2592;Gia công cơ khí; xử lý và tráng phủ kim loại Chi tiết: Gia công cắt, hàn sắt; phun sơn, sơn phủ bề mặt kim loại.;
 
 DANH_SACH_NGANH_NGHE_END={}
