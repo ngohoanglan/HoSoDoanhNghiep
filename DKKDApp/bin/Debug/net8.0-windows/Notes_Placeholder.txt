@@ -1,81 +1,85 @@
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH TMDV KATSUMI VIỆT NAM}
-TEN_CTY_TIENG_ANH={KATSUMI VIET NAM TRADING SERVICES COMPANY LIMITED}
-TEN_CTY_VIET_TAT={KATSUMI VIET NAM CO., LTD}
+
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH HTC ASEAN}
+TEN_CTY_TIENG_ANH={HTC ASEAN COMPANY LIMITED}
+TEN_CTY_VIET_TAT={HTC ASEAN}
 
 
-TRU_SO_0={Số nhà 515, Đường Lai Hưng 36, Tổ 9, Khu phố Lai Khê}
-TRU_SO_1={Phường Bến Cát}
-TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0988442161}
+TRU_SO_0={Tầng 5, Tòa nhà HD GARDEN , Số 1279A, Đường Lê Hồng Phong}
+TRU_SO_1={Phường Thủ Dầu Một}
+TRU_SO_2={Thành Phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0389795379}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
 VON_DIEU_LE_VND={3.000.000.000 VNĐ.}
 VON_DIEU_LE_CHU={Ba tỷ đồng}
 
-CSH_HO_TEN={NGUYỄN TRỌNG TRUNG}
-CSH_NGAY_SINH={22/02/1989}
-CSH_SO_GIAY_PHAP_LY={034089016494}
-CSH_NGAY_CAP={07/11/2022}
+CSH_HO_TEN={VŨ TUẤN PHƯỚC}
+CSH_NGAY_SINH={29/10/1994}
+CSH_SO_GIAY_PHAP_LY={060094002350}
+CSH_NGAY_CAP={22/04/2021}
 CSH_NOI_CAP={Bộ Công An}
 CSH_GIOI_TINH={Nam}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Thôn Bình An}
-CSH_THUONG_TRU_1={xã Đông Thụy Anh}
-CSH_THUONG_TRU_2={Tỉnh Hưng Yên}
+CSH_THUONG_TRU_0={Xóm 4, Thôn 1}
+CSH_THUONG_TRU_1={Xã Suối Kiết}
+CSH_THUONG_TRU_2={Tỉnh Lâm Đồng}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Thôn Bình An}
-CSH_LIEN_LAC_1={xã Đông Thụy Anh}
-CSH_LIEN_LAC_2={Tỉnh Hưng Yên}
+CSH_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
+CSH_LIEN_LAC_1={Phường Thủ Dầu Một}
+CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Thôn Bình An, xã Đông Thụy Anh, Tỉnh Hưng Yên, Việt Nam}
-CSH_DIEN_THOAI={0988442161}
+CSH_LIEN_LAC_FULL={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam}
+CSH_DIEN_THOAI={}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={NGUYỄN TRỌNG TRUNG}
-DDPL_NGAY_SINH={22/02/1989}
-DDPL_SO_GIAY_PHAP_LY={034089016494}
-DDPL_NGAY_CAP={07/11/2022}
+DDPL_HO_TEN={VŨ TUẤN PHƯỚC}
+DDPL_NGAY_SINH={29/10/1994}
+DDPL_SO_GIAY_PHAP_LY={060094002350}
+DDPL_NGAY_CAP={22/04/2021}
 DDPL_NOI_CAP={Bộ Công An}
 DDPL_GIOI_TINH={Nam}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Thôn Bình An}
-DDPL_THUONG_TRU_1={xã Đông Thụy Anh}
-DDPL_THUONG_TRU_2={Tỉnh Hưng Yên}
+DDPL_THUONG_TRU_0={Xóm 4, Thôn 1}
+DDPL_THUONG_TRU_1={Xã Suối Kiết}
+DDPL_THUONG_TRU_2={Tỉnh Lâm Đồng}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Thôn Bình An}
-DDPL_LIEN_LAC_1={xã Đông Thụy Anh}
-DDPL_LIEN_LAC_2={Tỉnh Hưng Yên}
+DDPL_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
+DDPL_LIEN_LAC_1={Phường Thủ Dầu Một}
+DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
-DDPL_DIEN_THOAI={0988442161}
+DDPL_DIEN_THOAI={}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={NGUYỄN TRỌNG TRUNG}
-UY_QUYEN_NGAY_SINH={22/02/1989}
-UY_QUYEN_SO_GIAY_PHAP_LY={034089016494}
-UY_QUYEN_NGAY_CAP={07/11/2022}
+UY_QUYEN_HO_TEN={VŨ TUẤN PHƯỚC}
+UY_QUYEN_NGAY_SINH={29/10/1994}
+UY_QUYEN_SO_GIAY_PHAP_LY={060094002350}
+UY_QUYEN_NGAY_CAP={22/04/2021}
 UY_QUYEN_NOI_CAP={Bộ Công An}
 UY_QUYEN_GIOI_TINH={Nam}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Thôn Bình An}
-UY_QUYEN_LIEN_LAC_1={xã Đông Thụy Anh}
-UY_QUYEN_LIEN_LAC_2={Tỉnh Hưng Yên}
+UY_QUYEN_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
+UY_QUYEN_LIEN_LAC_1={Phường Thủ Dầu Một}
+UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0988442161}
-UY_QUYEN_EMAIL={congtytkatsumivietnam@gmail.com}
-NGAY_KY={14/5/2026}
+UY_QUYEN_DIEN_THOAI={0389795379}
+UY_QUYEN_EMAIL={congtyhtcasean@gmail.com}
+NGAY_KY={26/5/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-4759;Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu Chi tiết: Tủ bếp, Tủ phòng tắm, thiết bị vệ sinh và phụ kiện nội thất;Ngành chính
+2220;Sản xuất sản phẩm từ plastic Chi tiết: Sản xuất sợi nhựa, dây nhựa, sợi PE, PP, nylon và các sản phẩm từ plastic dùng làm nguyên liệu hoặc bán thành phẩm cho sản xuất lưới, dây thừng, vật tư nông nghiệp, ngư nghiệp, thể thao và gia dụng.;
 
-4649;Bán buôn đồ dùng khác cho gia đình;
+2599;Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu Chi tiết: Sản xuất các loại dụng cụ dùng cho đánh bắt nuôi trồng thủy hải sản;
 
-4673;Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng;
+8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu Chi tiết: Thực hiện quyền xuất khẩu thủy hải sản, hạt điều (HS: 0801), trà (HS: 0902), cà phê (HS: 0305);
 
-4659;Bán buôn máy móc, thiết bị và phụ tùng máy khác;
+1394;Sản xuất các loại dây bện và lưới Chi tiết: Sản xuất, gia công, đan, bện các loại dây thừng, dây bện, lưới đánh bắt thủy sản, lưới nuôi trồng thủy sản, lưới nông nghiệp, lưới thể thao, lưới an toàn và các loại lưới chuyên dụng khác.;Ngành chính
 
-4642;Bán buôn giường, tủ, bàn ghế và đồ nội thất tương tự trong gia đình, văn phòng, cửa hàng; thảm, đệm và thiết bị chiếu sáng;
+3512;Sản xuất điện từ nguồn năng lượng tái tạo Chi tiết: Sản xuất và bán điện năng lượng mặt trời;
 
-9524;Sửa chữa, bảo dưỡng giường, tủ, bàn, ghế và đồ nội thất tương tự;
+5210;Kho bãi và lưu giữ hàng hóa Chi tiết: Kho bãi và lưu giữ hàng hóa trong kho đông lạnh; cho thuê kho lạnh.;
 
+4632;Bán buôn thực phẩm Chi tiết: Bán buôn rau, quả; mua bán, xuất nhập khẩu trái cây.;
+
+2592;Gia công cơ khí; xử lý và tráng phủ kim loại Chi tiết: Gia công cắt, hàn sắt, thiết bị và dụng cụ thể thao.; phun sơn, sơn phủ bề mặt kim loại.;
 DANH_SACH_NGANH_NGHE_END={}
