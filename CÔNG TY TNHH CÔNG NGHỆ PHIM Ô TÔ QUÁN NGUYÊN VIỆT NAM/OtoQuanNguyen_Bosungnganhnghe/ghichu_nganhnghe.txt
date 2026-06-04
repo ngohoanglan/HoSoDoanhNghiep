@@ -1,0 +1,10 @@
+4791	Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet=>Đã bị xóa
+4649	Bán buôn đồ dùng khác cho gia đình==>Thêm ok
+4530(mã mới 4662)	Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác==>Đã có
+4610	Đại lý, môi giới, đấu giá hàng hóa==>Thêm ok
+4690	Bán buôn tổng hợp===>Đã có
+
+
+ 
+
+
