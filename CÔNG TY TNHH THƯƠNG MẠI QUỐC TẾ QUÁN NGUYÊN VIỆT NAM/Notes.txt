@@ -73,21 +73,18 @@ Email: congtyquannguyenvietnam@gmail.com
 7. Ngành nghề kinh doanh (Mã ngành và tên ngành, ngành chính):
 Mã ngành	Tên ngành nghề kinh doanh (Bao gồm chi tiết);Ngành chính	
 
-STT	Tên ngành bao gồm chi tiết	Mã ngành	Ngành chính
+
 4649;Bán buôn đồ dùng khác cho gia đình
 
-2599;Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu Chi tiết: Sản xuất các loại dụng cụ dùng cho đánh bắt nuôi trồng thủy hải sản;
+4610;Đại lý, môi giới, đấu giá hàng hóa
 
-8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu Chi tiết: Thực hiện quyền xuất khẩu thủy hải sản, hạt điều (HS: 0801), trà (HS: 0902), cà phê (HS: 0305);
+4690;Bán buôn tổng hợp;Ngành chính
 
-1394;Sản xuất các loại dây bện và lưới Chi tiết: Sản xuất, gia công, đan, bện các loại dây thừng, dây bện, lưới đánh bắt thủy sản, lưới nuôi trồng thủy sản, lưới nông nghiệp, lưới thể thao, lưới an toàn và các loại lưới chuyên dụng khác.;Ngành chính
+4772;Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh
 
-3512;Sản xuất điện từ nguồn năng lượng tái tạo Chi tiết: Sản xuất và bán điện năng lượng mặt trời;
+4771;Bán lẻ hàng may mặc, giày, dép, hàng da và giả da
 
-5210;Kho bãi và lưu giữ hàng hóa Chi tiết: Kho bãi và lưu giữ hàng hóa trong kho đông lạnh; cho thuê kho lạnh.;
+4759;Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu
 
-4632;Bán buôn thực phẩm Chi tiết: Bán buôn rau, quả; mua bán, xuất nhập khẩu trái cây.;
-
-2592;Gia công cơ khí; xử lý và tráng phủ kim loại Chi tiết: Gia công cắt, hàn sắt, thiết bị và dụng cụ thể thao.; phun sơn, sơn phủ bề mặt kim loại.;
  
-8. Ngày trên tất cả văn bản: 3/6/2026
+8. Ngày trên tất cả văn bản: 4/6/2026
