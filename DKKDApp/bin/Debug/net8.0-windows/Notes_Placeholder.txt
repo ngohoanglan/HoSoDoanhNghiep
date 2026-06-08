@@ -1,85 +1,71 @@
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH CÔNG NGHIỆP BỬU CHI}
+TEN_CTY_TIENG_ANH={BUU CHI INDUSTRIES CO.,LTD}
+TEN_CTY_VIET_TAT={B & C INDUSTRIES CO.,LTD}
 
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH HTC ASEAN}
-TEN_CTY_TIENG_ANH={HTC ASEAN COMPANY LIMITED}
-TEN_CTY_VIET_TAT={HTC ASEAN}
-
-
-TRU_SO_0={Tầng 5, Tòa nhà HD GARDEN , Số 1279A, Đường Lê Hồng Phong}
-TRU_SO_1={Phường Thủ Dầu Một}
+TRU_SO_0={Lô B2-60, khu công nghiệp Tân Đông Hiệp B}
+TRU_SO_1={Phường Tân Đông Hiệp}
 TRU_SO_2={Thành Phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0389795379}
+TRU_SO_DIEN_THOAI={02743741100}
 TRU_SO_EMAIL={}
-SO_LAO_DONG={2}
-VON_DIEU_LE_VND={3.000.000.000 VNĐ.}
-VON_DIEU_LE_CHU={Ba tỷ đồng}
+SO_LAO_DONG={60}
 
-CSH_HO_TEN={VŨ TUẤN PHƯỚC}
-CSH_NGAY_SINH={29/10/1994}
-CSH_SO_GIAY_PHAP_LY={060094002350}
-CSH_NGAY_CAP={22/04/2021}
+VON_DIEU_LE_VND={10.000.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Mười tỷ đồng}
+
+CSH_HO_TEN={LÊ KIÊM CHÍ}
+CSH_NGAY_SINH={15/04/1949}
+CSH_SO_GIAY_PHAP_LY={075149004366}
+CSH_NGAY_CAP={26/05/2022}
 CSH_NOI_CAP={Bộ Công An}
-CSH_GIOI_TINH={Nam}
+CSH_GIOI_TINH={Nữ}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Xóm 4, Thôn 1}
-CSH_THUONG_TRU_1={Xã Suối Kiết}
-CSH_THUONG_TRU_2={Tỉnh Lâm Đồng}
+CSH_THUONG_TRU_0={10, Đỗ Văn Thi, Kp Nhị Hoà}
+CSH_THUONG_TRU_1={Phường Trấn Biên}
+CSH_THUONG_TRU_2={Thành phố Đồng Nai}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
-CSH_LIEN_LAC_1={Phường Thủ Dầu Một}
-CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+CSH_LIEN_LAC_0={10, Đỗ Văn Thi, Kp Nhị Hoà}
+CSH_LIEN_LAC_1={Phường Trấn Biên}
+CSH_LIEN_LAC_2={Thành phố Đồng Nai}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam}
+CSH_LIEN_LAC_FULL={10, Đỗ Văn Thi, Kp Nhị Hoà, Phường Trấn Biên, Thành phố Đồng Nai, Việt Nam}
 CSH_DIEN_THOAI={}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={VŨ TUẤN PHƯỚC}
-DDPL_NGAY_SINH={29/10/1994}
-DDPL_SO_GIAY_PHAP_LY={060094002350}
-DDPL_NGAY_CAP={22/04/2021}
+DDPL_HO_TEN={LÊ KIÊM CHÍ}
+DDPL_NGAY_SINH={15/04/1949}
+DDPL_SO_GIAY_PHAP_LY={075149004366}
+DDPL_NGAY_CAP={26/05/2022}
 DDPL_NOI_CAP={Bộ Công An}
-DDPL_GIOI_TINH={Nam}
+DDPL_GIOI_TINH={Nữ}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Xóm 4, Thôn 1}
-DDPL_THUONG_TRU_1={Xã Suối Kiết}
-DDPL_THUONG_TRU_2={Tỉnh Lâm Đồng}
+DDPL_THUONG_TRU_0={10, Đỗ Văn Thi, Kp Nhị Hoà}
+DDPL_THUONG_TRU_1={Phường Trấn Biên}
+DDPL_THUONG_TRU_2={Thành phố Đồng Nai}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
-DDPL_LIEN_LAC_1={Phường Thủ Dầu Một}
-DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+DDPL_LIEN_LAC_0={10, Đỗ Văn Thi, Kp Nhị Hoà}
+DDPL_LIEN_LAC_1={Phường Trấn Biên}
+DDPL_LIEN_LAC_2={Thành phố Đồng Nai}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
 DDPL_DIEN_THOAI={}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={VŨ TUẤN PHƯỚC}
-UY_QUYEN_NGAY_SINH={29/10/1994}
-UY_QUYEN_SO_GIAY_PHAP_LY={060094002350}
-UY_QUYEN_NGAY_CAP={22/04/2021}
-UY_QUYEN_NOI_CAP={Bộ Công An}
-UY_QUYEN_GIOI_TINH={Nam}
-UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Căn hộ chung cư số 1214 - chung cư chánh nghĩa quốc cường block sky B - tổ 26 khu phố chánh nghĩa 3}
-UY_QUYEN_LIEN_LAC_1={Phường Thủ Dầu Một}
-UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+UY_QUYEN_HO_TEN={LÊ KIÊM CHÍ}
+UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_LIEN_LAC_0={10, Đỗ Văn Thi, Kp Nhị Hoà}
+UY_QUYEN_LIEN_LAC_1={Phường Trấn Biên}
+UY_QUYEN_LIEN_LAC_2={Thành phố Đồng Nai}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0389795379}
-UY_QUYEN_EMAIL={congtyhtcasean@gmail.com}
-NGAY_KY={26/5/2026}
+UY_QUYEN_DIEN_THOAI={02743741100}
+UY_QUYEN_EMAIL={congtycongnghiepbuuchi@gmail.com}
+
+NGAY_KY={19/6/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-2220;Sản xuất sản phẩm từ plastic Chi tiết: Sản xuất sợi nhựa, dây nhựa, sợi PE, PP, nylon và các sản phẩm từ plastic dùng làm nguyên liệu hoặc bán thành phẩm cho sản xuất lưới, dây thừng, vật tư nông nghiệp, ngư nghiệp, thể thao và gia dụng.;
-
-2599;Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu Chi tiết: Sản xuất các loại dụng cụ dùng cho đánh bắt nuôi trồng thủy hải sản;
-
-8299;Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu Chi tiết: Thực hiện quyền xuất khẩu thủy hải sản, hạt điều (HS: 0801), trà (HS: 0902), cà phê (HS: 0305);
-
-1394;Sản xuất các loại dây bện và lưới Chi tiết: Sản xuất, gia công, đan, bện các loại dây thừng, dây bện, lưới đánh bắt thủy sản, lưới nuôi trồng thủy sản, lưới nông nghiệp, lưới thể thao, lưới an toàn và các loại lưới chuyên dụng khác.;Ngành chính
-
-3512;Sản xuất điện từ nguồn năng lượng tái tạo Chi tiết: Sản xuất và bán điện năng lượng mặt trời;
-
-5210;Kho bãi và lưu giữ hàng hóa Chi tiết: Kho bãi và lưu giữ hàng hóa trong kho đông lạnh; cho thuê kho lạnh.;
-
-4632;Bán buôn thực phẩm Chi tiết: Bán buôn rau, quả; mua bán, xuất nhập khẩu trái cây.;
-
-2592;Gia công cơ khí; xử lý và tráng phủ kim loại Chi tiết: Gia công cắt, hàn sắt, thiết bị và dụng cụ thể thao.; phun sơn, sơn phủ bề mặt kim loại.;
+2511;Sản xuất các cấu kiện kim loại. Chi tiết: Sản xuất khung, sườn cho xây dựng, máy che, cửa sổ, cửa chớp, cổng, vách ngăn..;Ngành chính
+2592;Gia công cơ khí; xử lý và tráng phủ kim loại. Chi tiết: Gia công hàn, cắt, sơn kim loại (trừ xử lý và tráng phủ kim loại).;
+4649;Bán buôn đồ dùng khác cho gia đình. Chi tiết: Bán buôn giường tủ bàn ghế bằng gỗ, song mây hoặc bằng vật liệu khác.;
+7110;Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan. Chi tiết: Thiết kế kiến trúc, phác thảo bản vẽ cho các công trình, tư vấn kỹ thuật, dịch vụ kiểm định ...;
+4672;Bán buôn kim loại và quặng kim loại. Chi tiết: Bán buôn sắt thép và kim loại màu dạng tấm, lá, định hình.;
+3512;Sản xuất điện từ nguồn năng lượng tái tạo. Chi tiết: Trao đổi, phân phối điện mặt trời trên mái nhà cho điện lực (Thực hiện theo Nghị định 137/2013/NĐ-CP và Nghị định 94/2017/NĐ-CP) (Chỉ được hoạt động sau khi đáp ứng đủ điều kiện kinh doanh đối với ngành nghề kinh doanh có điều kiện)
 DANH_SACH_NGANH_NGHE_END={}
