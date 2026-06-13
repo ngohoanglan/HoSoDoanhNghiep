@@ -1,84 +1,72 @@
- 
-1. Tên công ty
 
-Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MTV TIẾN VÂN
-Tên công ty viết bằng tiếng nước ngoài: 
-Tên công ty viết tắt: 
- 
-2. Địa chỉ trụ sở chính: 
-Số nhà/đường/tổ/xóm/ấp/thôn: Số 385 Đường DT 747, tổ 3, khu phố Mỹ Đức
-Xã/Phường/Đặc khu: phường Bình Cơ
-Tỉnh/Thành phố trực thuộc trung ương: Thành phố Hồ Chí Minh
-Điện thoại: 0909507889
-Email:
-Số lượng lao động(Dự kiến): 2
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH MTV TIẾN VÂN}
+TEN_CTY_TIENG_ANH={}
+TEN_CTY_VIET_TAT={}
 
-3. Vốn điều lệ: 
-Số tiền bằng số: 1.000.000.000 VNĐ. 
-Bằng chữ: Một tỷ đồng
 
- 
-4.Chủ sở hữu:
+TRU_SO_0={Số 385 Đường DT 747, tổ 3, khu phố Mỹ Đức}
+TRU_SO_1={phường Bình Cơ}
+TRU_SO_2={Thành phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0909507889}
+TRU_SO_EMAIL={phamvan.edu@gmail.com}
+SO_LAO_DONG={2}
+VON_DIEU_LE_VND={500.000.000 VNĐ.}
+VON_DIEU_LE_CHU={Năm trăm triệu đồng}
 
-Họ và tên: PHẠM THỊ VÂN
-Ngày, tháng, năm sinh: 20/08/1989
-Số Căn cước công dân/Số định danh: 060189016594
-Ngày cấp căn cước công dân: 25/08/2022
-Nơi cấp căn cước công dân:Bộ Công An
-Giới tính: Nữ
-Quốc tịch: Việt Nam
+CSH_HO_TEN={PHẠM THỊ VÂN}
+CSH_NGAY_SINH={20/08/1989}
+CSH_SO_GIAY_PHAP_LY={060189016594}
+CSH_NGAY_CAP={25/08/2022}
+CSH_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+CSH_GIOI_TINH={Nữ}
+CSH_QUOC_TICH={Việt Nam}
+CSH_THUONG_TRU_0={Ấp 1}
+CSH_THUONG_TRU_1={Xã Nam Cát Tiên}
+CSH_THUONG_TRU_2={Thành Phố Đồng Nai}
+CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_0={Ấp 1}
+CSH_LIEN_LAC_1={Xã Nam Cát Tiên}
+CSH_LIEN_LAC_2={Thành Phố Đồng Nai}
+CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_FULL={Ấp 1, Xã Nam Cát Tiên, Thành Phố Đồng Nai, Việt Nam}
+CSH_DIEN_THOAI={}
+CSH_EMAIL={}
 
-Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Ấp 1
-Xã/Phường/Đặc khu: Xã Nam Cát Tiên
-Tỉnh/Thành phố trực thuộc trung ương: Thành Phố Đồng Nai
-Quốc gia: Việt Nam
+DDPL_CHUC_VU={Giám đốc}
+DDPL_HO_TEN={PHẠM THỊ VÂN}
+DDPL_NGAY_SINH={20/08/1989}
+DDPL_SO_GIAY_PHAP_LY={060189016594}
+DDPL_NGAY_CAP={25/08/2022}
+DDPL_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+DDPL_GIOI_TINH={Nữ}
+DDPL_QUOC_TICH={Việt Nam}
+DDPL_THUONG_TRU_0={Ấp 1}
+DDPL_THUONG_TRU_1={Xã Nam Cát Tiên}
+DDPL_THUONG_TRU_2={Thành Phố Đồng Nai}
+DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
+DDPL_LIEN_LAC_0={Ấp 1}
+DDPL_LIEN_LAC_1={Xã Nam Cát Tiên}
+DDPL_LIEN_LAC_2={Thành Phố Đồng Nai}
+DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
+DDPL_DIEN_THOAI={}
+DDPL_EMAIL={}
 
-Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Ấp 1
-Xã/Phường/Đặc khu: Xã Nam Cát Tiên
-Tỉnh/Thành phố trực thuộc trung ương: Thành Phố Đồng Nai
-Quốc gia: Việt Nam
-Số điện thoại:
+UY_QUYEN_HO_TEN={PHẠM THỊ VÂN}
+UY_QUYEN_NGAY_SINH={20/08/1989}
+UY_QUYEN_SO_GIAY_PHAP_LY={060189016594}
+UY_QUYEN_NGAY_CAP={25/08/2022}
+UY_QUYEN_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_QUOC_TICH={Việt Nam}
+UY_QUYEN_LIEN_LAC_0={Ấp 1}
+UY_QUYEN_LIEN_LAC_1={Xã Nam Cát Tiên}
+UY_QUYEN_LIEN_LAC_2={Thành Phố Đồng Nai}
+UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
+UY_QUYEN_DIEN_THOAI={0909507889}
+UY_QUYEN_EMAIL={phamvan.edu@gmail.com}
+NGAY_KY={13/6/2026}
 
-5. Đại diện pháp luật:
-Chức vụ: Giám đốc
-Họ và tên: PHẠM THỊ VÂN
-Ngày, tháng, năm sinh: 20/08/1989
-Số Căn cước công dân/Số định danh: 060189016594
-Ngày cấp căn cước công dân: 25/08/2022
-Nơi cấp căn cước công dân:Bộ Công An
-Giới tính: Nữ
-Quốc tịch: Việt Nam
-
-Địa chỉ thường trú:
-Số nhà/đường/tổ/xóm/ấp/thôn: Ấp 1
-Xã/Phường/Đặc khu: Xã Nam Cát Tiên
-Tỉnh/Thành phố trực thuộc trung ương: Thành Phố Đồng Nai
-Quốc gia: Việt Nam
-
-Địa chỉ liên lạc:
-Số nhà/đường/tổ/xóm/ấp/thôn: Ấp 1
-Xã/Phường/Đặc khu: Xã Nam Cát Tiên
-Tỉnh/Thành phố trực thuộc trung ương: Thành Phố Đồng Nai
-Quốc gia: Việt Nam
-Số điện thoại: 
-
-6. Thông tin ủy quyền:
-Họ và tên: PHẠM THỊ VÂN
-Ngày, tháng, năm sinh: 20/08/1989
-Số Căn cước công dân/Số định danh: 060189016594
-Ngày cấp căn cước công dân: 25/08/2022
-Nơi cấp căn cước công dân:Bộ Công An
-Giới tính: Nữ
-Quốc tịch: Việt Nam
-Số điện thoại: 0909507889
-Email: congtymtvtienvan@gmail.com
-
-7. Ngành nghề kinh doanh (Mã ngành và tên ngành, ngành chính):
-Mã ngành	Tên ngành nghề kinh doanh (Bao gồm chi tiết);Ngành chính	
-
-STT	Tên ngành bao gồm chi tiết	Mã ngành	Ngành chính
+DANH_SACH_NGANH_NGHE_BEGIN={}
 5629;Dịch vụ ăn uống khác;Ngành chính
 
 4719;Bán lẻ tổng hợp khác;
@@ -87,6 +75,7 @@ STT	Tên ngành bao gồm chi tiết	Mã ngành	Ngành chính
 
 4633;Bán buôn đồ uống;
 
-5229;Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải; 
+5229;Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;
 
-8. Ngày trên tất cả văn bản: 13/6/2026
+4620;Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống;
+DANH_SACH_NGANH_NGHE_END={}
