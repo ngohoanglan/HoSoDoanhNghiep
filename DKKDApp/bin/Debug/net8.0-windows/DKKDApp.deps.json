@@ -18,8 +18,7 @@
       "Aspose.Words/26.2.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.1",
-          "SkiaSharp": "3.119.0",
-          "System.Text.Encoding.CodePages": "7.0.0"
+          "SkiaSharp": "3.119.0"
         },
         "runtime": {
           "lib/net8.0/Aspose.Words.dll": {
@@ -30,8 +29,7 @@
       },
       "DocX/5.0.0": {
         "dependencies": {
-          "SkiaSharp": "3.119.0",
-          "System.IO.Packaging": "4.5.0"
+          "SkiaSharp": "3.119.0"
         },
         "runtime": {
           "lib/net5.0/Xceed.Document.NET.dll": {
@@ -106,9 +104,7 @@
             "fileVersion": "0.0.0.0"
           }
         }
-      },
-      "System.IO.Packaging/4.5.0": {},
-      "System.Text.Encoding.CodePages/7.0.0": {}
+      }
     }
   },
   "libraries": {
@@ -165,20 +161,6 @@
       "sha512": "sha512-IwC9yx36lOdXVT2DjgmWHl1qkVspfj8ctd4+li8CNnvqdfaTolXCOh6TLznURcPAvzatx9K/tLOB7zT6T8EA9w==",
       "path": "skiasharp.nativeassets.win32/3.119.0",
       "hashPath": "skiasharp.nativeassets.win32.3.119.0.nupkg.sha512"
-    },
-    "System.IO.Packaging/4.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-OjtW5pGp1E7KE3ontBrzy+nSFJCM6pcbVDdo3gg4DauTfdtZKdeKvMVlADF4fSY+OfXWUp4qCvOSxIltt37LbA==",
-      "path": "system.io.packaging/4.5.0",
-      "hashPath": "system.io.packaging.4.5.0.nupkg.sha512"
-    },
-    "System.Text.Encoding.CodePages/7.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-LSyCblMpvOe0N3E+8e0skHcrIhgV2huaNcjUUEa8hRtgEAm36aGkRoC8Jxlb6Ra6GSfF29ftduPNywin8XolzQ==",
-      "path": "system.text.encoding.codepages/7.0.0",
-      "hashPath": "system.text.encoding.codepages.7.0.0.nupkg.sha512"
     }
   }
 }
