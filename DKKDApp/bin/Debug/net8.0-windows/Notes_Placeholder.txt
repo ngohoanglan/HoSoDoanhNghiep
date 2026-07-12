@@ -1,80 +1,75 @@
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH TF FURNITURE}
-TEN_CTY_TIENG_ANH={TF FURNITURE COMPANY LIMITED}
-TEN_CTY_VIET_TAT={TF FURNITURE CO., LTD}
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH VẬN TẢI ĐẠI PHƯỚC EXPRESS}
+TEN_CTY_TIENG_ANH={DAI PHUOC EXPRESS TRANSPORT COMPANY LIMITED}
+TEN_CTY_VIET_TAT={DAI PHUOC EXPRESS CO., LTD}
 
 
-TRU_SO_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-TRU_SO_1={Phường Thủ Dầu Một}
+TRU_SO_0={Số 4/46 đường Thủ Khoa Huân, Khu Phố Bình Thuận 1}
+TRU_SO_1={Phường Thuận Giao}
 TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0937423613}
+TRU_SO_DIEN_THOAI={0376126863}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
 VON_DIEU_LE_VND={3.000.000.000}
 VON_DIEU_LE_CHU={Ba tỷ đồng}
 
-CSH_HO_TEN={TRẦN ANH KHOA}
-CSH_NGAY_SINH={23/08/2001}
-CSH_SO_GIAY_PHAP_LY={079201033191}
-CSH_NGAY_CAP={13/04/2021}
+CSH_HO_TEN={NGUYỄN THỊ CẨM TIÊN}
+CSH_NGAY_SINH={15/05/1997}
+CSH_SO_GIAY_PHAP_LY={089197012691}
+CSH_NGAY_CAP={28/06/2022}
 CSH_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
-CSH_GIOI_TINH={Nam}
+CSH_GIOI_TINH={Nữ}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-CSH_THUONG_TRU_1={Phường Thủ Dầu Một}
-CSH_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+CSH_THUONG_TRU_0={TỔ 12, ẤP TÂN THÀNH}
+CSH_THUONG_TRU_1={Xã Núi Cấm}
+CSH_THUONG_TRU_2={Tỉnh An Giang}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-CSH_LIEN_LAC_1={Phường Thủ Dầu Một}
-CSH_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+CSH_LIEN_LAC_0={TỔ 12, ẤP TÂN THÀNH}
+CSH_LIEN_LAC_1={Xã Núi Cấm}
+CSH_LIEN_LAC_2={Tỉnh An Giang}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam}
+CSH_LIEN_LAC_FULL={TỔ 12, ẤP TÂN THÀNH, Xã Núi Cấm, Tỉnh An Giang, Việt Nam}
 CSH_DIEN_THOAI={}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={TRẦN ANH KHOA}
-DDPL_NGAY_SINH={23/08/2001}
-DDPL_SO_GIAY_PHAP_LY={079201033191}
-DDPL_NGAY_CAP={13/04/2021}
+DDPL_HO_TEN={NGUYỄN THỊ CẨM TIÊN}
+DDPL_NGAY_SINH={15/05/1997}
+DDPL_SO_GIAY_PHAP_LY={089197012691}
+DDPL_NGAY_CAP={28/06/2022}
 DDPL_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
-DDPL_GIOI_TINH={Nam}
+DDPL_GIOI_TINH={Nữ}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-DDPL_THUONG_TRU_1={Phường Thủ Dầu Một}
-DDPL_THUONG_TRU_2={Thành phố Hồ Chí Minh}
+DDPL_THUONG_TRU_0={TỔ 12, ẤP TÂN THÀNH}
+DDPL_THUONG_TRU_1={Xã Núi Cấm}
+DDPL_THUONG_TRU_2={Tỉnh An Giang}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-DDPL_LIEN_LAC_1={Phường Thủ Dầu Một}
-DDPL_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+DDPL_LIEN_LAC_0={TỔ 12, ẤP TÂN THÀNH}
+DDPL_LIEN_LAC_1={Xã Núi Cấm}
+DDPL_LIEN_LAC_2={Tỉnh An Giang}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
 DDPL_DIEN_THOAI={}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={TRẦN ANH KHOA}
-UY_QUYEN_NGAY_SINH={23/08/2001}
-UY_QUYEN_SO_GIAY_PHAP_LY={079201033191}
-UY_QUYEN_NGAY_CAP={13/04/2021}
+UY_QUYEN_HO_TEN={NGUYỄN THỊ CẨM TIÊN}
+UY_QUYEN_NGAY_SINH={15/05/1997}
+UY_QUYEN_SO_GIAY_PHAP_LY={089197012691}
+UY_QUYEN_NGAY_CAP={28/06/2022}
 UY_QUYEN_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
-UY_QUYEN_GIOI_TINH={Nam}
+UY_QUYEN_GIOI_TINH={Nữ}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Số nhà 10/5, đường Ngô Gia Tự, tổ 9, khu phố Chánh Nghĩa 12}
-UY_QUYEN_LIEN_LAC_1={Phường Thủ Dầu Một}
-UY_QUYEN_LIEN_LAC_2={Thành phố Hồ Chí Minh}
+UY_QUYEN_LIEN_LAC_0={TỔ 12, ẤP TÂN THÀNH}
+UY_QUYEN_LIEN_LAC_1={Xã Núi Cấm}
+UY_QUYEN_LIEN_LAC_2={Tỉnh An Giang}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0937423613}
-UY_QUYEN_EMAIL={congtytffurniture@gmail.com}
-NGAY_KY={27/6/2026}
+UY_QUYEN_DIEN_THOAI={0376126863}
+UY_QUYEN_EMAIL={vantaidaiphuoc@gmail.com}
+NGAY_KY={12/7/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-5629;Dịch vụ ăn uống khác;Ngành chính
-
-4719;Bán lẻ tổng hợp khác;
-
-4722;Bán lẻ thực phẩm;
-
-4633;Bán buôn đồ uống;
+4933;Vận tải hàng hóa bằng đường bộ;Ngành chính
 
 5229;Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;
 
-4620;Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống;
+4931;Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt);
+
 DANH_SACH_NGANH_NGHE_END={}
