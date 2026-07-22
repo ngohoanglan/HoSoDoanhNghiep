@@ -1,86 +1,90 @@
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH VẬN TẢI BÌNH MINH BÌNH DƯƠNG}
-TEN_CTY_TIENG_ANH={}
-TEN_CTY_VIET_TAT={}
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH TMDV XIANG YU}
+TEN_CTY_TIENG_ANH={XIANG YU TMDV COMPANY LIMITED}
+TEN_CTY_VIET_TAT={XIANG YU TMDV CO., LTD}
 
 
-TRU_SO_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-TRU_SO_1={Phường Thuận Giao}
+TRU_SO_0={Số nhà B5M khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7}
+TRU_SO_1={Phường Tân Uyên}
 TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0868811960}
+TRU_SO_DIEN_THOAI={0856268070}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
-VON_DIEU_LE_VND={2.000.000.000}
-VON_DIEU_LE_CHU={Hai tỷ đồng}
+VON_DIEU_LE_VND={3.000.000.000}
+VON_DIEU_LE_CHU={Ba tỷ đồng}
 
-CSH_HO_TEN={VŨ HỒ XUÂN NGHI}
-CSH_NGAY_SINH={24/07/2006}
-CSH_SO_GIAY_PHAP_LY={080306002330}
-CSH_NGAY_CAP={25/04/2021}
-CSH_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+CSH_HO_TEN={HUỲNH THU TRANG}
+CSH_NGAY_SINH={19/02/2001}
+CSH_SO_GIAY_PHAP_LY={096301005782}
+CSH_NGAY_CAP={27/01/2026}
+CSH_NOI_CAP={Bộ Công An}
 CSH_GIOI_TINH={Nữ}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-CSH_THUONG_TRU_1={Phường Thuận Giao}
-CSH_THUONG_TRU_2={Thành Phố Hồ Chí Minh}
+CSH_THUONG_TRU_0={Ấp Kênh Ngang}
+CSH_THUONG_TRU_1={Xã Tân Lộc}
+CSH_THUONG_TRU_2={Tỉnh Cà Mau}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-CSH_LIEN_LAC_1={Phường Thuận Giao}
-CSH_LIEN_LAC_2={Thành Phố Hồ Chí Minh}
+CSH_LIEN_LAC_0={Ấp Kênh Ngang}
+CSH_LIEN_LAC_1={Xã Tân Lộc}
+CSH_LIEN_LAC_2={Tỉnh Cà Mau}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1, Phường Thuận Giao, Thành Phố Hồ Chí Minh, Việt Nam}
+CSH_LIEN_LAC_FULL={Ấp Kênh Ngang, Xã Tân Lộc, Tỉnh Cà Mau, Việt Nam}
 CSH_DIEN_THOAI={}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={VŨ HỒ XUÂN NGHI}
-DDPL_NGAY_SINH={24/07/2006}
-DDPL_SO_GIAY_PHAP_LY={080306002330}
-DDPL_NGAY_CAP={25/04/2021}
-DDPL_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+DDPL_HO_TEN={HUỲNH THU TRANG}
+DDPL_NGAY_SINH={19/02/2001}
+DDPL_SO_GIAY_PHAP_LY={096301005782}
+DDPL_NGAY_CAP={27/01/2026}
+DDPL_NOI_CAP={Bộ Công An}
 DDPL_GIOI_TINH={Nữ}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-DDPL_THUONG_TRU_1={Phường Thuận Giao}
-DDPL_THUONG_TRU_2={Thành Phố Hồ Chí Minh}
+DDPL_THUONG_TRU_0={Ấp Kênh Ngang}
+DDPL_THUONG_TRU_1={Xã Tân Lộc}
+DDPL_THUONG_TRU_2={Tỉnh Cà Mau}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-DDPL_LIEN_LAC_1={Phường Thuận Giao}
-DDPL_LIEN_LAC_2={Thành Phố Hồ Chí Minh}
+DDPL_LIEN_LAC_0={Ấp Kênh Ngang}
+DDPL_LIEN_LAC_1={Xã Tân Lộc}
+DDPL_LIEN_LAC_2={Tỉnh Cà Mau}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
 DDPL_DIEN_THOAI={}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={VŨ HỒ XUÂN NGHI}
-UY_QUYEN_NGAY_SINH={24/07/2006}
-UY_QUYEN_SO_GIAY_PHAP_LY={080306002330}
-UY_QUYEN_NGAY_CAP={25/04/2021}
-UY_QUYEN_NOI_CAP={Cục trưởng cục cảnh sát quản lý hành chính về trật tự xã hội}
+UY_QUYEN_HO_TEN={HUỲNH THU TRANG}
+UY_QUYEN_NGAY_SINH={19/02/2001}
+UY_QUYEN_SO_GIAY_PHAP_LY={096301005782}
+UY_QUYEN_NGAY_CAP={27/01/2026}
+UY_QUYEN_NOI_CAP={Bộ Công An}
 UY_QUYEN_GIOI_TINH={Nữ}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Số 1/191, Đường Thủ Khoa Huân, Khu phố Hòa Lân 1}
-UY_QUYEN_LIEN_LAC_1={Phường Thuận Giao}
-UY_QUYEN_LIEN_LAC_2={Thành Phố Hồ Chí Minh}
+UY_QUYEN_LIEN_LAC_0={Ấp Kênh Ngang}
+UY_QUYEN_LIEN_LAC_1={Xã Tân Lộc}
+UY_QUYEN_LIEN_LAC_2={Tỉnh Cà Mau}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0868811960}
-UY_QUYEN_EMAIL={congtyvantaibinhminhminh@gmail.com}
-NGAY_KY={21/7/2026}
+UY_QUYEN_DIEN_THOAI={0856268070}
+UY_QUYEN_EMAIL={congtytmdvxiangyu@gmail.com}
+NGAY_KY={22/7/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-4933;Vận tải hàng hóa bằng đường bộ;Ngành chính
+5610;Nhà hàng và các dịch vụ ăn uống phục vụ lưu động;Ngành chính
 
-5229;Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;
+5621;Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng;
 
-7710;Cho thuê xe có động cơ;
+5629;Dịch vụ ăn uống khác;
+
+5630;Dịch vụ phục vụ đồ uống;
+
+4631;Bán buôn gạo, lúa mỳ, sản phẩm từ ngũ cốc khác, bột mỳ;
+
+4632;Bán buôn thực phẩm;
+
+5640;Hoạt động dịch vụ trung gian cho dịch vụ ăn uống;
 
 5510;Khách sạn và dịch vụ lưu trú tương tự;
 
-4932;Vận tải hành khách đường bộ khác;
+5520;Dịch vụ lưu trú ngắn ngày khác;
 
-4931;Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt);
+4633;Bán buôn đồ uống;
 
-4773;Bán lẻ hàng hóa khác mới (trừ ô tô, mô tô, xe máy và các bộ phận phụ trợ);
-
-4649;Bán buôn đồ dùng khác cho gia đình;
-
-4631;Bán buôn gạo, lúa mỳ, sản phẩm từ ngũ cốc khác, bột mỳ;
+4634;Bán buôn sản phẩm thuốc lá, thuốc lào;
 DANH_SACH_NGANH_NGHE_END={}
