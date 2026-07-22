@@ -1,0 +1,90 @@
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH TMDV XIANG YU}
+TEN_CTY_TIENG_ANH={XIANG YU TMDV COMPANY LIMITED}
+TEN_CTY_VIET_TAT={XIANG YU TMDV CO., LTD}
+
+
+TRU_SO_0={Số nhà B5M khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7}
+TRU_SO_1={Phường Tân Uyên}
+TRU_SO_2={Thành phố Hồ Chí Minh}
+TRU_SO_DIEN_THOAI={0856268070}
+TRU_SO_EMAIL={}
+SO_LAO_DONG={2}
+VON_DIEU_LE_VND={3.000.000.000}
+VON_DIEU_LE_CHU={Ba tỷ đồng}
+
+CSH_HO_TEN={HUỲNH THU TRANG}
+CSH_NGAY_SINH={19/02/2001}
+CSH_SO_GIAY_PHAP_LY={096301005782}
+CSH_NGAY_CAP={27/01/2026}
+CSH_NOI_CAP={Bộ Công An}
+CSH_GIOI_TINH={Nữ}
+CSH_QUOC_TICH={Việt Nam}
+CSH_THUONG_TRU_0={Ấp Kênh Ngang}
+CSH_THUONG_TRU_1={Xã Tân Lộc}
+CSH_THUONG_TRU_2={Tỉnh Cà Mau}
+CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_0={Ấp Kênh Ngang}
+CSH_LIEN_LAC_1={Xã Tân Lộc}
+CSH_LIEN_LAC_2={Tỉnh Cà Mau}
+CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
+CSH_LIEN_LAC_FULL={Ấp Kênh Ngang, Xã Tân Lộc, Tỉnh Cà Mau, Việt Nam}
+CSH_DIEN_THOAI={}
+CSH_EMAIL={}
+
+DDPL_CHUC_VU={Giám đốc}
+DDPL_HO_TEN={HUỲNH THU TRANG}
+DDPL_NGAY_SINH={19/02/2001}
+DDPL_SO_GIAY_PHAP_LY={096301005782}
+DDPL_NGAY_CAP={27/01/2026}
+DDPL_NOI_CAP={Bộ Công An}
+DDPL_GIOI_TINH={Nữ}
+DDPL_QUOC_TICH={Việt Nam}
+DDPL_THUONG_TRU_0={Ấp Kênh Ngang}
+DDPL_THUONG_TRU_1={Xã Tân Lộc}
+DDPL_THUONG_TRU_2={Tỉnh Cà Mau}
+DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
+DDPL_LIEN_LAC_0={Ấp Kênh Ngang}
+DDPL_LIEN_LAC_1={Xã Tân Lộc}
+DDPL_LIEN_LAC_2={Tỉnh Cà Mau}
+DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
+DDPL_DIEN_THOAI={}
+DDPL_EMAIL={}
+
+UY_QUYEN_HO_TEN={HUỲNH THU TRANG}
+UY_QUYEN_NGAY_SINH={19/02/2001}
+UY_QUYEN_SO_GIAY_PHAP_LY={096301005782}
+UY_QUYEN_NGAY_CAP={27/01/2026}
+UY_QUYEN_NOI_CAP={Bộ Công An}
+UY_QUYEN_GIOI_TINH={Nữ}
+UY_QUYEN_QUOC_TICH={Việt Nam}
+UY_QUYEN_LIEN_LAC_0={Ấp Kênh Ngang}
+UY_QUYEN_LIEN_LAC_1={Xã Tân Lộc}
+UY_QUYEN_LIEN_LAC_2={Tỉnh Cà Mau}
+UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
+UY_QUYEN_DIEN_THOAI={0856268070}
+UY_QUYEN_EMAIL={congtytmdvxiangyu@gmail.com}
+NGAY_KY={22/7/2026}
+
+DANH_SACH_NGANH_NGHE_BEGIN={}
+5610;Nhà hàng và các dịch vụ ăn uống phục vụ lưu động;Ngành chính
+
+5621;Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng;
+
+5629;Dịch vụ ăn uống khác;
+
+5630;Dịch vụ phục vụ đồ uống;
+
+4631;Bán buôn gạo, lúa mỳ, sản phẩm từ ngũ cốc khác, bột mỳ;
+
+4632;Bán buôn thực phẩm;
+
+5640;Hoạt động dịch vụ trung gian cho dịch vụ ăn uống;
+
+5510;Khách sạn và dịch vụ lưu trú tương tự;
+
+5520;Dịch vụ lưu trú ngắn ngày khác;
+
+4633;Bán buôn đồ uống;
+
+4634;Bán buôn sản phẩm thuốc lá, thuốc lào;
+DANH_SACH_NGANH_NGHE_END={}
