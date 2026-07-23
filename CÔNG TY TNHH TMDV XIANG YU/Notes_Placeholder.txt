@@ -3,7 +3,7 @@ TEN_CTY_TIENG_ANH={XIANG YU TMDV COMPANY LIMITED}
 TEN_CTY_VIET_TAT={XIANG YU TMDV CO., LTD}
 
 
-TRU_SO_0={Số nhà B5M khu nhà ở Hoàng Mai, đường DT 747A, tổ 5, khu phố Uyên Hưng 7}
+TRU_SO_0={Căn B5, Khu dân cư Hoàng Mai, Đường ĐT747A , Tổ 5, Khu Phố 7}
 TRU_SO_1={Phường Tân Uyên}
 TRU_SO_2={Thành phố Hồ Chí Minh}
 TRU_SO_DIEN_THOAI={0856268070}
