@@ -1,0 +1,11 @@
+Hoàn thiện hóa đơn cho công ty [TÊN CÔNG TY], kỳ [THÁNG/NĂM].
+
+Hãy đọc `Prompt_Project_Nhap_hoa_don_4_cong_ty.md` và Sổ chứng từ gốc tương ứng trong nguồn Project, rồi trực tiếp xử lý các file mua vào/bán ra tôi đính kèm theo toàn bộ quy tắc đã chốt.
+
+Tồn kho gửi kèm chốt đến ngày [NGÀY], [ĐÃ/CHƯA] bao gồm nhập và [ĐÃ/CHƯA] bao gồm xuất của kỳ đang làm.
+
+Hoàn thiện sheet Smart_KTSC_OK hoặc sheet tương đương theo tiêu đề cột thực tế. Kiểm tra tiền, thuế, mã tối đa 30 ký tự, diễn giải tối đa 255 ký tự, tờ khai bán ra và tồn kho 1561 trước khi trả file.
+
+Phần chưa đủ căn cứ: tô vàng và ghi rõ tại GHICHU. Hoàn thành các phần còn lại, không chờ xác nhận lại những quy tắc đã có trong MD.
+
+Yêu cầu bổ sung kỳ này: [GHI NẾU CÓ].
