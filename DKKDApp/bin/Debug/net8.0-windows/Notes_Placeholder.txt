@@ -1,73 +1,77 @@
-TEN_CTY_TIENG_VIET={CÔNG TY TNHH HOTEL NEW SKY 3}
-TEN_CTY_TIENG_ANH={HOTEL NEW SKY 3 COMPANY LIMITED}
-TEN_CTY_VIET_TAT={HOTEL NEW SKY 3}
+TEN_CTY_TIENG_VIET={CÔNG TY TNHH THIẾT BỊ MÁY MÓC MINH THÀNH}
+TEN_CTY_TIENG_ANH={MINH THANH MACHINERY AND EQUIPMENT COMPANY LIMITED}
+TEN_CTY_VIET_TAT={MINH THANH M&E CO., LTD}
 
 
-TRU_SO_0={Số Ô 77-79 Đường DA7, KĐC Việt Sing, khu phố Hoà Lân 3}
-TRU_SO_1={Phường Thuận Giao}
+TRU_SO_0={Thửa đất số 471, tờ bản đồ số 59, tổ 5, khu phố Uyên Hưng 7}
+TRU_SO_1={Phường Tân Uyên}
 TRU_SO_2={Thành phố Hồ Chí Minh}
-TRU_SO_DIEN_THOAI={0762761603}
+TRU_SO_DIEN_THOAI={0842528989}
 TRU_SO_EMAIL={}
 SO_LAO_DONG={2}
-VON_DIEU_LE_VND={1.000.000.000}
-VON_DIEU_LE_CHU={Một tỷ đồng}
+VON_DIEU_LE_VND={5.000.000.000}
+VON_DIEU_LE_CHU={Năm tỷ đồng}
 
-CSH_HO_TEN={VÕ VĂN HẢI}
-CSH_NGAY_SINH={28/03/1999}
-CSH_SO_GIAY_PHAP_LY={052099015879}
-CSH_NGAY_CAP={29/10/2024}
+CSH_HO_TEN={TRẦN QUỐC TOÀN}
+CSH_NGAY_SINH={19/05/1997}
+CSH_SO_GIAY_PHAP_LY={096097002640}
+CSH_NGAY_CAP={11/08/2022}
 CSH_NOI_CAP={Bộ Công An}
 CSH_GIOI_TINH={Nam}
 CSH_QUOC_TICH={Việt Nam}
-CSH_THUONG_TRU_0={Thôn Thắng Hùng}
-CSH_THUONG_TRU_1={Xã Cát Tiến}
-CSH_THUONG_TRU_2={Tỉnh Gia Lai}
+CSH_THUONG_TRU_0={Ấp Đường Kéo}
+CSH_THUONG_TRU_1={Xã Tân Ân}
+CSH_THUONG_TRU_2={Tỉnh Cà Mau}
 CSH_THUONG_TRU_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_0={Thôn Thắng Hùng}
-CSH_LIEN_LAC_1={Xã Cát Tiến}
-CSH_LIEN_LAC_2={Tỉnh Gia Lai}
+CSH_LIEN_LAC_0={Ấp Đường Kéo}
+CSH_LIEN_LAC_1={Xã Tân Ân}
+CSH_LIEN_LAC_2={Tỉnh Cà Mau}
 CSH_LIEN_LAC_QUOC_GIA={Việt Nam}
-CSH_LIEN_LAC_FULL={Thôn Thắng Hùng, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam}
+CSH_LIEN_LAC_FULL={Ấp Đường Kéo, Xã Tân Ân, Tỉnh Cà Mau, Việt Nam}
 CSH_DIEN_THOAI={}
 CSH_EMAIL={}
 
 DDPL_CHUC_VU={Giám đốc}
-DDPL_HO_TEN={VÕ VĂN HẢI}
-DDPL_NGAY_SINH={28/03/1999}
-DDPL_SO_GIAY_PHAP_LY={052099015879}
-DDPL_NGAY_CAP={29/10/2024}
+DDPL_HO_TEN={TRẦN QUỐC TOÀN}
+DDPL_NGAY_SINH={19/05/1997}
+DDPL_SO_GIAY_PHAP_LY={096097002640}
+DDPL_NGAY_CAP={11/08/2022}
 DDPL_NOI_CAP={Bộ Công An}
 DDPL_GIOI_TINH={Nam}
 DDPL_QUOC_TICH={Việt Nam}
-DDPL_THUONG_TRU_0={Thôn Thắng Hùng}
-DDPL_THUONG_TRU_1={Xã Cát Tiến}
-DDPL_THUONG_TRU_2={Tỉnh Gia Lai}
+DDPL_THUONG_TRU_0={Ấp Đường Kéo}
+DDPL_THUONG_TRU_1={Xã Tân Ân}
+DDPL_THUONG_TRU_2={Tỉnh Cà Mau}
 DDPL_THUONG_TRU_QUOC_GIA={Việt Nam}
-DDPL_LIEN_LAC_0={Thôn Thắng Hùng}
-DDPL_LIEN_LAC_1={Xã Cát Tiến}
-DDPL_LIEN_LAC_2={Tỉnh Gia Lai}
+DDPL_LIEN_LAC_0={Ấp Đường Kéo}
+DDPL_LIEN_LAC_1={Xã Tân Ân}
+DDPL_LIEN_LAC_2={Tỉnh Cà Mau}
 DDPL_LIEN_LAC_QUOC_GIA={Việt Nam}
 DDPL_DIEN_THOAI={}
 DDPL_EMAIL={}
 
-UY_QUYEN_HO_TEN={VÕ VĂN HẢI}
-UY_QUYEN_NGAY_SINH={28/03/1999}
-UY_QUYEN_SO_GIAY_PHAP_LY={052099015879}
-UY_QUYEN_NGAY_CAP={29/10/2024}
+UY_QUYEN_HO_TEN={TRẦN QUỐC TOÀN}
+UY_QUYEN_NGAY_SINH={19/05/1997}
+UY_QUYEN_SO_GIAY_PHAP_LY={096097002640}
+UY_QUYEN_NGAY_CAP={11/08/2022}
 UY_QUYEN_NOI_CAP={Bộ Công An}
 UY_QUYEN_GIOI_TINH={Nam}
 UY_QUYEN_QUOC_TICH={Việt Nam}
-UY_QUYEN_LIEN_LAC_0={Thôn Thắng Hùng}
-UY_QUYEN_LIEN_LAC_1={Xã Cát Tiến}
-UY_QUYEN_LIEN_LAC_2={Tỉnh Gia Lai}
+UY_QUYEN_LIEN_LAC_0={Ấp Đường Kéo}
+UY_QUYEN_LIEN_LAC_1={Xã Tân Ân}
+UY_QUYEN_LIEN_LAC_2={Tỉnh Cà Mau}
 UY_QUYEN_LIEN_LAC_QUOC_GIA={Việt Nam}
-UY_QUYEN_DIEN_THOAI={0762761603}
-UY_QUYEN_EMAIL={hotelnewsky3@gmail.com}
-NGAY_KY={29/09/2026}
+UY_QUYEN_DIEN_THOAI={0842528989}
+UY_QUYEN_EMAIL={thietbimaymocminhthanh@gmail.com}
+NGAY_KY={12/11/2026}
 
 DANH_SACH_NGANH_NGHE_BEGIN={}
-5510;Khách sạn và dịch vụ lưu trú tương tự;Ngành chính
-
-5520;Dịch vụ lưu trú ngắn ngày khác;
+4659;Bán buôn máy móc, thiết bị và phụ tùng máy khác;Ngành chính
+4662;Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác;
+3312;Sửa chữa, bảo dưỡng máy móc, thiết bị;
+3320;Lắp đặt máy móc và thiết bị công nghiệp;
+2592;Gia công cơ khí; xử lý và tráng phủ kim loại;
+4649;Bán buôn đồ dùng khác cho gia đình;
+4679;Bán buôn chuyên doanh khác chưa được phân vào đâu;
 
 DANH_SACH_NGANH_NGHE_END={}
